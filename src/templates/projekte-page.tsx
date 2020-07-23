@@ -57,7 +57,7 @@ ProjektePage.propTypes = {
 export default ProjektePage
 
 export const projekteQuery = graphql`
-      query VorstandMembersQuery {
+      query ProjekteQuery {
           allMarkdownRemark(
             filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
         ) {
