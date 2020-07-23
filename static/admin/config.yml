@@ -21,7 +21,6 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime"}
-      - {label: "Kurzbeschreibung", name: "shortdescription", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "vorstand"
@@ -104,6 +103,11 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/news/index.md"
+        label: "News"
+        name: "news"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-list"}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

@@ -6,6 +6,7 @@ import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
+import NewsPostPreview from './preview-templates/NewsPostPreview'
 
 CMS.registerMediaLibrary(uploadcare)
 CMS.registerMediaLibrary(cloudinary)
@@ -14,3 +15,4 @@ CMS.registerPreviewTemplate('index', IndexPagePreview as any)
 CMS.registerPreviewTemplate('about', AboutPagePreview as any)
 CMS.registerPreviewTemplate('products', ProductPagePreview as any)
 CMS.registerPreviewTemplate('blog', BlogPostPreview as any)
+CMS.registerPreviewTemplate('news', NewsPostPreview as any)
