@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
+import Layout from '../components/Layout'
 
 interface IProps {
   data: any;
@@ -14,39 +15,43 @@ class NewsList extends React.Component<IProps, {}> {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="columns is-multiline">
-        {posts &&
-          posts.map(({ node: post }: { node: any }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={`blog-list-item tile is-child box notification`}
-              >
-                <header>
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </article>
+      <Layout>
+        <section className="section">
+          <div className="container content">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <div className="section">
+                  <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                    News
+              </h1>{posts &&
+                    posts.map(({ node: post }: { node: any }) => (
+                      <div className="column is-6" key={post.id}>
+                        <article
+                        >
+                          <header>
+                            <p className="post-meta">
+                              <Link
+                                className="title has-text-primary is-size-4"
+                                to={post.fields.slug}
+                              >{post.frontmatter.title}</Link>
+                              <br/>
+                              <span className="subtitle is-6 is-block">
+                                Veröffentlicht am: {post.frontmatter.date}
+                              </span>
+                            </p>
+                          </header>
+                          <p>
+                            {post.excerpt}
+                          </p>
+                        </article>
+                      </div>
+                    ))}
+                </div>
+              </div>
             </div>
-          ))}
-      </div>
+          </div>
+        </section>
+      </Layout>
     )
   }
 }
@@ -77,7 +82,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "DD.MM.YYYY")
               }
             }
           }
