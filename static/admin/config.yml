@@ -104,8 +104,8 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/news/index.md"
-        label: "News"
-        name: "news"
+        label: "News-List"
+        name: "news-list"
         slug: "news"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-list"}
