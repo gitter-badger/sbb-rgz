@@ -35,7 +35,7 @@ collections:
 
   - name: "projekte"
     label: "Projekte"
-    folder: "src/pages/projekte"
+    folder: "src/pages/projekt-items"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekt-item"}
@@ -46,7 +46,6 @@ collections:
   - name: "talente"
     label: "Talente"
     folder: "src/pages/projekte/talente"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
@@ -57,7 +56,6 @@ collections:
   - name: "kochrezepte"
     label: "Kochrezepte"
     folder: "src/pages/projekte/kochrezepte"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
@@ -115,6 +113,12 @@ collections:
         name: "vorstand"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand-page"}
+          - {label: Title, name: title, widget: string}
+      - file: "src/pages/projekte/index.md"
+        label: "Projekte"
+        name: "projekte"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
           - {label: Title, name: title, widget: string}
       - file: "src/pages/products/index.md"
         label: "Products Page"
