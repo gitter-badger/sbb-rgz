@@ -21,7 +21,7 @@ const VorstandPage = ({ data }: { data: any }) => {
                   members.map(({ node: member }: { node: any }) => (
                     <div className="card">
                       <div className="card-image">
-                        <figure className="image is-4by3">
+                        <figure className="image is-square">
                           <PreviewCompatibleImage imageInfo={member.frontmatter.portrait} />
                         </figure>
                       </div>
@@ -68,9 +68,9 @@ export const vorstandPageQuery = graphql`
                 templateKey                
                 portrait {
                   alt
-                  portraitImage {
+                  image {
                     childImageSharp {
-                      fluid(maxWidth: 526, quality: 92) {
+                      fluid(maxWidth: 400, quality: 92) {
                         ...GatsbyImageSharpFluid
                       }
                     }

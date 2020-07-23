@@ -1,7 +1,7 @@
 ---
 templateKey: vorstand
 portrait:
-  portraitImage: /img/martina_schweizer.jpg
+  image: /img/portrait_placeholder.jpg
   alt: Martina Schweizer
 title: Martina Schweizer
 funktion: Vizepräsidentin

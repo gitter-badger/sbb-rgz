@@ -1,7 +1,7 @@
 ---
 templateKey: vorstand
 portrait:
-  portraitImage: /img/helen_zimmermann.jpg
+  image: /img/portrait_placeholder.jpg
   alt: Helen Zimmermann
 title: Helen Zimmermann
 funktion: Präsidentin
