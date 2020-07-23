@@ -39,7 +39,7 @@ collections:
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekt-item"}
-      - {label: "Bild", name: "bild", widget: image}
+      - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
