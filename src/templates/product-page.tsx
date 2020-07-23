@@ -17,6 +17,16 @@ export const ProductPageTemplate = ({
   testimonials,
   fullImage,
   pricing,
+}: {
+  image: any,
+  title: any,
+  heading: any,
+  description: any,
+  intro: any,
+  main: any,
+  testimonials: any,
+  fullImage: any,
+  pricing: any,
 }) => (
   <div className="content">
     <div
@@ -128,7 +138,7 @@ ProductPageTemplate.propTypes = {
   }),
 }
 
-const ProductPage = ({ data }) => {
+const ProductPage = ({ data }: { data: any }) => {
   const { frontmatter } = data.markdownRemark
 
   return (

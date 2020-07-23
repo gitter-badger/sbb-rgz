@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const Pricing = ({ data }) => (
+const Pricing = ({ data }: { data: any}) => (
   <div className="columns">
-    {data.map((price) => (
+    {data.map((price: any) => (
       <div key={price.plan} className="column">
         <section className="section">
           <h4 className="has-text-centered has-text-weight-semibold">
@@ -14,7 +14,7 @@ const Pricing = ({ data }) => (
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
           <ul>
-            {price.items.map((item) => (
+            {price.items.map((item: any) => (
               <li key={item} className="is-size-5">
                 {item}
               </li>

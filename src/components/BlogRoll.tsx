@@ -3,7 +3,13 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class BlogRoll extends React.Component {
+interface IProps {
+  data: any;
+}
+
+class BlogRoll extends React.Component<IProps, {}> {
+  static propTypes: any;
+
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -11,7 +17,7 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.map(({ node: post }: { node: any }) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
@@ -99,6 +105,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
+    render={(data: any) => <BlogRoll data={data} count={1} />}
   />
 )

@@ -1,11 +1,11 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export const HTMLContent = ({ content, className }) => (
+export const HTMLContent = ({ content, className }: { content: any, className: any }) => (
   <div className={className} dangerouslySetInnerHTML={{ __html: content }} />
 )
 
-const Content = ({ content, className }) => (
+const Content = ({ content, className }: { content: any, className: any }) => (
   <div className={className}>{content}</div>
 )
 

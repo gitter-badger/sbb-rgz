@@ -12,6 +12,60 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  - name: "news"
+    label: "News"
+    folder: "src/pages/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime"}
+      - {label: "Kurzbeschreibung", name: "shortdescription", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "vorstand"
+    label: "Vorstand"
+    folder: "src/pages/vorstand"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand"}
+      - {label: "Portrait", name: "portrait", widget: image}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Funktion", name: "funktion", widget: "string"}
+
+  - name: "projekte"
+    label: "Projekte"
+    folder: "src/pages/projekte"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekt-item"}
+      - {label: "Bild", name: "bild", widget: image}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "talente"
+    label: "Talente"
+    folder: "src/pages/projekte/talente"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Autor", name: "autor", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "kochrezepte"
+    label: "Kochrezepte"
+    folder: "src/pages/projekte/kochrezepte"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Autor", name: "autor", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
