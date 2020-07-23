@@ -108,6 +108,7 @@ collections:
         name: "news"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-list"}
+          - {label: Title, name: title, widget: string}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
