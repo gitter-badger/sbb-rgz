@@ -42,7 +42,7 @@ collections:
       - {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Link", name: "link", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Beschreibung", name: "beschreibung", widget: "string"}
 
   - name: "talente"
     label: "Talente"
@@ -120,6 +120,12 @@ collections:
         name: "projekte"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
+          - {label: Title, name: title, widget: string}
+      - file: "src/pages/projekte/kochrezepte-2020/index.md"
+        label: "Kochrezepte 2020"
+        name: "kochrezepte-2020"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-2020-page"}
           - {label: Title, name: title, widget: string}
       - file: "src/pages/products/index.md"
         label: "Products Page"

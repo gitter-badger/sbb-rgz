@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Img from 'gatsby-image'
 
@@ -15,7 +15,7 @@ const ProjektePage = ({ data }: { data: any }) => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                  Vorstand
+                  Projekte
           </h1><div className="tile is-ancestor is-vertical">{projekte &&
                   projekte.map(({ node: projekt }: { node: any }) => (
                     <div className="tile">
@@ -28,9 +28,9 @@ const ProjektePage = ({ data }: { data: any }) => {
                         <div className="media-content">
                           <div className="content">
                             <p>
-                              <strong>{projekt.frontmatter.title}</strong>
+                              <Link className="has-text-primary" to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link>
                               <br />
-                              {projekt.frontmatter.body}
+                              {projekt.frontmatter.beschreibung}
                             </p>
                           </div>
                         </div>
@@ -63,10 +63,12 @@ export const projekteQuery = graphql`
         ) {
           edges {
           node {
-          id
+              id
               frontmatter {
                 title
+                link
                 templateKey
+                beschreibung
                 bild {
                   alt
                   image {
