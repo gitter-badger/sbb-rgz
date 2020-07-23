@@ -25,7 +25,7 @@ collections:
 
   - name: "vorstand"
     label: "Vorstand"
-    folder: "src/pages/vorstand"
+    folder: "src/pages/vorstand-members"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand"}
@@ -110,6 +110,12 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "news-page"}
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/vorstand/index.md"
+        label: "Vorstand"
+        name: "vorstand"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand-page"}
+          - {label: Title, name: title, widget: string}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

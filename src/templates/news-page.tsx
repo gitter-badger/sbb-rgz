@@ -61,7 +61,7 @@ NewsList.propTypes = {
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
     }),
-  }),
+  })
 }
 
 export default () => (
