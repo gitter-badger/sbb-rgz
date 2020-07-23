@@ -29,7 +29,7 @@ collections:
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand"}
-      - {label: "Portrait", name: "portrait", widget: object, fields: [{label: PortraitImage, name: portraitImage, widget: image}, {label: Alt, name: alt, widget: string}]}
+      - {label: "Portrait", name: "portrait", widget: object, fields: [{label: PortraitImage, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Funktion", name: "funktion", widget: "string"}
 

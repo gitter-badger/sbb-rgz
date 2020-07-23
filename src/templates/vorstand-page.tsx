@@ -22,14 +22,14 @@ const VorstandPage = ({ data }: { data: any }) => {
                     <div className="card">
                       <div className="card-image">
                         <figure className="image is-4by3">
-                          <PreviewCompatibleImage imageInfo={member.portrait} />
+                          <PreviewCompatibleImage imageInfo={member.frontmatter.portrait} />
                         </figure>
                       </div>
                       <div className="card-content">
                         <div className="media">
                           <div className="media-content">
-                            <p className="title is-4">{member.title}</p>
-                            <p className="subtitle is-6">{member.funktion}</p>
+                            <p className="title is-4">{member.frontmatter.title}</p>
+                            <p className="subtitle is-6">{member.frontmatter.funktion}</p>
                           </div>
                         </div>
                       </div>
@@ -64,7 +64,18 @@ export const vorstandPageQuery = graphql`
               id
               frontmatter {
                 title
-                templateKey
+                funktion
+                templateKey                
+                portrait {
+                  alt
+                  portraitImage {
+                    childImageSharp {
+                      fluid(maxWidth: 526, quality: 92) {
+                        ...GatsbyImageSharpFluid
+                      }
+                    }
+                  }
+                }
               }
             }
           }
