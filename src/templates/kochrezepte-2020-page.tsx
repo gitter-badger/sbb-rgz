@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 import algoliasearch from 'algoliasearch';
 
-const searchClient = algoliasearch(process.env.ALGOLIA_APPLICATION_ID!, process.env.ALGOLIA_SEARCH_KEY!);
+const searchClient = algoliasearch(process.env.GATSBY_ALGOLIA_APPLICATION_ID!, process.env.GATSBY_ALGOLIA_SEARCH_KEY!);
 
 function Hit(props: any) {
   return (
@@ -29,7 +29,7 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                   Kochrezepte
           </h1>
-                <InstantSearch searchClient={searchClient} indexName={process.env.ALGOLIA_INDEX!}>
+                <InstantSearch searchClient={searchClient} indexName={process.env.GATSBY_ALGOLIA_INDEX!}>
                   <SearchBox />
                   <Hits hitComponent={Hit} />
                 </InstantSearch>
