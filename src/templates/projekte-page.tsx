@@ -59,6 +59,7 @@ export default ProjektePage
 export const projekteQuery = graphql`
       query ProjekteQuery {
           allMarkdownRemark(
+            sort: { order: ASC, fields: [frontmatter___reihenfolge] }
             filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
         ) {
           edges {

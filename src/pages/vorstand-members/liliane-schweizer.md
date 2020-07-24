@@ -5,4 +5,5 @@ portrait:
   alt: Liliane Schweizer
 title: Liliane Schweizer
 funktion: Aktuarin
+reihenfolge: 3
 ---

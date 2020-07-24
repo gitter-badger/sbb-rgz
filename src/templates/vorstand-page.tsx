@@ -20,18 +20,20 @@ const VorstandPage = ({ data }: { data: any }) => {
                   Vorstand
           </h1><div className="tile is-ancestor">{members &&
                   members.map(({ node: member }: { node: any }) => (
-                    <div className="tile">
-                      <div className="card">
-                        <div className="card-image">
-                          <figure className="image">
-                            <Img fluid={member.frontmatter.portrait.image.childImageSharp.fluid} alt={member.frontmatter.portrait.alt} />
-                          </figure>
-                        </div>
-                        <div className="card-content">
-                          <div className="media">
-                            <div className="media-content">
-                              <p className="title is-4">{member.frontmatter.title}</p>
-                              <p className="subtitle is-6">{member.frontmatter.funktion}</p>
+                    <div className="tile is-4 is-parent">
+                      <div className="tile is-child">
+                        <div className="card">
+                          <div className="card-image">
+                            <figure className="image">
+                              <Img fluid={member.frontmatter.portrait.image.childImageSharp.fluid} alt={member.frontmatter.portrait.alt} />
+                            </figure>
+                          </div>
+                          <div className="card-content">
+                            <div className="media">
+                              <div className="media-content">
+                                <p className="title is-4">{member.frontmatter.title}</p>
+                                <p className="subtitle is-6">{member.frontmatter.funktion}</p>
+                              </div>
                             </div>
                           </div>
                         </div>
@@ -60,6 +62,7 @@ export default VorstandPage
 export const vorstandPageQuery = graphql`
       query VorstandMembersQuery {
           allMarkdownRemark(
+            sort: { order: ASC, fields: [frontmatter___reihenfolge] }
             filter: {frontmatter: {templateKey: {eq: "vorstand" } } }
         ) {
           edges {
