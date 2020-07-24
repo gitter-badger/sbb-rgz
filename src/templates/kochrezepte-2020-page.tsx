@@ -17,7 +17,7 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                  Vorstand
+                  Kochrezepte
           </h1><div className="tile is-ancestor">{recipes &&
                   recipes.map(({ node: recipe }: { node: any }) => (
                     <p><Link className="has-text-primary" to={recipe.fields.slug}>{recipe.frontmatter.title}</Link></p>
