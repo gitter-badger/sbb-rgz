@@ -1,7 +1,6 @@
 ---
 templateKey: talent-item
 title: Erika Müller
-autor: abc
 ---
 ![Portrait von Erika Müller](/img/erika_müller.jpg "Erika Müller")
 

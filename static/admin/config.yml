@@ -51,7 +51,6 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Autor", name: "autor", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "kochrezepte"
@@ -132,6 +131,12 @@ collections:
         name: "kochrezepte-2020"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-2020-page"}
+          - {label: Title, name: title, widget: string}
+      - file: "src/pages/projekte/talente-2020/index.md"
+        label: "Talente 2020"
+        name: "talente-2020"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talente-2020-page"}
           - {label: Title, name: title, widget: string}
       - file: "src/pages/products/index.md"
         label: "Products Page"
