@@ -26,23 +26,19 @@ zubereitung: >-
   **Knöpfli Teig:**
 
 
-  \* 2 Tassen Mehl
+  * 2 Tassen Mehl
 
+  * 2 Eier verquirlt
 
-  \* 2 Eier verquirlt
+  * 1 kleiner Teelöffel Salz
 
-
-  \* 1 kleiner Teelöffel Salz
-
-
-  \* etwas Wasser und Quark
+  * etwas Wasser und Quark
 
 
   Alles mischen und rühren/klopfen bis der Teil Blasen wirft. Alle Zutaten beigeben und gut durchrühren. Der Teig sollte fest sein, damit man ihn gut in die Blätter einwickeln kann. Jeweils quadratische Blätter (ca. 6 x 6 cm) gross) schneiden
 
 
   Braten:
-
 
   Die eingewickelten Capuns der Grösse von 3-5 cm-Länge
 
