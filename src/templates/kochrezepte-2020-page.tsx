@@ -1,12 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Img from 'gatsby-image'
 
 const Kochrezepte2020Page = ({ data }: { data: any }) => {
-  const { edges: members } = data.allMarkdownRemark;
+  const { edges: recipes } = data.allMarkdownRemark;
 
   return (
 
@@ -18,25 +18,9 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
               <div className="section">
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                   Vorstand
-          </h1><div className="tile is-ancestor">{members &&
-                  members.map(({ node: member }: { node: any }) => (
-                    <div className="tile">
-                      <div className="card">
-                        <div className="card-image">
-                          <figure className="image">
-                            <Img fixed={member.frontmatter.portrait.image.childImageSharp.fixed} alt={member.frontmatter.portrait.alt} />
-                          </figure>
-                        </div>
-                        <div className="card-content">
-                          <div className="media">
-                            <div className="media-content">
-                              <p className="title is-4">{member.frontmatter.title}</p>
-                              <p className="subtitle is-6">{member.frontmatter.funktion}</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+          </h1><div className="tile is-ancestor">{recipes &&
+                  recipes.map(({ node: recipe }: { node: any }) => (
+                    <p><Link className="has-text-primary" to={recipe.fields.slug}>{recipe.frontmatter.title}</Link></p>
                   ))}</div>
               </div>
             </div>
@@ -65,20 +49,11 @@ export const kochrezepte2020Query = graphql`
           edges {
             node {
               id
+              fields {
+                slug
+              }
               frontmatter {
                 title
-                funktion
-                templateKey                
-                portrait {
-                  alt
-                  image {
-                    childImageSharp {
-                      fixed(width: 400, quality: 92) {
-                        ...GatsbyImageSharpFixed
-                      }
-                    }
-                  }
-                }
               }
             }
           }

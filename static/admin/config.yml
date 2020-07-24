@@ -66,9 +66,9 @@ collections:
       - {label: "Vorbereitungszeit", name: "vorbereitungszeit", widget: "string"}
       - {label: "Koch-/Backzeit", name: "kochzeit", widget: "string"}
       - {label: "Quelle", name: "quelle", widget: "string"}
-      - {label: "Zutaten", name: "zutaten", widget: "markdown"}
-      - {label: "Zubereitung", name: "zubereitung", widget: "markdown"}
-      - {label: "Tipps", name: "tipps", widget: "markdown"}
+      - {label: "Zutaten", name: "zutaten", widget: "text"}
+      - {label: "Zubereitung", name: "zubereitung", widget: "text"}
+      - {label: "Tipps", name: "tipps", widget: "text"}
 
   - name: "blog"
     label: "Blog"
