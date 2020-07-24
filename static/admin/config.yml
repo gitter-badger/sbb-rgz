@@ -60,14 +60,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Autor", name: "autor", widget: "string"}
-      - {label: "Menge", name: "menge", widget: "string"}
-      - {label: "Vorbereitungszeit", name: "vorbereitungszeit", widget: "string"}
-      - {label: "Koch-/Backzeit", name: "kochzeit", widget: "string"}
-      - {label: "Quelle", name: "quelle", widget: "string"}
-      - {label: "Zutaten", name: "zutaten", widget: "text"}
-      - {label: "Zubereitung", name: "zubereitung", widget: "text"}
-      - {label: "Tipps", name: "tipps", widget: "text"}
+      - {label: "body", name: "body", widget: "markdown"}
 
   - name: "blog"
     label: "Blog"

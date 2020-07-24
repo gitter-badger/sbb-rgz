@@ -1,6 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Capuns aus dem Medelsertal
+---
 autor: Cecilia Rey-Lutz
 menge: 3-4 Personen
 vorbereitungszeit: 1 Stunde
@@ -15,7 +16,7 @@ zutaten: "- 400g Knöpfliteig<br>
   - etwas Gemüsebouillon<br>
   - 1 dl Rahm oder Kaffeerahm für die Sauce<br>
   - Reibkäse"
-zubereitung: >-
+zubereitung:
   Knöpfli Teig:<br>
   - 2 Tassen Mehl<br>
   - 2 Eier verquirlt<br>
@@ -29,4 +30,3 @@ zubereitung: >-
 
   Dazu passt - farblich gesehen- ein Tomatensalat.
 tipps: Keine
----

@@ -7,25 +7,11 @@ import Content, { HTMLContent } from '../components/Content'
 
 export const KochrezeptTemplate = ({
   title,
-  autor,
-  menge,
-  vorbereitungszeit,
-  kochzeit,
-  quelle,
-  zutaten,
-  zubereitung,
-  tipps,
+  content,
   helmet,
 }: {
   title: any,
-  autor: any,
-  menge: any,
-  vorbereitungszeit: any,
-  kochzeit: any,
-  quelle: any,
-  zutaten: any,
-  zubereitung: any,
-  tipps: any,
+  content: any,
   helmet: any,
 }) => {
   return (
@@ -38,25 +24,9 @@ export const KochrezeptTemplate = ({
               <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                 {title}
               </h1>
-              <p className="subtitle is-size-6">{autor}</p>
             </header>
             <section>
-              <p>Menge: {menge}</p>
-              <p>Vorbereitungszeit: {vorbereitungszeit}</p>
-              <p>Kochzeit: {kochzeit}</p>
-              <p>Quelle: {quelle}</p>
-            </section>
-            <section>
-              <h2>Zutaten</h2>
-              <div dangerouslySetInnerHTML={{ __html: zutaten }} />
-            </section>
-            <section>
-              <h2>Zubereitung</h2>
-              <div dangerouslySetInnerHTML={{ __html: zubereitung }} />
-            </section>
-            <section>
-              <h2>Tipps</h2>
-              <div dangerouslySetInnerHTML={{ __html: tipps }} />
+              <HTMLContent content={content} />
             </section>
           </div>
         </div>
@@ -81,14 +51,7 @@ const Kochrezept = ({ data }: { data: any }) => {
           </Helmet>
         }
         title={recipe.frontmatter.title}
-        autor={recipe.frontmatter.autor}
-        menge={recipe.frontmatter.menge}
-        vorbereitungszeit={recipe.frontmatter.vorbereitungszeit}
-        kochzeit={recipe.frontmatter.kochzeit}
-        quelle={recipe.frontmatter.quelle}
-        zutaten={recipe.frontmatter.zutaten}
-        zubereitung={recipe.frontmatter.zubereitung}
-        tipps={recipe.frontmatter.tipps}
+        content={recipe.html}
       />
     </Layout>
   )
@@ -109,15 +72,7 @@ export const kochrezeptQuery = graphql`
       html
       frontmatter {
         title
-        autor
-        templateKey                
-        menge
-        vorbereitungszeit
-        kochzeit
-        quelle
-        zutaten
-        zubereitung
-        tipps
+        templateKey
       }
     }
   }

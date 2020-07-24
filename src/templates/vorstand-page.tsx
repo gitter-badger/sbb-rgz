@@ -24,7 +24,7 @@ const VorstandPage = ({ data }: { data: any }) => {
                       <div className="card">
                         <div className="card-image">
                           <figure className="image">
-                            <Img fixed={member.frontmatter.portrait.image.childImageSharp.fixed} alt={member.frontmatter.portrait.alt} />
+                            <Img fluid={member.frontmatter.portrait.image.childImageSharp.fluid} alt={member.frontmatter.portrait.alt} />
                           </figure>
                         </div>
                         <div className="card-content">
@@ -73,8 +73,8 @@ export const vorstandPageQuery = graphql`
                   alt
                   image {
                     childImageSharp {
-                      fixed(width: 400, quality: 92) {
-                        ...GatsbyImageSharpFixed
+                      fluid(maxWidth: 400, quality: 92) {
+                        ...GatsbyImageSharpFluid
                       }
                     }
                   }
