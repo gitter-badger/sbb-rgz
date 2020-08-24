@@ -16,25 +16,26 @@ const ProjektePage = ({ data }: { data: any }) => {
               <div className="section">
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
                   Projekte
-          </h1><div className="tile is-ancestor is-vertical">{projekte &&
+          </h1><div className="tile is-ancestor">{projekte &&
                   projekte.map(({ node: projekt }: { node: any }) => (
-                    <div className="tile">
-                      <article className="media">
-                        <figure className="media-left">
-                          <p className="image">
-                            <Img fixed={projekt.frontmatter.bild.image.childImageSharp.fixed} alt={projekt.frontmatter.bild.alt} />
-                          </p>
-                        </figure>
-                        <div className="media-content">
-                          <div className="content">
-                            <p>
-                              <Link className="has-text-primary" to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link>
-                              <br />
-                              {projekt.frontmatter.beschreibung}
-                            </p>
+                    <div className="tile is-6 is-parent">
+                      <div className="tile is-child">
+                        <div className="card">
+                          <div className="card-image">
+                            <figure className="image">
+                              <Link to={projekt.frontmatter.link}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
+                            </figure>
+                          </div>
+                          <div className="card-content">
+                            <div className="media">
+                              <div className="media-content">
+                                <p className="title is-4"><Link className="has-text-primary" to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link></p>
+                                <p className="subtitle is-6">{projekt.frontmatter.beschreibung}</p>
+                              </div>
+                            </div>
                           </div>
                         </div>
-                      </article>
+                      </div>
                     </div>
                   ))}</div>
               </div>
@@ -74,8 +75,8 @@ export const projekteQuery = graphql`
                   alt
                   image {
                     childImageSharp {
-                      fixed(width: 500, quality: 92) {
-                        ...GatsbyImageSharpFixed
+                      fluid(maxWidth: 400, quality: 92) {
+                        ...GatsbyImageSharpFluid
                       }
                     }
                   }
