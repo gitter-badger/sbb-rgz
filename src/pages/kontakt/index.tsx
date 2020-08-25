@@ -2,23 +2,23 @@ import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 
-function encode(data) {
+function encode(data: any) {
   return Object.keys(data)
     .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
     .join('&')
 }
 
 export default class Index extends React.Component {
-  constructor(props) {
+  constructor(props: any) {
     super(props)
     this.state = { isValidated: false }
   }
 
-  handleChange = (e) => {
+  handleChange = (e: any) => {
     this.setState({ [e.target.name]: e.target.value })
   }
 
-  handleSubmit = (e) => {
+  handleSubmit = (e: any) => {
     e.preventDefault()
     const form = e.target
     fetch('/', {
@@ -39,11 +39,11 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Kontakt</h1>
               <form
                 name="contact"
                 method="post"
-                action="/contact/thanks/"
+                action="/kontakt/danke/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -52,13 +52,13 @@ export default class Index extends React.Component {
                 <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
+                    Nicht ausfüllen:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Name
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Nachricht
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Abschicken
                   </button>
                 </div>
               </form>
