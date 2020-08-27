@@ -19,7 +19,6 @@ export const AktivitaetPostTemplate = ({
   title,
   date,
   anmeldeformularanzeigen,
-  slug,
   helmet,
 }: {
   content: any,
@@ -27,7 +26,6 @@ export const AktivitaetPostTemplate = ({
   title: any,
   date: any,
   anmeldeformularanzeigen: any,
-  slug: any,
   helmet: any,
 }) => {
   const PostContent = contentComponent || Content
@@ -69,7 +67,7 @@ export const AktivitaetPostTemplate = ({
                   Anmeldeformular
               </h2>
                 <form
-                  name={slug}
+                  name={date + '-' + title}
                   method="post"
                   action="/kontakt/danke/"
                   data-netlify="true"
@@ -170,7 +168,6 @@ const AktivitaetPost = ({ data }: { data: any }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         anmeldeformularanzeigen={post.frontmatter.anmeldeformularanzeigen}
-        slug={post.id}
       />
     </Layout>
   )
@@ -189,9 +186,6 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
-      fields {
-        slug
-      }
       frontmatter {
         date(formatString: "DD.MM.YYYY")
         title
