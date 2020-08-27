@@ -1,7 +1,12 @@
 ---
-templateKey: 'impressum-page'
+templateKey: impressum-page
 path: /impressum
 title: Impressum
 ---
-### Test
-test
+## Verantwortung für den Inhalt
+
+Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.
+
+## Verantwortung für die Realisierung
+
+Andrin Meier
