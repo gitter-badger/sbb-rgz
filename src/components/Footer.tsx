@@ -10,9 +10,9 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-light">
-        <div className="content has-text-centered has-background-light">
-          <div className="container has-background-light">
+      <footer className="footer">
+        <div className="content has-text-centered">
+          <div className="container">
             <div style={{ maxWidth: '100vw' }} className="columns">
               <div className="column is-4">
                 <section className="menu">
