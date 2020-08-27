@@ -9,11 +9,13 @@ export const AktivitaetPostTemplate = ({
   content,
   contentComponent,
   title,
+  date,
   helmet,
 }: {
   content: any,
   contentComponent: any,
   title: any,
+  date: any,
   helmet: any,
 }) => {
   const PostContent = contentComponent || Content
@@ -25,7 +27,7 @@ export const AktivitaetPostTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-1">
-              {title}
+            {date} - {title}
             </h1>
             <PostContent content={content} />
           </div>
@@ -60,6 +62,7 @@ const AktivitaetPost = ({ data }: { data: any }) => {
           </Helmet>
         }
         title={post.frontmatter.title}
+        date={post.frontmatter.date}
       />
     </Layout>
   )
@@ -79,7 +82,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD.MM.YYYY")
         title
       }
     }
