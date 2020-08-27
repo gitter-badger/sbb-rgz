@@ -21,6 +21,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaet-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Veranstaltungsdatum", name: "date", widget: "datetime"}
+      - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "vorstand"
