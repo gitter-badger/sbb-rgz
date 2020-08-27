@@ -170,7 +170,7 @@ const AktivitaetPost = ({ data }: { data: any }) => {
         title={post.frontmatter.title}
         date={post.frontmatter.date}
         anmeldeformularanzeigen={post.frontmatter.anmeldeformularanzeigen}
-        slug={post.fields.slug}
+        slug={post.id}
       />
     </Layout>
   )

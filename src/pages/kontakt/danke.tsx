@@ -16,7 +16,7 @@ export default () => (
               <h1 className="title is-size-2">
                 Danke!
               </h1>
-              <p>Wir haben deine Nachricht erhalten und melden uns baldmöglichst.</p>
+              <p>Wir haben deine Nachricht erhalten.</p>
             </div>
           </div>
         </div>
