@@ -49,7 +49,7 @@ const Footer = class extends React.Component {
           </div>
         </div>
         <div className="content has-text-centered">
-          <p>© RGZ - Schweizerischer Blindenbund 2020</p>
+          <p>© RGZ - Schweizerischer Blindenbund 2020 | <Link to="/impressum">Impressum</Link></p>
         </div>
       </footer>
     )
