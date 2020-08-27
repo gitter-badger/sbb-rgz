@@ -5,7 +5,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const NewsPostTemplate = ({
+export const AktivitaetPostTemplate = ({
   content,
   contentComponent,
   title,
@@ -35,19 +35,19 @@ export const NewsPostTemplate = ({
   )
 }
 
-NewsPostTemplate.propTypes = {
+AktivitaetPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   title: PropTypes.string,
   helmet: PropTypes.object,
 }
 
-const NewsPost = ({ data }: { data: any }) => {
+const AktivitaetPost = ({ data }: { data: any }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <NewsPostTemplate
+      <AktivitaetPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         helmet={
@@ -65,16 +65,16 @@ const NewsPost = ({ data }: { data: any }) => {
   )
 }
 
-NewsPost.propTypes = {
+AktivitaetPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default NewsPost
+export default AktivitaetPost
 
 export const pageQuery = graphql`
-  query NewsPostByID($id: String!) {
+  query AktivitaetPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html

@@ -23,7 +23,7 @@ const Talente2020Page = ({ data }: { data: any }) => {
                                 {talents &&
                                     talents.map(({ node: talent }: { node: any }) => (
                                         <div className="column is-6" key={talent.id}>
-                                            <p className="post-meta">
+                                            <p>
                                                 <Link
                                                     className="title has-text-primary is-size-4"
                                                     to={talent.fields.slug}

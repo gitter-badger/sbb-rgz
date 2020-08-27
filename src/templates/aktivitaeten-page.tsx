@@ -8,7 +8,7 @@ interface IProps {
   data: any;
 }
 
-class NewsList extends React.Component<IProps, {}> {
+class AktivitaetList extends React.Component<IProps, {}> {
   static propTypes: any;
 
   render() {
@@ -34,20 +34,13 @@ class NewsList extends React.Component<IProps, {}> {
                         <article
                         >
                           <header>
-                            <p className="post-meta">
+                            <p>
                               <Link
                                 className="title has-text-primary is-size-4"
                                 to={post.fields.slug}
-                              >{post.frontmatter.title}</Link>
-                              <br />
-                              <span className="subtitle is-6 is-block">
-                                Veröffentlicht am: {post.frontmatter.date}
-                              </span>
+                              >{post.frontmatter.date} - {post.frontmatter.title}</Link>
                             </p>
                           </header>
-                          <p>
-                            {post.excerpt}
-                          </p>
                         </article>
                       </div>
                     ))}
@@ -61,7 +54,7 @@ class NewsList extends React.Component<IProps, {}> {
   }
 }
 
-NewsList.propTypes = {
+AktivitaetList.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -72,10 +65,10 @@ NewsList.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query NewsListQuery {
+      query AktivitaetListQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "news-post" } } }
+          sort: { order: ASC, fields: [frontmatter___date] }
+          filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" } } }
         ) {
           edges {
             node {
@@ -94,6 +87,6 @@ export default () => (
         }
       }
     `}
-    render={(data: any) => <NewsList data={data} />}
+    render={(data: any) => <AktivitaetList data={data} />}
   />
 )

@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import { Helmet } from 'react-helmet'
 
 function encode(data: any) {
   return Object.keys(data)
@@ -36,6 +37,10 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet>
+          <title>Kontaktformular - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+          <meta name="description" content='Kontakt aufnehmen mit der Regionalgruppe Zürich.' />
+        </Helmet>
         <section className="section">
           <div className="container">
             <div className="columns">
