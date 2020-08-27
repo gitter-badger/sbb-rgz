@@ -76,16 +76,16 @@ const Navbar = class extends React.Component<{}, IState> {
             >
               <div className="navbar-end has-text-centered">
                 <Link className="navbar-item" to="/news">
-                  News
+                  AKTIVITÄTEN
               </Link>
                 <Link className="navbar-item" to="/projekte">
-                  Projekte
+                  PROJEKTE
               </Link>
                 <Link className="navbar-item" to="/vorstand">
-                  Vorstand
+                  VORSTAND
               </Link>
                 <Link className="navbar-item" to="/kontakt">
-                  Kontakt
+                  KONTAKT
               </Link>
               </div>
             </div>
