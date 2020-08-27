@@ -1,11 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import letterZ from '../img/letter_Z.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -13,7 +9,7 @@ const Footer = class extends React.Component {
       <footer className="footer">
         <div className="content has-text-centered">
           <div className="container">
-            <div style={{ maxWidth: '100vw' }} className="columns">
+            <div style={{ maxWidth: '100vw' }} className="columns is-vcentered">
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
@@ -54,6 +50,11 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
+              </div>
+              <div className="column has-text-centered">
+                <Link to="/" title="Zur Startseite gehen">
+                  <img src={letterZ} alt="Logo Regionalgruppe Zürich" />
+                </Link>
               </div>
             </div>
           </div>
