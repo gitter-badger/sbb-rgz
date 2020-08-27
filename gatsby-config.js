@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Regionalgruppe Zürich SBb',
+    title: 'Schweizerischer Blindenbund RGZ',
     description:
       'Webseite der Regionalgruppe Zürich des Schweizerischen Blindenbunds',
   },
