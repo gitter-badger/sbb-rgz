@@ -1,8 +1,8 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
+import './all.sass'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
-import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }: { children: any }) => {
   return (
     <div>
       <Helmet>
-        <html lang="en" />
+        <html lang="de" />
         <title>{title}</title>
         <meta name="description" content={description} />
 
