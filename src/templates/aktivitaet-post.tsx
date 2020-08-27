@@ -29,21 +29,21 @@ export const AktivitaetPostTemplate = ({
   helmet: any,
 }) => {
   const PostContent = contentComponent || Content
-  const [count, setCount] = useState({});
+  const [formState, setFormState] = useState({});
 
   function handleChange(e: any) {
-    setCount({ [e.target.name]: e.target.value })
+    setFormState({ ...formState, [e.target.name]: e.target.value });
   }
 
   function handleSubmit(e: any) {
     e.preventDefault()
-    const form = e.target
+    const form = e.target;
     fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
         'form-name': form.getAttribute('name'),
-        ...count,
+        ...formState,
       }),
     })
       .then(() => navigate(form.getAttribute('action')))
