@@ -24,7 +24,7 @@ export const NewsPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            <h1 className="title is-size-1">
               {title}
             </h1>
             <PostContent content={content} />

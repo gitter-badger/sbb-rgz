@@ -21,7 +21,7 @@ export const KochrezeptTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <header>
-              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+              <h1 className="title is-size-1">
                 {title}
               </h1>
             </header>

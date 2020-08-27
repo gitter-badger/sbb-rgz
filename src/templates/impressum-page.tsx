@@ -8,14 +8,14 @@ export const ImpressumPageTemplate = ({ title, content, contentComponent }: { ti
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
+    <section className="section">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+              <h1 className="title is-size-1">
                 {title}
-              </h2>
+              </h1>
               <PageContent className="content" content={content} />
             </div>
           </div>

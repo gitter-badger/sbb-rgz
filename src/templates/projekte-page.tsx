@@ -14,7 +14,7 @@ const ProjektePage = ({ data }: { data: any }) => {
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                <h1 className="title is-size-1">
                   Projekte
           </h1><div className="tile is-ancestor">{projekte &&
                   projekte.map(({ node: projekt }: { node: any }) => (

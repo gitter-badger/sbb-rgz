@@ -23,16 +23,19 @@ export const IndexPageTemplate = ({
   description: any,
   intro: any,
 }) => (
-    <div className="container">
-      <div className="section">
+    <section className="section">
+      <div className="container">
         <div className="columns">
-          <div className="column is-12">
-            <h3 className="has-text-weight-semibold is-size-2">Regionalgruppe Zürich</h3>
-            <p>Willkommen zur Regionalgruppe Zürich des Schweizerischen Blindenbundes.</p>
+          <div className="column is-10 is-offset-1">
+            <div className="section">
+              <h1 className="title is-size-1">
+                Regionalgruppe Zürich
+              </h1>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 
 IndexPageTemplate.propTypes = {

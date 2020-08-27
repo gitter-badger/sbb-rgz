@@ -26,7 +26,7 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="section">
-                <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                <h1 className="title is-size-1">
                   Kochrezepte
           </h1>
                 <InstantSearch searchClient={searchClient} indexName={process.env.GATSBY_ALGOLIA_INDEX!}>
