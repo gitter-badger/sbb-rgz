@@ -4,13 +4,17 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 import Img from 'gatsby-image'
+import { Helmet } from 'react-helmet'
 
 const VorstandPage = ({ data }: { data: any }) => {
   const { edges: members } = data.allMarkdownRemark;
 
   return (
-
     <Layout>
+      <Helmet>
+        <title>Vorstandsmitglieder RGZ - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+        <meta name="description" content='Vorstellung des Vorstands der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+      </Helmet>
       <section className="section">
         <div className="container content">
           <div className="columns">

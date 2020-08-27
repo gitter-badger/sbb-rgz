@@ -3,12 +3,17 @@ import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Img from 'gatsby-image'
+import { Helmet } from 'react-helmet'
 
 const ProjektePage = ({ data }: { data: any }) => {
   const { edges: projekte } = data.allMarkdownRemark;
 
   return (
     <Layout>
+      <Helmet>
+        <title>Projekte - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+        <meta name="description" content='Projekte der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+      </Helmet>
       <section className="section">
         <div className="container content">
           <div className="columns">

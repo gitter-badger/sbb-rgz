@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { Helmet } from 'react-helmet'
 
 export const SpendenPageTemplate = ({ title, content, contentComponent }: { title: any, content: any, contentComponent: any }) => {
   const PageContent = contentComponent || Content
@@ -36,6 +37,10 @@ const SpendenPage = ({ data }: { data: any }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Spenden - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+        <meta name="description" content='Wie man der Regionalgruppe Zürich des Schweizerischen Blindenbunds spendet.' />
+      </Helmet>
       <SpendenPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}

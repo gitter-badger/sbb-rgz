@@ -1,12 +1,17 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
+import { Helmet } from 'react-helmet';
 
 const Talente2020Page = ({ data }: { data: any }) => {
     const { edges: talents } = data.allMarkdownRemark;
 
     return (
         <Layout>
+            <Helmet>
+                <title>Talente 2020 - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+                <meta name="description" content='Talente der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+            </Helmet>
             <section className="section">
                 <div className="container content">
                     <div className="columns">

@@ -39,7 +39,7 @@ const TalentItem = ({ data }: { data: any }) => {
       <TalentItemTemplate
         content={post.html}
         helmet={
-          <Helmet titleTemplate="%s | Talent">
+          <Helmet titleTemplate="%s - Schweizerischer Blindenbund Regionalgruppe Zürich">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"

@@ -4,6 +4,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
 import algoliasearch from 'algoliasearch';
+import { Helmet } from 'react-helmet';
 
 const searchClient = algoliasearch(process.env.GATSBY_ALGOLIA_APPLICATION_ID!, process.env.GATSBY_ALGOLIA_SEARCH_KEY!);
 
@@ -19,8 +20,11 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
   const { edges: recipes } = data.allMarkdownRemark;
 
   return (
-
     <Layout>
+      <Helmet>
+        <title>Kochrezepte - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+        <meta name="description" content='Kochrezepte der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+      </Helmet>
       <section className="section">
         <div className="container content">
           <div className="columns">

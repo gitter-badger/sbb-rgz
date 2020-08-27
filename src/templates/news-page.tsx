@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import Layout from '../components/Layout'
+import { Helmet } from 'react-helmet';
 
 interface IProps {
   data: any;
@@ -16,13 +17,17 @@ class NewsList extends React.Component<IProps, {}> {
 
     return (
       <Layout>
+        <Helmet>
+          <title>Aktivitäten - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+          <meta name="description" content='Aktivitäten der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        </Helmet>
         <section className="section">
           <div className="container content">
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="section">
                   <h1 className="title is-size-1">
-                    News
+                    Aktivitäten
               </h1>{posts &&
                     posts.map(({ node: post }: { node: any }) => (
                       <div className="column is-6" key={post.id}>
@@ -34,7 +39,7 @@ class NewsList extends React.Component<IProps, {}> {
                                 className="title has-text-primary is-size-4"
                                 to={post.fields.slug}
                               >{post.frontmatter.title}</Link>
-                              <br/>
+                              <br />
                               <span className="subtitle is-6 is-block">
                                 Veröffentlicht am: {post.frontmatter.date}
                               </span>

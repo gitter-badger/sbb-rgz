@@ -51,7 +51,7 @@ const NewsPost = ({ data }: { data: any }) => {
         content={post.html}
         contentComponent={HTMLContent}
         helmet={
-          <Helmet titleTemplate="%s | News">
+          <Helmet titleTemplate="%s - Schweizerischer Blindenbund Regionalgruppe Zürich">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"

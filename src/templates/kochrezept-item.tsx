@@ -42,7 +42,7 @@ const Kochrezept = ({ data }: { data: any }) => {
     <Layout>
       <KochrezeptTemplate
         helmet={
-          <Helmet titleTemplate="%s | Kochrezept">
+          <Helmet titleTemplate="Kochrezept %s - Schweizerischer Blindenbund Regionalgruppe Zürich">
             <title>{`${recipe.frontmatter.title}`}</title>
             <meta
               name="description"
