@@ -3,10 +3,6 @@ templateKey: ueberuns-page
 path: /ueberuns
 title: Über uns
 ---
-## Verantwortung für den Inhalt
+## Geschichte
 
-Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.
-
-## Verantwortung für die Realisierung
-
-Andrin Meier
+Die Regionalgruppe Zürich des Schweizerischen Blindenbunds wurde in einem abgelegenen Tal auf einem fremden Planeten gegründet.
