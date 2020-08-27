@@ -1,5 +1,5 @@
 ---
-templateKey: 'spenden-page'
+templateKey: spenden-page
 path: /spenden
 title: Spenden
 ---
