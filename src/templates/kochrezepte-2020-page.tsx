@@ -2,19 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
-import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom';
-import algoliasearch from 'algoliasearch';
 import { Helmet } from 'react-helmet';
-
-const searchClient = algoliasearch(process.env.GATSBY_ALGOLIA_APPLICATION_ID!, process.env.GATSBY_ALGOLIA_SEARCH_KEY!);
-
-function Hit(props: any) {
-  return (
-    <div>
-      <Link className="has-text-primary" to={props.hit.path}>{props.hit.description}</Link>
-    </div>
-  );
-}
 
 const Kochrezepte2020Page = ({ data }: { data: any }) => {
   const { edges: recipes } = data.allMarkdownRemark;
@@ -33,10 +21,16 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
                 <h1 className="title is-size-1">
                   Kochrezepte
           </h1>
-                <InstantSearch searchClient={searchClient} indexName={process.env.GATSBY_ALGOLIA_INDEX!}>
-                  <SearchBox />
-                  <Hits hitComponent={Hit} />
-                </InstantSearch>
+          {recipes &&
+                                    recipes.map(({ node: recipe }: { node: any }) => (
+                                        <div className="column" key={recipe.id}>
+                                            <Link
+                                                to={recipe.fields.slug}
+                                            ><h4
+                                                className="title is-size-4">{recipe.frontmatter.title}</h4></Link>
+
+                                        </div>
+                                    ))}
               </div>
             </div>
           </div>
@@ -59,6 +53,7 @@ export default Kochrezepte2020Page;
 export const kochrezepte2020Query = graphql`
       query Kochrezepte2020Query {
           allMarkdownRemark(
+            sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "kochrezept-item" } } }
         ) {
           edges {

@@ -22,13 +22,12 @@ const Talente2020Page = ({ data }: { data: any }) => {
                                     </h1>
                                 {talents &&
                                     talents.map(({ node: talent }: { node: any }) => (
-                                        <div className="column is-6" key={talent.id}>
-                                            <p>
-                                                <Link
-                                                    className="title has-text-primary is-size-4"
-                                                    to={talent.fields.slug}
-                                                >{talent.frontmatter.title}</Link>
-                                            </p>
+                                        <div className="column" key={talent.id}>
+                                            <Link
+                                                to={talent.fields.slug}
+                                            ><h4
+                                                className="title is-size-4">{talent.frontmatter.title}</h4></Link>
+
                                         </div>
                                     ))}
                             </div>
@@ -44,6 +43,7 @@ export default Talente2020Page;
 export const talente2020Query = graphql`
       query Talente2020Query {
           allMarkdownRemark(
+            sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "talent-item" } } }
         ) {
           edges {
