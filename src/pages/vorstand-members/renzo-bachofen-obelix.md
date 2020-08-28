@@ -5,5 +5,5 @@ portrait:
   alt: Caroline Kobler
 title: Caroline Kobler
 funktion: Vorstandsmitglied
-reihenfolge: 4
+reihenfolge: 6
 ---
