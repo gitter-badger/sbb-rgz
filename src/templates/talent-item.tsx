@@ -7,11 +7,11 @@ import { HTMLContent } from '../components/Content'
 export const TalentItemTemplate = ({
   content,
   title,
-  helmet,
+  helmet
 }: {
   content: any,
   title: any,
-  helmet: any,
+  helmet?: any,
 }) => {
 
   return (

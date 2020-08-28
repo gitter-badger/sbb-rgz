@@ -12,7 +12,7 @@ export const KochrezeptTemplate = ({
 }: {
   title: any,
   content: any,
-  helmet: any,
+  helmet?: any,
 }) => {
   return (
     <article className="section">

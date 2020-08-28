@@ -2,9 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-import Img from 'gatsby-image'
 import { Helmet } from 'react-helmet'
+import VorstandMember from './vorstand'
 
 const VorstandPage = ({ data }: { data: any }) => {
   const { edges: members } = data.allMarkdownRemark;
@@ -22,25 +21,13 @@ const VorstandPage = ({ data }: { data: any }) => {
               <div className="section">
                 <h1 className="title is-size-1">
                   Vorstand
-          </h1><div className="tile is-ancestor" style={{flexWrap: 'wrap'}}>{members &&
+          </h1><div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{members &&
                   members.map(({ node: member }: { node: any }) => (
                     <div className="tile is-6 is-parent">
                       <div className="tile is-child">
-                        <div className="card">
-                          <div className="card-image">
-                            <figure className="image">
-                              <Img fluid={member.frontmatter.portrait.image.childImageSharp.fluid} alt={member.frontmatter.portrait.alt} />
-                            </figure>
-                          </div>
-                          <div className="card-content">
-                            <div className="media">
-                              <div className="media-content">
-                                <p className="title is-4">{member.frontmatter.title}</p>
-                                <p className="subtitle is-6">{member.frontmatter.funktion}</p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                        <VorstandMember portrait={member.frontmatter.portrait}
+                          title={member.frontmatter.title}
+                          funktion={member.frontmatter.funktion} />
                       </div>
                     </div>
                   ))}</div>
