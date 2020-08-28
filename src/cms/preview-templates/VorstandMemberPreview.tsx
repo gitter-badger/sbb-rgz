@@ -1,5 +1,5 @@
 import React from 'react'
-import VorstandMember from '../../templates/vorstand'
+import VorstandMember from '../../templates/vorstandmember'
 
 const VorstandMemberPreview = ({ entry, widgetFor, getAsset }: {entry: any, widgetFor: any, getAsset: any}) => (
   <VorstandMember
