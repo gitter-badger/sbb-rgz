@@ -2,8 +2,8 @@
 templateKey: vorstand
 portrait:
   image: /img/portrait_placeholder.jpg
-  alt: Renzo Bachofen, Obelix
-title: Renzo Bachofen, Obelix
+  alt: Caroline Kobler
+title: Caroline Kobler
 funktion: Vorstandsmitglied
 reihenfolge: 4
 ---
