@@ -5,5 +5,5 @@ portrait:
   image: /img/portrait_placeholder.jpg
 title: Andres Denzler
 funktion: Kassier
-reihenfolge: 3
+reihenfolge: 4
 ---
