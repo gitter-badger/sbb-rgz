@@ -11,6 +11,12 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: rgz-blind
+    api_key: 695972484924932
+
 collections:
   - name: "aktivitaetpost"
     label: "Aktivitäten"
