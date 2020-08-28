@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet'
-import VorstandMember from './vorstandmember'
+import VorstandMember from '../components/VorstandMember'
 
 const VorstandPage = ({ data }: { data: any }) => {
   const { edges: members } = data.allMarkdownRemark;
