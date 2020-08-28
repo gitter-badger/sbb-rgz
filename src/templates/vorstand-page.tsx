@@ -22,9 +22,9 @@ const VorstandPage = ({ data }: { data: any }) => {
               <div className="section">
                 <h1 className="title is-size-1">
                   Vorstand
-          </h1><div className="tile is-ancestor">{members &&
+          </h1><div className="tile is-ancestor" style={{flexWrap: 'wrap'}}>{members &&
                   members.map(({ node: member }: { node: any }) => (
-                    <div className="tile is-4 is-parent">
+                    <div className="tile is-6 is-parent">
                       <div className="tile is-child">
                         <div className="card">
                           <div className="card-image">
