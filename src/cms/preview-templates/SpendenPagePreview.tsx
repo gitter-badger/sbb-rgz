@@ -5,7 +5,6 @@ const SpendenPagePreview = ({ entry, widgetFor }: {entry: any, widgetFor: any}) 
   <SpendenPageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
-    contentComponent={undefined}
   />
 )
 
