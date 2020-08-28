@@ -34,7 +34,7 @@ const ProjektePage = ({ data }: { data: any }) => {
                           <div className="card-content">
                             <div className="media">
                               <div className="media-content">
-                                <p className="title is-4"><Link className="has-text-primary" to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link></p>
+                                <p className="title is-4"><Link to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link></p>
                                 <p className="subtitle is-6">{projekt.frontmatter.beschreibung}</p>
                               </div>
                             </div>

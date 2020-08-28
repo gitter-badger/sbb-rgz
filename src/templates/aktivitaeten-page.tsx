@@ -33,13 +33,13 @@ class AktivitaetList extends React.Component<IProps, {}> {
                       <div className="column is-6" key={post.id}>
                         <article
                         >
-                          <header>
-                            <p>
-                              <Link
-                                className="title has-text-primary is-size-4"
-                                to={post.fields.slug}
-                              >{post.frontmatter.date} - {post.frontmatter.title}</Link>
-                            </p>
+                          <header><Link
+                            to={post.fields.slug}
+                          >
+                            <h4
+                              className="title is-size-4">
+                              {post.frontmatter.date} - {post.frontmatter.title}
+                            </h4></Link>
                           </header>
                         </article>
                       </div>

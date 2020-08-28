@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import home from '../img/home.svg'
-import banner from '../img/banner-rgz.svg'
+import AccessibilityBar from './AccessibilityBar'
+import HomeLogo from './HomeLogo'
+import Banner from './Banner'
 
 interface IState {
   active: boolean;
@@ -40,15 +41,7 @@ const Navbar = class extends React.Component<{}, IState> {
   render() {
     return (
       <div>
-        <div className="container">
-          <div className="columns">
-            <div className="column" style={{ textAlign: 'right' }}>
-              <Link to="/" title="Zur Startseite gehen">
-                <img src={banner} alt="Banner RGZ" style={{ height: '140px' }} />
-              </Link>
-            </div>
-          </div>
-        </div>
+        <Banner/>
         <nav
           className="navbar"
           role="navigation"
@@ -56,9 +49,8 @@ const Navbar = class extends React.Component<{}, IState> {
         >
           <div className="container">
             <div className="navbar-brand">
-              <Link to="/" className="navbar-item" title="Zur Startseite gehen">
-                <img src={home} alt="Startseite" style={{ width: '88px' }} />
-              </Link>
+              <HomeLogo/>
+              <AccessibilityBar/>
               {/* Hamburger menu */}
               <div
                 className={`navbar-burger burger ${this.state.navBarActiveClass}`}
