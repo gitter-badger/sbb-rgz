@@ -8,12 +8,16 @@ import Content, { HTMLContent } from '../components/Content'
 export const KochrezeptTemplate = ({
   title,
   content,
+  contentComponent,
   helmet,
 }: {
   title: any,
   content: any,
+  contentComponent: any,
   helmet?: any,
 }) => {
+  const PageContent = contentComponent || Content
+
   return (
     <article className="section">
       {helmet || ''}
@@ -26,7 +30,7 @@ export const KochrezeptTemplate = ({
               </h1>
             </header>
             <section>
-              <HTMLContent content={content} />
+              <PageContent className="content" content={content} />
             </section>
           </div>
         </div>
@@ -52,6 +56,7 @@ const Kochrezept = ({ data }: { data: any }) => {
         }
         title={recipe.frontmatter.title}
         content={recipe.html}
+        contentComponent={HTMLContent}
       />
     </Layout>
   )

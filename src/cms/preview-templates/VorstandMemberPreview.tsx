@@ -5,7 +5,7 @@ const VorstandMemberPreview = ({ entry, widgetFor, getAsset }: {entry: any, widg
   <VorstandMember
     title={entry.getIn(['data', 'title'])}
     funktion={entry.getIn(['data', 'funktion'])}
-    portrait={getAsset(entry.getIn(['data', 'portrait'])).toString()}
+    portrait={entry.getIn(['data', 'portrait'])}
   />
 )
 

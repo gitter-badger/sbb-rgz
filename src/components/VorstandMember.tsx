@@ -15,7 +15,7 @@ const VorstandMember = ({
       <div className="card-image">
         <figure className="image">
           {typeof portrait === 'string' ?
-            <img src={portrait}/> :
+            <p>{portrait}</p> :
             <Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} />}
         </figure>
       </div>

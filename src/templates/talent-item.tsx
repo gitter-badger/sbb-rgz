@@ -2,17 +2,20 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import { HTMLContent } from '../components/Content'
+import Content, { HTMLContent } from '../components/Content'
 
 export const TalentItemTemplate = ({
   content,
+  contentComponent,
   title,
   helmet
 }: {
   content: any,
+  contentComponent: any,
   title: any,
   helmet?: any,
 }) => {
+  const PageContent = contentComponent || Content
 
   return (
     <section className="section">
@@ -23,7 +26,7 @@ export const TalentItemTemplate = ({
             <h1 className="title is-size-1">
               {title}
             </h1>
-            <HTMLContent content={content} />
+            <PageContent className="content" content={content} />
           </div>
         </div>
       </div>
@@ -38,6 +41,7 @@ const TalentItem = ({ data }: { data: any }) => {
     <Layout>
       <TalentItemTemplate
         content={post.html}
+        contentComponent={HTMLContent}
         helmet={
           <Helmet titleTemplate="%s - Schweizerischer Blindenbund Regionalgruppe Zürich">
             <title>{`${post.frontmatter.title}`}</title>
