@@ -2,35 +2,37 @@
 templateKey: kochrezept-item
 title: Kalbs- oder Schweinsmedaillon auf Tomatenbeet
 ---
-### Autor
+## Autor
+
 Manuela Denzler
 
-### Menge
+## Menge
+
 4 Personen
 
-### Vorbereitungszeit
+## Vorbereitungszeit
+
 30 Minuten
 
-### Kochzeit
+## Kochzeit
+
 25 Minuten
 
-### Quelle
+## Quelle
+
 Eigenes Rezept bzw. von früher aus Mamas Küche; genannt "Kalbs- oder Schweinsmedaillon auf Tomatenbeet"
 
-### Zutaten
-  - 8 Kalbs- oder Schweinmedaillon<br>
+## Zutaten
 
-  - 1 Knoblauchzehe<br>
+* 8 Kalbs- oder Schweinmedaillon<br>
+* 1 Knoblauchzehe<br>
+* 500 g gehackte Pelatti-Tomaten<br>
+* 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln<br>
+* 1 Hand voll Kapern<br>
+* Olivenöl, Salz und Pfeffer
 
-  - 500 g gehackte Pelatti-Tomaten<br>
+## Zubereitung
 
-  - 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln<br>
-
-  - 1 Hand voll Kapern<br>
-
-  - Olivenöl, Salz und Pfeffer
-
-### Zubereitung
 Backofen auf 180-200 Grad vorheizen (Umluft)
 
 Eine Gratinform ausreichend mit Olivenöl ausreiben bzw. einfetten
@@ -45,7 +47,8 @@ Reibkäse bzw. geraffelter Käse darüber streuen
 
 Das Ganze in den Ofen schieben und bei 180-200 Grad (Umluft) während 20-25 Min. gratinieren
 
-### Tipps
+## Tipps
+
 Achtung: Käse könnte oben braun werden, darum nach ca. 15 Min.
 Gratinform mit Alufolie zudecken bis fertig gratiniert
 
