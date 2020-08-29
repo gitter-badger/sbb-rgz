@@ -2,19 +2,24 @@
 templateKey: kochrezept-item
 title: Capuns aus dem Medelsertal
 ---
-### Autor
+## Autor
+
 Cecilia Rey-Lutz
 
-### Menge
+## Menge
+
 3-4 Personen
 
-### Vorbereitungszeit
+## Vorbereitungszeit
+
 1 Stunde
 
-### Kochzeit
+## Kochzeit
+
 1 Stunde
 
-###  Zutaten
+## Zutaten
+
 * 400g Knöpfliteig
 * 1 Tasse frische Käruter fein geschnitten (Schnittlauch, Peterli,
   Lauchspitzen), je 3-4 Blätter Pfefferminze und Salbei<br>
@@ -25,7 +30,8 @@ Cecilia Rey-Lutz
 * 1 dl Rahm oder Kaffeerahm für die Sauce<br>
 * Reibkäse
 
-### Zubereitung
+## Zubereitung
+
 Knöpfli Teig:
 
 * 2 Tassen Mehl
