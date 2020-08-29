@@ -13,6 +13,9 @@ const ProjektePage = ({ data }: { data: any }) => {
       <Helmet>
         <title>Projekte - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
         <meta name="description" content='Projekte der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:title" content='Projekte' />
+        <meta property="og:description" content='Projekte der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/projekte' />
       </Helmet>
       <section className="section">
         <div className="container content">

@@ -9,8 +9,11 @@ const Talente2020Page = ({ data }: { data: any }) => {
     return (
         <Layout>
             <Helmet>
-                <title>Talente 2020 - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
+                <title>Talente - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
                 <meta name="description" content='Talente der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+                <meta property="og:title" content='Talente' />
+                <meta property="og:description" content='Talente der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+                <meta property="og:url" content='https://www.rgz-blind.ch/talente-2020' />
             </Helmet>
             <section className="section">
                 <div className="container content">

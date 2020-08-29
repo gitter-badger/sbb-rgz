@@ -40,6 +40,9 @@ const UeberUnsPage = ({ data }: { data: any }) => {
       <Helmet>
         <title>Über uns - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
         <meta name="description" content='Eine Beschreibung der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:title" content='Über uns' />
+        <meta property="og:description" content='Eine Beschreibung der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/ueberuns' />
       </Helmet>
       <UeberUnsPageTemplate
         contentComponent={HTMLContent}

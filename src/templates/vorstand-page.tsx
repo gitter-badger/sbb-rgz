@@ -13,6 +13,9 @@ const VorstandPage = ({ data }: { data: any }) => {
       <Helmet>
         <title>Vorstandsmitglieder RGZ - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
         <meta name="description" content='Vorstellung des Vorstands der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:title" content='Vorstandsmitglieder RGZ' />
+        <meta property="og:description" content='Vorstellung des Vorstands der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/vorstand' />
       </Helmet>
       <section className="section">
         <div className="container content">
@@ -23,7 +26,7 @@ const VorstandPage = ({ data }: { data: any }) => {
                   Vorstand
           </h1><div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{members &&
                   members.map(({ node: member }: { node: any }) => (
-                    <div className="tile is-6 is-parent">
+                    <div className="tile is-6 is-parent" key={member.id}>
                       <div className="tile is-child">
                         <VorstandMember portrait={member.frontmatter.portrait}
                           title={member.frontmatter.title}

@@ -40,9 +40,8 @@ const TemplateWrapper = ({ children }: { children: any }) => {
         />
         <meta name="theme-color" content="#fff" />
 
-        <meta property="og:type" content="business.business" />
-        <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
+        <meta property="og:site_name" content="Regionalgruppe Zürich des Schweizerischen Blindenbunds" />
+        <meta property="og:type" content="website" />
         <meta
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}

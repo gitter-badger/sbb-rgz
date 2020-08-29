@@ -57,6 +57,9 @@ const IndexPage = ({ data }: { data: any }) => {
       <Helmet>
         <title>Startseite - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
         <meta name="description" content='Webseite der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:title" content='Startseite' />
+        <meta property="og:description" content='Webseite der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/' />
       </Helmet>
       <IndexPageTemplate
         image={frontmatter.image}

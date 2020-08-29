@@ -51,7 +51,10 @@ const Kochrezept = ({ data }: { data: any }) => {
             <meta
               name="description"
               content={`${recipe.frontmatter.seodescription}`}
-            />
+            />            
+            <meta property="og:title" content={recipe.frontmatter.title} />
+            <meta property="og:description" content={`${recipe.frontmatter.seodescription}`} />
+            <meta property="og:url" content={`https://www.rgz-blind.ch` + `${recipe.fields.slug}`} />
           </Helmet>
         }
         title={recipe.frontmatter.title}
@@ -75,6 +78,9 @@ export const kochrezeptQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         seodescription

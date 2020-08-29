@@ -49,6 +49,9 @@ const TalentItem = ({ data }: { data: any }) => {
               name="description"
               content={`${post.frontmatter.seodescription}`}
             />
+            <meta property="og:title" content={post.frontmatter.title} />
+            <meta property="og:description" content={`${post.frontmatter.seodescription}`} />
+            <meta property="og:url" content={`https://www.rgz-blind.ch` + `${post.fields.slug}`} />
           </Helmet>
         }
         title={post.frontmatter.title}
@@ -64,6 +67,9 @@ export const talentQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         seodescription

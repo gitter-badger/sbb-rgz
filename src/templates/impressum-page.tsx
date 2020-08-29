@@ -40,6 +40,9 @@ const ImpressumPage = ({ data }: { data: any }) => {
       <Helmet>
         <title>Impressum - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
         <meta name="description" content='Das Impressum der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:title" content='Impressum' />
+        <meta property="og:description" content='Das Impressum der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/impressum' />
       </Helmet>
       <ImpressumPageTemplate
         contentComponent={HTMLContent}

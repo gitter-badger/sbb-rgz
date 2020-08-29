@@ -62,7 +62,7 @@ export const AktivitaetPostTemplate = ({
             <PostContent content={content} />
             {anmeldeformularanzeigen &&
               <div>
-                <br/>
+                <br />
                 <h2 className="title is-size-2">
                   Anmeldeformular
               </h2>
@@ -163,6 +163,9 @@ const AktivitaetPost = ({ data }: { data: any }) => {
               name="description"
               content={`${post.frontmatter.seodescription}`}
             />
+            <meta property="og:title" content={post.frontmatter.title} />
+            <meta property="og:description" content={`${post.frontmatter.seodescription}`} />
+            <meta property="og:url" content={`https://www.rgz-blind.ch` + `${post.fields.slug}`} />
           </Helmet>
         }
         title={post.frontmatter.title}
@@ -185,7 +188,10 @@ export const pageQuery = graphql`
   query AktivitaetPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
-      html
+      html      
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "DD.MM.YYYY")
         title
