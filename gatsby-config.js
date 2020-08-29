@@ -3,8 +3,11 @@ module.exports = {
     title: 'Schweizerischer Blindenbund RGZ',
     description:
       'Webseite der Regionalgruppe Zürich des Schweizerischen Blindenbunds',
+    siteUrl: `https://www.rgz-blind.ch`
   },
   plugins: [
+    'gatsby-plugin-robots-txt',
+    `gatsby-plugin-sitemap`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-typescript',
     'gatsby-plugin-sass',
