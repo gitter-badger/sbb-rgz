@@ -23,7 +23,7 @@ const ProjektePage = ({ data }: { data: any }) => {
                   Projekte
           </h1><div className="tile is-ancestor">{projekte &&
                   projekte.map(({ node: projekt }: { node: any }) => (
-                    <div className="tile is-6 is-parent">
+                    <div className="tile is-6 is-parent" key={projekt.id}>
                       <div className="tile is-child">
                         <div className="card">
                           <div className="card-image">
