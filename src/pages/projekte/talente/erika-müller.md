@@ -1,6 +1,7 @@
 ---
 templateKey: talent-item
 title: Erika Müller
+seodescription: Vorstellung der Talente von Erika Müller. Kreativität und Malen.
 ---
 ![Portrait von Erika Müller](/img/erika_müller.jpg "Erika Müller")
 

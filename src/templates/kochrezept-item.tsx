@@ -50,7 +50,7 @@ const Kochrezept = ({ data }: { data: any }) => {
             <title>{`${recipe.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${recipe.frontmatter.title}`}
+              content={`${recipe.frontmatter.seodescription}`}
             />
           </Helmet>
         }
@@ -77,6 +77,7 @@ export const kochrezeptQuery = graphql`
       html
       frontmatter {
         title
+        seodescription
         templateKey
       }
     }

@@ -20,6 +20,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaet-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "Veranstaltungsdatum", name: "date", widget: "datetime",  timeFormat: false, dateFormat: "DD.MM.YYYY"}
       - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -54,6 +55,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "kochrezepte"
@@ -63,6 +65,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "body", name: "body", widget: "markdown"}
 
   - name: "pages"

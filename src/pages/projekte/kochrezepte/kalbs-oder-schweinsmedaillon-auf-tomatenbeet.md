@@ -1,6 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Kalbs- oder Schweinsmedaillon auf Tomatenbeet
+seodescription: Kalbs- oder Schweinsmedaillon auf Tomatenbeet von Manuela Denzler
 ---
 ## Autor
 

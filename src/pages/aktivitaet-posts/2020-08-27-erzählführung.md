@@ -1,6 +1,7 @@
 ---
 templateKey: aktivitaet-post
 title: Erzählführung
+seodescription: Erzählführung durch die Stadt Zürich mit Erzählungen, Geräuschen und Düften. 
 date: 2020-09-20T11:44:01.058Z
 anmeldeformularanzeigen: true
 ---

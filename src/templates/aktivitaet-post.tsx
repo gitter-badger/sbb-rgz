@@ -161,7 +161,7 @@ const AktivitaetPost = ({ data }: { data: any }) => {
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.description}`}
+              content={`${post.frontmatter.seodescription}`}
             />
           </Helmet>
         }
@@ -189,6 +189,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "DD.MM.YYYY")
         title
+        seodescription
         anmeldeformularanzeigen
       }
     }

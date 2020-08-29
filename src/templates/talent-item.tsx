@@ -47,7 +47,7 @@ const TalentItem = ({ data }: { data: any }) => {
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
-              content={`${post.frontmatter.title}`}
+              content={`${post.frontmatter.seodescription}`}
             />
           </Helmet>
         }
@@ -66,6 +66,7 @@ export const talentQuery = graphql`
       html
       frontmatter {
         title
+        seodescription
       }
     }
   }
