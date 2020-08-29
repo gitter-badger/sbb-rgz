@@ -27,7 +27,7 @@ const ProjektePage = ({ data }: { data: any }) => {
                       <div className="tile is-child">
                         <div className="card">
                           <div className="card-image">
-                            <figure className="image">
+                            <figure className="image mx-0">
                               <Link to={projekt.frontmatter.link}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
                             </figure>
                           </div>

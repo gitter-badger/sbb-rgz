@@ -13,10 +13,8 @@ const VorstandMember = ({
   return (
     <div className="card">
       <div className="card-image">
-        <figure className="image">
-          {typeof portrait === 'string' ?
-            <p>{portrait}</p> :
-            <Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} />}
+        <figure className="image mx-0">
+          <Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} />
         </figure>
       </div>
       <div className="card-content">

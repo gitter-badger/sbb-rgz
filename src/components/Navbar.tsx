@@ -40,7 +40,7 @@ const Navbar = class extends React.Component<{}, IState> {
 
   render() {
     return (
-      <div>
+      <header>
         <Banner/>
         <nav
           className="navbar"
@@ -89,7 +89,7 @@ const Navbar = class extends React.Component<{}, IState> {
             </div>
           </div>
         </nav>
-      </div>
+      </header>
     )
   }
 }
