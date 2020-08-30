@@ -14,7 +14,7 @@ export const IndexPageTemplate = ({
 }: {
   title: any,
   content: any,
-  contentComponent: any,
+  contentComponent?: any,
   activities: any,
   projects: any
 }) => {
