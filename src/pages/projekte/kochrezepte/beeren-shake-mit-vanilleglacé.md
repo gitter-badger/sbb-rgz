@@ -2,7 +2,7 @@
 templateKey: kochrezept-item
 title: Erfrischender Beeren-Shake mit Vanilleglacé
 kategorie: Dessert
-seodescription: Beeren-Shake
+seodescription: Erfrischender Beeren-Shake mit Vanilleglacé
 ---
 ## Rezept von
 
