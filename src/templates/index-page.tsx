@@ -49,7 +49,9 @@ export const IndexPageTemplate = ({
                         <div className="card-content">
                           <div className="media">
                             <div className="media-content">
-                              <p className="title is-4">{activity.frontmatter.title}</p>
+                              <p className="title is-4"><Link
+                          to={activity.fields.slug}
+                        >{activity.frontmatter.title}</Link></p>
                               <p className="subtitle is-6">{activity.frontmatter.date}</p>
                             </div>
                           </div>
