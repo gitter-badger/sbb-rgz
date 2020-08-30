@@ -3,7 +3,7 @@ templateKey: kochrezept-item
 title: Capuns aus dem Medelsertal
 seodescription: Capuns aus dem Medelsertal von Cecilia Rey-Lutz
 ---
-## Autor
+## Rezept von
 
 Cecilia Rey-Lutz
 
