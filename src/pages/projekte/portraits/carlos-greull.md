@@ -1,9 +1,9 @@
 ---
 templateKey: portrait-item
 title: Carlos Greull
-seodescription: Vorstellung von Carlos Greull
+seodescription: Ein Gedicht von Carlos Greull
 ---
-Ein Zitat:
+### Ein Gedicht von Carlos Greull
 
 Und wenn auch die Augen  
 herzlich wenig taugen:  
