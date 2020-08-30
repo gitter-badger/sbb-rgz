@@ -20,3 +20,7 @@ Ich benutze das Zoom-Text zum Schreiben. Nehme an Wochenendkursen teil, zum Verf
 ## Was bringt Ihnen Ihr kreatives Schaffen für Ihren Alltag?
 
 Viel Freude, Befriedigung, Lebensenergie und strukturiert meinen Alltag. Das Schreiben ist für mich zum Beruf geworden, denn ich habe bereits ein Buch in spanischer Sprache veröffentlicht und ein weiteres mit deutscher Übersetzung wird folgen. Zudem illustriert mein Sohn die Bücher mit seinen Bildern. Diese Zusammenarbeit beflügelt mich, denn er ist auch ein kompetenter Kritiker meiner Arbeit, denn er studiert Kunst und ist bereits heute ein anerkannter Kunstschaffender.
+
+![Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.](/uploads/maria_navarro_auszug_1.jpg "Übersetzte Geschichte von Maria Navarro")
+
+![Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.](/uploads/maria_navarro_auszug_2.jpg "Übersetzte Geschichte von Maria Navarro")
