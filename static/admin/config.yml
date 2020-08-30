@@ -57,7 +57,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portrait-item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"} 
-      - {label: "Anhänge", name: "attachments", widget: "file"}
+      - {label: "Anhänge", name: "attachments", widget: "file", media_library: { config: { multiple: true }}}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "kochrezepte"
