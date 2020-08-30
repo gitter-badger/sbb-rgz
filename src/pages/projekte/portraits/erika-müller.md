@@ -15,4 +15,4 @@ Ein Medium das mich herausfordert. Zur Umsetzung des Themas „Sommertraum“ wa
 
 Von der Theorie in die Praxis zu gehen war sehr spannend. Das Resultat macht mir Freunde.
 
-![Bild gemalt von Erika Müller](/uploads/erika_müller_bild.jpeg "Bild von Erika Müller")
+![Bild gemalt von Erika Müller](/uploads/erika_müller_bild.jpg "Bild von Erika Müller")
