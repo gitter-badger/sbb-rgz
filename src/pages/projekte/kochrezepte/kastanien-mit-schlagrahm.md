@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
-title: Kastanien mit Schlagrahm
-seodescription: Castagne con panna montata, ein Tessiner Rezept
+title: Castagne con panna montata - Kastanien mit Schlagrahm
+seodescription: Kastanien mit Schlagrahm
 ---
 ## Rezept von
 
