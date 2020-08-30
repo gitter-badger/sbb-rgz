@@ -27,4 +27,4 @@ Brigitte Marthy
 
 Alle Zutaten ausser dem Vollrahm in einen Standmixer geben und mixen. 
 
-Den Vollrahm zu Schlagrahm schlagen und auf den Shakes anrichten. Nach Belieben mit Minze garnieren und servieren.
+Den Vollrahm zu Schlagrahm schlagen und auf den Shakes anrichten. Nach Belieben mit Guezli oder Minze garnieren und servieren.
