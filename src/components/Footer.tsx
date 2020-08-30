@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import letterZ from '../uploads/letter_Z.svg'
+import letterZ from '../img/letter_Z.svg'
 
 const Footer = class extends React.Component {
   render() {

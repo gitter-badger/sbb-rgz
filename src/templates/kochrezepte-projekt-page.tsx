@@ -4,7 +4,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet';
 
-const Kochrezepte2020Page = ({ data }: { data: any }) => {
+const KochrezepteProjektPage = ({ data }: { data: any }) => {
   const { edges: recipes } = data.allMarkdownRemark;
 
   return (
@@ -14,7 +14,7 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
         <meta name="description" content='Kochrezepte der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
         <meta property="og:title" content='Kochrezepte' />
         <meta property="og:description" content='Kochrezepte der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/kochrezepte-2020' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/kochrezepte-projekt' />
       </Helmet>
       <section className="section">
         <div className="container content">
@@ -43,7 +43,7 @@ const Kochrezepte2020Page = ({ data }: { data: any }) => {
   )
 }
 
-Kochrezepte2020Page.propTypes = {
+KochrezepteProjektPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -51,10 +51,10 @@ Kochrezepte2020Page.propTypes = {
   })
 }
 
-export default Kochrezepte2020Page;
+export default KochrezepteProjektPage;
 
-export const kochrezepte2020Query = graphql`
-      query Kochrezepte2020Query {
+export const kochrezepteProjektQuery = graphql`
+      query KochrezepteProjektQuery {
           allMarkdownRemark(
             sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "kochrezept-item" } } }

@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const TalentItemTemplate = ({
+export const PortraitItemTemplate = ({
   content,
   contentComponent,
   title,
@@ -34,12 +34,12 @@ export const TalentItemTemplate = ({
   )
 }
 
-const TalentItem = ({ data }: { data: any }) => {
+const PortraitItem = ({ data }: { data: any }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <TalentItemTemplate
+      <PortraitItemTemplate
         content={post.html}
         contentComponent={HTMLContent}
         helmet={
@@ -60,10 +60,10 @@ const TalentItem = ({ data }: { data: any }) => {
   )
 }
 
-export default TalentItem
+export default PortraitItem
 
-export const talentQuery = graphql`
-  query TalentItemById($id: String!) {
+export const portraitQuery = graphql`
+  query PortraitItemById($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html

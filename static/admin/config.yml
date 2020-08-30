@@ -48,12 +48,12 @@ collections:
       - {label: "Beschreibung", name: "beschreibung", widget: "string"}
       - {label: "Reihenfolge", name: "reihenfolge", widget: "number"}
 
-  - name: "talente"
-    label: "Talente"
-    folder: "src/pages/projekte/talente"
+  - name: "portraits"
+    label: "Portraits"
+    folder: "src/pages/projekte/portraits"
     create: true
     fields:        
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portrait-item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -97,17 +97,17 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
           - {label: Title, name: title, widget: string}
-      - file: "src/pages/projekte/kochrezepte-2020/index.md"
-        label: "Kochrezepte 2020"
-        name: "kochrezepte-2020"
+      - file: "src/pages/projekte/kochrezepte-projekt/index.md"
+        label: "Kochrezepte"
+        name: "kochrezepte-projekt"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-2020-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-projekt-page"}
           - {label: Title, name: title, widget: string}
-      - file: "src/pages/projekte/talente-2020/index.md"
-        label: "Talente 2020"
-        name: "talente-2020"
+      - file: "src/pages/projekte/portraits-projekt/index.md"
+        label: "Portraits"
+        name: "portraits-projekt"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talente-2020-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portraits-projekt-page"}
           - {label: Title, name: title, widget: string}
       - file: "src/pages/impressum/index.md"
         label: "Impressum"

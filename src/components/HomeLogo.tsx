@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import useDarkMode from "use-dark-mode"
-import home from '../uploads/home.svg'
-import homeDark from '../uploads/home_dark.svg'
+import home from '../img/home.svg'
+import homeDark from '../img/home_dark.svg'
 import { Link } from 'gatsby'
 
 const HomeLogo = () => {

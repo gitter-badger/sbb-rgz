@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import useDarkMode from "use-dark-mode"
-import sun from '../uploads/sun.svg'
-import moon from '../uploads/moon.svg'
+import sun from '../img/sun.svg'
+import moon from '../img/moon.svg'
 
 const AccessibilityBar = () => {
     // Instantiate with the default behavior, in this case, it defaults to light-mode
