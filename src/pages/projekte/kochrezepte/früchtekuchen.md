@@ -1,6 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: "Früchtekuchen "
+kategorie: Dessert
 seodescription: Grundrezept für einen saisonalen Früchtekuchen
 ---
 ## Rezept von
