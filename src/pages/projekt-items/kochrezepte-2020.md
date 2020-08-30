@@ -1,7 +1,7 @@
 ---
 templateKey: projekt-item
 bild:
-  image: /img/projekte_kochen.jpg
+  image: /uploads/projekte_kochen.jpg
   alt: Kochen
 title: Kochrezepte 2020
 link: kochrezepte-2020

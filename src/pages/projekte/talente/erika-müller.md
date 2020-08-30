@@ -3,7 +3,7 @@ templateKey: talent-item
 title: Erika Müller
 seodescription: Vorstellung der Talente von Erika Müller. Kreativität und Malen.
 ---
-![Portrait von Erika Müller](/img/erika_müller.jpg "Erika Müller")
+![Portrait von Erika Müller](/uploads/erika_müller.jpg "Erika Müller")
 
 Kreativität begleitet mich seit langer Zeit. Das Arbeiten und Ausprobieren und die Auseinandersetzung mit verschiedenen Materialien bereitete mir jahrelang Freude. 
 
@@ -15,4 +15,4 @@ Ein Medium das mich herausfordert. Zur Umsetzung des Themas „Sommertraum“ wa
 
 Von der Theorie in die Praxis zu gehen war sehr spannend. Das Resultat macht mir Freunde.
 
-![Bild gemalt von Erika Müller](/img/erika_müller_bild.jpeg "Bild von Erika Müller")
+![Bild gemalt von Erika Müller](/uploads/erika_müller_bild.jpeg "Bild von Erika Müller")

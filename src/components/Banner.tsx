@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import useDarkMode from "use-dark-mode"
-import banner from '../img/banner-rgz.svg'
-import bannerDark from '../img/banner-rgz_dark.svg'
+import banner from '../uploads/banner-rgz.svg'
+import bannerDark from '../uploads/banner-rgz_dark.svg'
 import { Link } from 'gatsby'
 
 const Banner = () => {
