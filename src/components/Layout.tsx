@@ -44,7 +44,7 @@ const TemplateWrapper = ({ children }: { children: any }) => {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content="https://www.rgz-blind.ch/img/og-image.jpg"
         />
         <meta property="og:image:width" content="256" />
         <meta property="og:image:height" content="256" />

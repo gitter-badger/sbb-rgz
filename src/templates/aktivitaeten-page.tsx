@@ -33,7 +33,7 @@ class AktivitaetList extends React.Component<IProps, {}> {
                     Aktivitäten
               </h1>{posts &&
                     posts.map(({ node: post }: { node: any }) => (
-                      <div className="column is-6" key={post.id}>
+                      <div className="column" key={post.id}>
                         <article
                         >
                           <header><Link
