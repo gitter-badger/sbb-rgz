@@ -3,7 +3,7 @@ templateKey: portrait-item
 title: Janka Reimmann
 seodescription: Vorstellung von Janka Reimmann
 ---
-Während der Corona Kriese wurde ich viel sportlicher. Zusammen mit zwei verschiedenen WhatsApp-Gruppen habe ich zweimal in der Woche per Telefon trainiert. Auf einmal kam mir der Gedanke, selber nach diversen Übungen zu suchen und ich habe mir gedacht, warum dafür nicht nach Sportarten zu suchen.
+Während der Corona Krise wurde ich viel sportlicher. Zusammen mit zwei verschiedenen WhatsApp-Gruppen habe ich zweimal in der Woche per Telefon trainiert. Auf einmal kam mir der Gedanke, selber nach diversen Übungen zu suchen und ich habe mir gedacht, warum dafür nicht nach Sportarten zu suchen.
 
 Ich hoffe, damit auch andere blinde und sehbehinderte Personen zu animieren, sich täglich ein wenig zu bewegen. Es braucht nicht viel dazu und kann selbstständig und alleine durchgeführt werden.
 
