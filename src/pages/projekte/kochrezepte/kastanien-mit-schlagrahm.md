@@ -1,0 +1,42 @@
+---
+templateKey: kochrezept-item
+title: Kastanien mit Schlagrahm
+seodescription: Castagne con panna montata, ein Tessiner Rezept
+---
+## Rezept von
+
+Irma Rösch
+
+## Menge
+4 Protionen
+
+
+## Vorbereitungszeit
+10 Minuten 
+
+
+## Kochzeit
+etwa 60 Minuten
+
+
+## Quelle
+
+L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate con Zschinsky
+
+## Zutaten
+
+* 1 kg getrocknete und geschälte Kastanien
+* Wasser
+* Glas Rotwein, 
+* Rahm. 
+
+
+## Zubereitung
+
+Die Kastanien in einen Topf geben, mit Wasser bedecken und zum Kochen bringen, wobei fast das ganze Wasser einkochen muss. Mit Rotwein beträufeln und das restliche Wasser verdunsten lassen. Vom Feuer nehmen und mit reichlich Schlagrahm servieren. 
+
+## Tipps
+Kastanien waren früher das Grundnahrungsmittel der an Abwechslung armen Tessiner Küche. 
+Eine der Ursachen der Schlacht von Giornico (der Schlacht der großen Steine), deren 500. Jubiläum im Jahre 1978 mit Pomp gefeiert wurde, war ein Streit zwischen den Herren von Mailand und den Bewohnern der Leventina um... Kastanien. 
+Noch im 18. Jahrhundert ass der Tessiner Bauer oft Kastanien anstelle von Brot. 
+Heute gehört eine Castagnata — ein gemeinschaftliches Verspeisen gerösteter Kastanien im Freundeskreis, meistens in einem Grotto — zu den kulinarischen Herbstfreuden des Tessiners. 
