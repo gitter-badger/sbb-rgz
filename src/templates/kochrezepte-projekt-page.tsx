@@ -1,12 +1,10 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet';
 
 const KochrezepteProjektPage = ({ data }: { data: any }) => {
-  const { edges: recipes } = data.allMarkdownRemark;
-
+  const { group: recipes } = data.allMarkdownRemark;
   return (
     <Layout>
       <Helmet>
@@ -24,13 +22,18 @@ const KochrezepteProjektPage = ({ data }: { data: any }) => {
                 Kochrezepte
           </h1>
               {recipes &&
-                recipes.map(({ node: recipe }: { node: any }) => (
-                  <div className="column" key={recipe.id}>
-                    <Link
-                      to={recipe.fields.slug}
-                    ><h4
-                      className="title is-size-4">{recipe.frontmatter.title}</h4></Link>
-
+                recipes.map((category: any) => (
+                  <div className="column" key={category.fieldValue}>
+                    <h4
+                          className="title is-size-4">{category.fieldValue}</h4>
+                    {category.edges &&
+                      category.edges.map(({node: recipe}: {node: any}) => (
+                        <div key={recipe.id}>                        
+                        <Link
+                          to={recipe.fields.slug}
+                        ><h6
+                          className="title is-size-6">{recipe.frontmatter.title}</h6></Link></div>
+                      ))}
                   </div>
                 ))}
             </div>
@@ -41,14 +44,6 @@ const KochrezepteProjektPage = ({ data }: { data: any }) => {
   )
 }
 
-KochrezepteProjektPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  })
-}
-
 export default KochrezepteProjektPage;
 
 export const kochrezepteProjektQuery = graphql`
@@ -57,14 +52,17 @@ export const kochrezepteProjektQuery = graphql`
             sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "kochrezept-item" } } }
         ) {
-          edges {
-            node {
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
+          group(field: frontmatter___kategorie) {
+            fieldValue
+            edges {
+              node {
+                id
+                fields {
+                  slug
+                }
+                frontmatter {
+                  title
+                }
               }
             }
           }
