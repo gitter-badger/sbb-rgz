@@ -65,7 +65,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Kategorie", name: "kategorie", widget: "select", options: ["Suppen und Salate", "Hauptspeisen", "Dessert"]}
+      - {label: "Kategorie", name: "kategorie", widget: "select", options: ["Suppen und Salate", "Hauptspeisen", "Dessert"], default: ["Hauptspeisen"]}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "body", name: "body", widget: "markdown"}
 
