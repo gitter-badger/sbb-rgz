@@ -1,56 +1,108 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-
+import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet'
+import Img from 'gatsby-image'
 
 export const IndexPageTemplate = ({
-  image,
   title,
-  heading,
-  subheading,
-  mainpitch,
-  description,
-  intro,
+  content,
+  contentComponent,
+  activities,
+  projects
 }: {
-  image: any,
   title: any,
-  heading: any,
-  subheading: any,
-  mainpitch: any,
-  description: any,
-  intro: any,
-}) => (
+  content: any,
+  contentComponent: any,
+  activities: any,
+  projects: any
+}) => {
+  const PageContent = contentComponent || Content
+
+  return (
     <section className="section">
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h1 className="title is-size-1">
-                Regionalgruppe Zürich
-              </h1>
+            <h1 className="title is-size-1">
+              {title}
+            </h1>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <PageContent className="content" content={content} />
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="content">
+              <h2>
+                Aktivitäten
+              </h2>
+              <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{activities &&
+                activities.map(({ node: activity }: { node: any }) => (
+                  <div className="tile  is-parent" key={activity.id}>
+                    <div className="tile is-child">
+                      <div className="card">
+                        <div className="card-content">
+                          <div className="media">
+                            <div className="media-content">
+                              <p className="title is-4">{activity.frontmatter.title}</p>
+                              <p className="subtitle is-6">{activity.frontmatter.date}</p>
+                            </div>
+                          </div>
+                          <div className="content">
+                            {activity.excerpt}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}</div>
+            </div>
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="content">
+              <h2>
+                Projekte
+              </h2>
+              <div className="tile is-ancestor">{projects &&
+                projects.map(({ node: projekt }: { node: any }) => (
+                  <div className="tile is-parent" key={projekt.id}>
+                    <div className="tile is-child">
+                      <div className="card">
+                        <div className="card-image">
+                          <figure className="image mx-0">
+                            <Link to={`/projekte/` + `${projekt.frontmatter.link}`}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
+                          </figure>
+                        </div>
+                        <div className="card-content">
+                          <div className="media">
+                            <div className="media-content">
+                              <p className="title is-4"><Link to={`/projekte/` + `${projekt.frontmatter.link}`}><strong>{projekt.frontmatter.title}</strong></Link></p>
+                            </div>
+                          </div>
+                          <div className="content">
+                            {projekt.frontmatter.beschreibung}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}</div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-  )
-
-IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
+    </section>)
 }
 
 const IndexPage = ({ data }: { data: any }) => {
-  const { frontmatter } = data.markdownRemark
+  const { index: post, activities: activities, projects: projects } = data
 
   return (
     <Layout>
@@ -62,33 +114,71 @@ const IndexPage = ({ data }: { data: any }) => {
         <meta property="og:url" content='https://www.rgz-blind.ch/' />
       </Helmet>
       <IndexPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
+        contentComponent={HTMLContent}
+        title={post.frontmatter.title}
+        content={post.html}
+        activities={activities.edges}
+        projects={projects.edges}
       />
     </Layout>
   )
 }
 
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
-}
-
 export default IndexPage
 
 export const pageQuery = graphql`
-  query IndexPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+  query IndexPageTemplate ($currentDate: Date!) {
+    index: markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
         title
+      }
+    }
+    activities: allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, date: { gte: $currentDate } } }
+      limit: 3
+    ) {
+      edges {
+        node {
+          excerpt(pruneLength: 200)
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            templateKey
+            date(formatString: "DD.MM.YYYY")
+          }
+        }
+      }
+    }
+    projects: allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___reihenfolge] }
+      filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
+      limit: 3
+    ) {
+    edges {
+      node {
+          id
+          frontmatter {
+            title
+            link
+            templateKey
+            beschreibung
+            bild {
+              alt
+              image {
+                childImageSharp {
+                  fluid(maxWidth: 200, quality: 92) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
+          }
+        }
       }
     }
   }

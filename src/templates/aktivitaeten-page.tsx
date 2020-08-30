@@ -28,26 +28,24 @@ class AktivitaetList extends React.Component<IProps, {}> {
           <div className="container content">
             <div className="columns">
               <div className="column is-10 is-offset-1">
-                <div className="section">
-                  <h1 className="title is-size-1">
-                    Aktivitäten
+                <h1 className="title is-size-1">
+                  Aktivitäten
               </h1>{posts &&
-                    posts.map(({ node: post }: { node: any }) => (
-                      <div className="column" key={post.id}>
-                        <article
+                  posts.map(({ node: post }: { node: any }) => (
+                    <div className="column" key={post.id}>
+                      <article
+                      >
+                        <header><Link
+                          to={post.fields.slug}
                         >
-                          <header><Link
-                            to={post.fields.slug}
-                          >
-                            <h4
-                              className="title is-size-4">
-                              {post.frontmatter.date} - {post.frontmatter.title}
-                            </h4></Link>
-                          </header>
-                        </article>
-                      </div>
-                    ))}
-                </div>
+                          <h4
+                            className="title is-size-4">
+                            {post.frontmatter.date} - {post.frontmatter.title}
+                          </h4></Link>
+                        </header>
+                      </article>
+                    </div>
+                  ))}
               </div>
             </div>
           </div>

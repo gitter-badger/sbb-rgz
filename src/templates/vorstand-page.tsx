@@ -21,20 +21,18 @@ const VorstandPage = ({ data }: { data: any }) => {
         <div className="container content">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h1 className="title is-size-1">
-                  Vorstand
+              <h1 className="title is-size-1">
+                Vorstand
           </h1><div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{members &&
-                  members.map(({ node: member }: { node: any }) => (
-                    <div className="tile is-6 is-parent" key={member.id}>
-                      <div className="tile is-child">
-                        <VorstandMember portrait={member.frontmatter.portrait}
-                          title={member.frontmatter.title}
-                          funktion={member.frontmatter.funktion} />
-                      </div>
+                members.map(({ node: member }: { node: any }) => (
+                  <div className="tile is-6 is-parent" key={member.id}>
+                    <div className="tile is-child">
+                      <VorstandMember portrait={member.frontmatter.portrait}
+                        title={member.frontmatter.title}
+                        funktion={member.frontmatter.funktion} />
                     </div>
-                  ))}</div>
-              </div>
+                  </div>
+                ))}</div>
             </div>
           </div>
         </div>

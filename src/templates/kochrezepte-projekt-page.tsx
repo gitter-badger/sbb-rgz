@@ -20,21 +20,19 @@ const KochrezepteProjektPage = ({ data }: { data: any }) => {
         <div className="container content">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h1 className="title is-size-1">
-                  Kochrezepte
+              <h1 className="title is-size-1">
+                Kochrezepte
           </h1>
-                {recipes &&
-                  recipes.map(({ node: recipe }: { node: any }) => (
-                    <div className="column" key={recipe.id}>
-                      <Link
-                        to={recipe.fields.slug}
-                      ><h4
-                        className="title is-size-4">{recipe.frontmatter.title}</h4></Link>
+              {recipes &&
+                recipes.map(({ node: recipe }: { node: any }) => (
+                  <div className="column" key={recipe.id}>
+                    <Link
+                      to={recipe.fields.slug}
+                    ><h4
+                      className="title is-size-4">{recipe.frontmatter.title}</h4></Link>
 
-                    </div>
-                  ))}
-              </div>
+                  </div>
+                ))}
             </div>
           </div>
         </div>

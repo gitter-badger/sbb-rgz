@@ -19,21 +19,19 @@ const PortraitsProjektPage = ({ data }: { data: any }) => {
                 <div className="container content">
                     <div className="columns">
                         <div className="column is-10 is-offset-1">
-                            <div className="section">
-                                <h1 className="title is-size-1">
-                                    Portraits
+                            <h1 className="title is-size-1">
+                                Portraits
                                     </h1>
-                                {portraits &&
-                                    portraits.map(({ node: portrait }: { node: any }) => (
-                                        <div className="column" key={portrait.id}>
-                                            <Link
-                                                to={portrait.fields.slug}
-                                            ><h4
-                                                className="title is-size-4">{portrait.frontmatter.title}</h4></Link>
+                            {portraits &&
+                                portraits.map(({ node: portrait }: { node: any }) => (
+                                    <div className="column" key={portrait.id}>
+                                        <Link
+                                            to={portrait.fields.slug}
+                                        ><h4
+                                            className="title is-size-4">{portrait.frontmatter.title}</h4></Link>
 
-                                        </div>
-                                    ))}
-                            </div>
+                                    </div>
+                                ))}
                         </div>
                     </div>
                 </div>
