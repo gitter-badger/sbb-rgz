@@ -9,9 +9,9 @@ Kreativität begleitet mich seit langer Zeit. Das Arbeiten und Ausprobieren und 
 
 Malen wurde zu meinem Favoriten. Meine Gedanken und Stimmungen bildlich darzustellen macht für mich Sinn.  Am besten kann ich mich mit Farben ausdrücken. Nach mehreren Kursen und Weiterbildungen folgten einige Gruppenausstellungen.
 
-In den letzten Jahren  beschäftige ich mich mit dem Material  Beton. 
+In den letzten Jahren  beschäftigte ich mich mit dem Material Beton. 
 
-Ein Medium das mich herausfordert. Zur Umsetzung des Themas „Sommertraum“ waren meine Spontanvision Blütenkugeln. 
+Ein Medium, das mich herausfordert. Zur Umsetzung des Themas „Sommertraum“ waren meine Spontanvision Blütenkugeln. 
 
 Von der Theorie in die Praxis zu gehen war sehr spannend. Das Resultat macht mir Freunde.
 
