@@ -2,6 +2,13 @@
 templateKey: portrait-item
 title: Maria Navarro
 seodescription: Vorstellung von Maria Navarro
+photogallery:
+  - bild:
+      image: /uploads/maria_navarro_auszug_1.jpg
+      alt: Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.
+  - bild:
+      image: /uploads/maria_navarro_auszug_2.jpg
+      alt: Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.
 ---
 Gedichte und Geschichten zu schreiben ist eine Freude und eine Passion, die mich seit meiner Kindheit begleitet. Bereits mit 11 Jahren habe ich Gedichte und Geschichten geschrieben. Das Schreiben gibt mir Freude, Kraft und Ansporn im täglichen Leben. Es ist wie ein Motor, der mir Energie spendet auch in schwierigen Zeiten. Es ist auch wunderbar, die geschriebenen Gedichte und Geschichten mit anderen Personen zu teilen.
  
@@ -19,8 +26,4 @@ Ich benutze das Zoom-Text zum Schreiben. Nehme an Wochenendkursen teil, zum Verf
 
 ## Was bringt Ihnen Ihr kreatives Schaffen für Ihren Alltag?
 
-Viel Freude, Befriedigung, Lebensenergie und strukturiert meinen Alltag. Das Schreiben ist für mich zum Beruf geworden, denn ich habe bereits ein Buch in spanischer Sprache veröffentlicht und ein weiteres mit deutscher Übersetzung wird folgen. Zudem illustriert mein Sohn die Bücher mit seinen Bildern. Diese Zusammenarbeit beflügelt mich, denn er ist auch ein kompetenter Kritiker meiner Arbeit, denn er studiert Kunst und ist bereits heute ein anerkannter Kunstschaffender.
-
-![Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.](/uploads/maria_navarro_auszug_1.jpg "Übersetzte Geschichte von Maria Navarro")
-
-![Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.](/uploads/maria_navarro_auszug_2.jpg "Übersetzte Geschichte von Maria Navarro")
+Viel Freude, Befriedigung, Lebensenergie und strukturiert meinen Alltag. Das Schreiben ist für mich zum Beruf geworden, denn ich habe bereits ein Buch in spanischer Sprache veröffentlicht und ein weiteres mit deutscher Übersetzung wird folgen. Zudem illustriert mein Sohn die Bücher mit seinen Bildern. Diese Zusammenarbeit beflügelt mich, denn er ist auch ein kompetenter Kritiker meiner Arbeit, denn er studiert Kunst und ist bereits heute ein anerkannter Kunstschaffender.
