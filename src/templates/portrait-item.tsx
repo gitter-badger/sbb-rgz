@@ -19,7 +19,6 @@ export const PortraitItemTemplate = ({
   helmet?: any,
 }) => {
   const PageContent = contentComponent || Content
-
   return (
     <section className="section">
       {helmet || ''}
@@ -34,7 +33,7 @@ export const PortraitItemTemplate = ({
               <div>
                 <h2 className="title is-size-2">Fotogallerie</h2>
                 <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{
-                  photogallery.map(({ node: photogalleryImage }: { node: any }) => (
+                  photogallery.map((photogalleryImage: any) => (
                     <div className="tile is-6 is-parent" >
                       <div className="tile is-child">
                         <div className="card">
