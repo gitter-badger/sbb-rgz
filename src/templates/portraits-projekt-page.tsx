@@ -13,7 +13,7 @@ const PortraitsProjektPage = ({ data }: { data: any }) => {
                 <meta name="description" content='Portraits der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
                 <meta property="og:title" content='Portraits' />
                 <meta property="og:description" content='Portraits der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
-                <meta property="og:url" content='https://www.rgz-blind.ch/portraits-projekt' />
+                <meta property="og:url" content='https://www.rgz-blind.ch/projekte/portraits-projekt' />
             </Helmet>
             <section className="section">
                 <div className="container content">
