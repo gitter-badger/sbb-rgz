@@ -4,6 +4,9 @@ title: Erika Müller
 seodescription: Vorstellung von Erika Müller. Kreativität und Malen.
 photogallery:
   - bild:
+      image: /uploads/erika_müller.jpg
+      alt: Portrait von Erika Müller
+  - bild:
       image: /uploads/erika_müller_corona_5.jpg
       alt: Corona 5 gemalt von Erika Müller. Auf Steinpapier gemalt mit Acrylfarbe mit
         den Dimensionen 30x30cm.
@@ -21,8 +24,6 @@ photogallery:
       image: /uploads/erika_müller_monotype_002.jpg
       alt: Monotype 2. Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
 ---
-![Portrait von Erika Müller](/uploads/erika_müller.jpg "Erika Müller")
-
 Kreativität begleitet mich seit langer Zeit. Das Arbeiten und Ausprobieren und die Auseinandersetzung mit verschiedenen Materialien bereitete mir jahrelang Freude. 
 
 Malen wurde zu meinem Favoriten. Meine Gedanken und Stimmungen bildlich darzustellen macht für mich Sinn.  Am besten kann ich mich mit Farben ausdrücken. Nach mehreren Kursen und Weiterbildungen folgten einige Gruppenausstellungen.
