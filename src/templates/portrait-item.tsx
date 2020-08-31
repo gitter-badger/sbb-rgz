@@ -31,7 +31,7 @@ export const PortraitItemTemplate = ({
             <PageContent className="content" content={content} />
             {photogallery && photogallery.length > 0 &&
               <div>
-                <h2 className="title is-size-2">Fotogallerie</h2>
+                <h2>Fotogallerie</h2>
                 <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{
                   photogallery.map((photogalleryImage: any) => (
                     <div className="tile is-6 is-parent" >
