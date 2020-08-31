@@ -169,7 +169,6 @@ export default class Index extends React.Component {
                         name={'telefonprivat'}
                         onChange={this.handleChange}
                         id={'telefonprivat'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -184,7 +183,6 @@ export default class Index extends React.Component {
                         name={'telefongeschaeft'}
                         onChange={this.handleChange}
                         id={'telefongeschaeft'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -199,7 +197,6 @@ export default class Index extends React.Component {
                         name={'email'}
                         onChange={this.handleChange}
                         id={'email'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -214,7 +211,6 @@ export default class Index extends React.Component {
                         name={'beruf'}
                         onChange={this.handleChange}
                         id={'beruf'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -229,7 +225,6 @@ export default class Index extends React.Component {
                         name={'geburtsdatum'}
                         onChange={this.handleChange}
                         id={'geburtsdatum'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -244,7 +239,6 @@ export default class Index extends React.Component {
                         name={'zivilstand'}
                         onChange={this.handleChange}
                         id={'zivilstand'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -286,7 +280,6 @@ export default class Index extends React.Component {
                         name={'seit-wann-sehbehindert-oder-blind'}
                         onChange={this.handleChange}
                         id={'seit-wann-sehbehindert-oder-blind'}
-                        required={true}
                       />
                     </div>
                   </div>
