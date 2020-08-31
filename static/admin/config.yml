@@ -78,64 +78,64 @@ collections:
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/aktivitaeten/index.md"
         label: "Aktivitäten"
         name: "aktivitaeten"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/vorstand/index.md"
         label: "Vorstand"
         name: "vorstand"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
       - file: "src/pages/projekte/index.md"
         label: "Projekte"
         name: "projekte"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
       - file: "src/pages/projekte/kochrezepte-projekt/index.md"
         label: "Kochrezepte"
         name: "kochrezepte-projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-projekt-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
       - file: "src/pages/projekte/portraits-projekt/index.md"
         label: "Portraits"
         name: "portraits-projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portraits-projekt-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
       - file: "src/pages/projekte/Grossmünster-Modell-Projekt/index.md"
         label: "Grossmünster Reparatur Projekt"
         name: "Grossmünster-Modell-Projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/impressum/index.md"
         label: "Impressum"
         name: "impressum"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "impressum-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/spenden/index.md"
         label: "Spenden"
         name: "spenden"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "spenden-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/ueberuns/index.md"
         label: "Über uns"
         name: "ueberuns"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "ueberuns-page"}
-          - {label: Title, name: title, widget: string}
+          - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
