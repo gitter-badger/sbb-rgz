@@ -26,9 +26,9 @@ const AccessibilityBar = () => {
     }
 
     return (
-        <div className="navbar-item dark-mode-toggle">
+        <button className="navbar-item dark-mode-toggle">
             <img src={icon} title={iconAlt} alt={iconAlt} style={{ width: '88px' }} onClick={handleTheme} />
-        </div>
+        </button>
     )
 }
 
