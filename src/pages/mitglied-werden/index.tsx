@@ -70,12 +70,12 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="mitgliedschaft"
+                        <input type="radio" name="mitgliedschaft" value="Aktivmitglied"
                           onChange={this.handleChange} />
                        Aktivmitglied
                       </label>
                       <label className="radio">
-                        <input type="radio" name="mitgliedschaft"
+                        <input type="radio" name="mitgliedschaft" value="Passivmitglied"
                           onChange={this.handleChange} />
                         Passivmitglied
                       </label>
@@ -87,12 +87,12 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="anrede"
+                        <input type="radio" name="anrede" value="Herr"
                           onChange={this.handleChange} />
                        Herr
                       </label>
                       <label className="radio">
-                        <input type="radio" name="anrede"
+                        <input type="radio" name="anrede" value="Frau"
                           onChange={this.handleChange} />
                         Frau
                       </label>
@@ -248,22 +248,22 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="grad-sehbehinderung"
+                        <input type="radio" name="grad-sehbehinderung" value="Keine Sehbehinderung"
                           onChange={this.handleChange} />
                        keine Sehbehinderung
                       </label>
                       <label className="radio">
-                        <input type="radio" name="grad-sehbehinderung"
+                        <input type="radio" name="grad-sehbehinderung" value="stark sehbehindert"
                           onChange={this.handleChange} />
                         stark sehbehindert
                       </label>
                       <label className="radio">
-                        <input type="radio" name="grad-sehbehinderung"
+                        <input type="radio" name="grad-sehbehinderung" value="Sehrest"
                           onChange={this.handleChange} />
                         Sehrest
                       </label>
                       <label className="radio">
-                        <input type="radio" name="grad-sehbehinderung"
+                        <input type="radio" name="grad-sehbehinderung" value="blind"
                           onChange={this.handleChange} />
                         blind
                       </label>
@@ -302,37 +302,37 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Aarau"
                           onChange={this.handleChange} />
                        Aarau
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Brig"
                           onChange={this.handleChange} />
                         Brig
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Schaffhausen"
                           onChange={this.handleChange} />
                         Schaffhausen
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Thun"
                           onChange={this.handleChange} />
                         Thun
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Uznach"
                           onChange={this.handleChange} />
                         Uznach
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Winterthur"
                           onChange={this.handleChange} />
                         Winterthur
                       </label>
                       <label className="radio">
-                        <input type="radio" name="aufzusuchende-beratungsstelle"
+                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Zürich"
                           onChange={this.handleChange} />
                         Zürich
                       </label>
@@ -345,17 +345,17 @@ export default class Index extends React.Component {
                     <div className="control">
                       <p>
                         <label className="checkbox">
-                          <input type="checkbox" name="kann-vollschrift-lesen"
+                          <input type="checkbox" name="kann-vollschrift-lesen" value="Kann Vollschrift lesen"
                             onChange={this.handleChange} />
                        Kann Vollschrift lesen
                       </label></p>
                       <p><label className="checkbox">
-                        <input type="checkbox" name="kann-kurzschrift-lesen"
+                        <input type="checkbox" name="kann-kurzschrift-lesen" value="Kann Kurzschrift lesen"
                           onChange={this.handleChange} />
                         Kann Kurzschrift lesen
                       </label></p>
                       <p><label className="checkbox">
-                        <input type="checkbox" name="kann-blindenschrift-nicht-lesen"
+                        <input type="checkbox" name="kann-blindenschrift-nicht-lesen" value="Kann Blindenschrift nicht"
                           onChange={this.handleChange} />
                         Kann Blindenschrift nicht
                       </label></p>
@@ -368,17 +368,17 @@ export default class Index extends React.Component {
                     <div className="control">
                       <p>
                         <label className="checkbox">
-                          <input type="checkbox" name="unterlagen-in-schwarzschrift"
+                          <input type="checkbox" name="unterlagen-in-schwarzschrift" value="in Schwarzschrift (per Post)"
                             onChange={this.handleChange} />
                        in Schwarzschrift (per Post)
                       </label></p>
                       <p><label className="checkbox">
-                        <input type="checkbox" name="unterlagen-in-blindenschrift"
+                        <input type="checkbox" name="unterlagen-in-blindenschrift" value="in Blindenschrift (Kurzschrift, nur in deutsch)"
                           onChange={this.handleChange} />
                         in Blindenschrift (Kurzschrift, nur in deutsch)
                       </label></p>
                       <p><label className="checkbox">
-                        <input type="checkbox" name="unterlagen-per-email"
+                        <input type="checkbox" name="unterlagen-per-email" value="per E-Mail"
                           onChange={this.handleChange} />
                         per E-Mail
                       </label></p>
@@ -391,12 +391,12 @@ export default class Index extends React.Component {
                     <div className="control">
                       <p>
                         <label className="checkbox">
-                          <input type="checkbox" name="besitzt-begleiterkarte"
+                          <input type="checkbox" name="besitzt-begleiterkarte" value="Besitzt Begleiterkarte"
                             onChange={this.handleChange} />
                        Begleiterkarte ("Ausweiskarte für behinderteReisende") der Schweiz. Transportunternehmen
                       </label></p>
                       <p><label className="checkbox">
-                        <input type="checkbox" name="besitzt-jahreskarte-voev"
+                        <input type="checkbox" name="besitzt-jahreskarte-voev" value="Besitzt Jahreskarte VöV"
                           onChange={this.handleChange} />
                           Jahreskarte für Blinde und Sehbehinderte des VöV (Nahverkehrsunternehmungen)?
                       </label></p>
@@ -421,12 +421,12 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="anfrage-mithilfe-erlaubt"
+                        <input type="radio" name="anfrage-mithilfe-erlaubt" value="Ja"
                           onChange={this.handleChange} />
                        Ja
                       </label>
                       <label className="radio">
-                        <input type="radio" name="anfrage-mithilfe-erlaubt"
+                        <input type="radio" name="anfrage-mithilfe-erlaubt" value="Nein"
                           onChange={this.handleChange} />
                         Nein
                       </label>
@@ -438,12 +438,12 @@ export default class Index extends React.Component {
                     </label>
                     <div className="control">
                       <label className="radio">
-                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen"
+                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Ja"
                           onChange={this.handleChange} />
                        Ja
                       </label>
                       <label className="radio">
-                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen"
+                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Nein"
                           onChange={this.handleChange} />
                         Nein
                       </label>
