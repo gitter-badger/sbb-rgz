@@ -113,7 +113,7 @@ collections:
           - {label: Title, name: title, widget: string}
       - file: "src/pages/projekte/grossmuenster-modell-reparatur-projekt/index.md"
         label: "Grossmünster Reparatur Projekt"
-        name: "Grossmünster-Modell-Projekt"
+        name: "grossmuenster-modell-reparatur-projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
           - {label: Title, name: title, widget: string}
