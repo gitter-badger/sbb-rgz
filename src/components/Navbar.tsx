@@ -41,7 +41,7 @@ const Navbar = class extends React.Component<{}, IState> {
   render() {
     return (
       <header>
-        <Banner/>
+        <Banner />
         <nav
           className="navbar"
           role="navigation"
@@ -49,8 +49,8 @@ const Navbar = class extends React.Component<{}, IState> {
         >
           <div className="container">
             <div className="navbar-brand">
-              <HomeLogo/>
-              <AccessibilityBar/>
+              <HomeLogo />
+              <AccessibilityBar />
               {/* Hamburger menu */}
               <div
                 className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -81,6 +81,9 @@ const Navbar = class extends React.Component<{}, IState> {
               </Link>
                 <Link className="navbar-item" to="/kontakt">
                   KONTAKT
+              </Link>
+                <Link className="navbar-item" to="/mitglied-werden">
+                  MITGLIED WERDEN
               </Link>
                 <Link className="navbar-item" to="/spenden">
                   SPENDEN
