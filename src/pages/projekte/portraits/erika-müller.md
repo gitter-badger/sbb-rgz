@@ -2,6 +2,13 @@
 templateKey: portrait-item
 title: Erika Müller
 seodescription: Vorstellung von Erika Müller. Kreativität und Malen.
+photogallery:
+  - bild:
+      image: /uploads/erika_müller_corona_5.jpg
+      alt: Corona 5
+  - bild:
+      image: /uploads/erika_müller_betonkugel.jpg
+      alt: Betonkugel
 ---
 ![Portrait von Erika Müller](/uploads/erika_müller.jpg "Erika Müller")
 
