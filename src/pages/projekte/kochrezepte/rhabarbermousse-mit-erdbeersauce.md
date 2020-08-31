@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Rhabarbermousse mit Erdbeersauce
-kategorie: Dessert
+kategorie: 3. Dessert
 seodescription: Rhabarbermousse mit Erdbeersauce - ein Rezept aus der Kochschule
   von Jeannine Ulrich
 ---

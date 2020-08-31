@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Getränkter Zitronen-Cake
-kategorie: Dessert
+kategorie: 3. Dessert
 seodescription: Ein herrlicher feuchter Zitronenkuchen - Rezept aus der
   Kochschule von Jeannine Ulrich
 ---

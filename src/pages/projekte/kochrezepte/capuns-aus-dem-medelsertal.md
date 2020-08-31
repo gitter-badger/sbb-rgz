@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Capuns aus dem Medelsertal
-kategorie: Hauptspeisen
+kategorie: 2. Hauptspeisen
 seodescription: Capuns aus dem Medelsertal von Cecilia Rey-Lutz
 ---
 ## Rezept von

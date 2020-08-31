@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Martinas Brownies
-kategorie: Dessert
+kategorie: 3. Dessert
 seodescription: Martinas zartschmelzende, schokoladige Brownies
 ---
 ## Rezept von

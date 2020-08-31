@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Bereschlorziflarden mit Birnen
-kategorie: Dessert
+kategorie: 3. Dessert
 seodescription: Bereschlorziflarden mit Birnen - ein Dessert von Klaus Marthy,
   der auch mal als Hauptgang gegessen werden darf
 ---
