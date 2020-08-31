@@ -2,17 +2,20 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Img from 'gatsby-image'
 import Content, { HTMLContent } from '../components/Content'
 
 export const PortraitItemTemplate = ({
   content,
   contentComponent,
   title,
+  photogallery,
   helmet
 }: {
   content: any,
   contentComponent: any,
   title: any,
+  photogallery: any,
   helmet?: any,
 }) => {
   const PageContent = contentComponent || Content
@@ -27,6 +30,28 @@ export const PortraitItemTemplate = ({
               {title}
             </h1>
             <PageContent className="content" content={content} />
+            {photogallery && photogallery.length > 0 &&
+              <div>
+                <h2 className="title is-size-2">Fotogallerie</h2>
+                <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{
+                  photogallery.map(({ node: photogalleryImage }: { node: any }) => (
+                    <div className="tile is-6 is-parent" >
+                      <div className="tile is-child">
+                        <div className="card">
+                          <div className="card-image">
+                            <figure className="image mx-0">
+                              <Img fluid={photogalleryImage.bild.image.childImageSharp.fluid} alt={photogalleryImage.bild.alt} />
+                            </figure>
+                          </div>
+                          <div className="card-content">
+                            <div className="content">
+                              {photogalleryImage.bild.alt}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}</div></div>}
           </div>
         </div>
       </div>
@@ -55,6 +80,7 @@ const PortraitItem = ({ data }: { data: any }) => {
           </Helmet>
         }
         title={post.frontmatter.title}
+        photogallery={post.frontmatter.photogallery}
       />
     </Layout>
   )
