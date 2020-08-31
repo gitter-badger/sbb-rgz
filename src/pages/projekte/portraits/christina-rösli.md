@@ -17,7 +17,7 @@ photogallery:
         einem menschlichen Auge obenlinks.
   - bild:
       image: /uploads/christina_rösli_4.jpg
-      alt: Bild gemalt von Christina Rösli. Es ist ein abstraktes regenborgenfarbenes
+      alt: Bild gemalt von Christina Rösli. Es ist ein abstraktes regenbogenfarbenes
         Bild mit einem menschlichen Auge in der Mitte.
   - bild:
       image: /uploads/christina_rösli_5.jpg
