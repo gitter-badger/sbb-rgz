@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Img from 'gatsby-image'
@@ -7,7 +6,7 @@ import { Helmet } from 'react-helmet'
 
 const ProjektePage = ({ data }: { data: any }) => {
   const { edges: projekte } = data.allMarkdownRemark;
-
+  console.log(projekte);
   return (
     <Layout>
       <Helmet>
@@ -23,7 +22,7 @@ const ProjektePage = ({ data }: { data: any }) => {
             <div className="column is-10 is-offset-1">
               <h1 className="title is-size-1">
                 Projekte
-          </h1><div className="tile is-ancestor">{projekte &&
+          </h1><div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{projekte &&
                 projekte.map(({ node: projekt }: { node: any }) => (
                   <div className="tile is-6 is-parent" key={projekt.id}>
                     <div className="tile is-child">
@@ -53,14 +52,6 @@ const ProjektePage = ({ data }: { data: any }) => {
       </section>
     </Layout>
   )
-}
-
-ProjektePage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  })
 }
 
 export default ProjektePage
