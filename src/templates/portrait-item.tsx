@@ -73,6 +73,18 @@ export const portraitQuery = graphql`
       frontmatter {
         title
         seodescription
+        photogallery {
+          bild {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 400, quality: 92) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
