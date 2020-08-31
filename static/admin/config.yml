@@ -56,6 +56,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portrait-item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"} 
+      - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "kochrezepte"
