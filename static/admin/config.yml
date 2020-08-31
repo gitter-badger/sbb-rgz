@@ -111,9 +111,9 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portraits-projekt-page"}
           - {label: Title, name: title, widget: string}
-      - file: "src/pages/projekte/grossmuenster-modell-reparatur-projekt/index.md"
+      - file: "src/pages/projekte/Grossmünster-Modell-Projekt/index.md"
         label: "Grossmünster Reparatur Projekt"
-        name: "grossmuenster-modell-reparatur-projekt"
+        name: "Grossmünster-Modell-Projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
           - {label: Title, name: title, widget: string}
