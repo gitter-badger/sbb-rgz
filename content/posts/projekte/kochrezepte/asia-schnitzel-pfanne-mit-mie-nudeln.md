@@ -5,6 +5,11 @@ kategorie: 2. Hauptspeisen
 seodescription: Asia-Schnitzel-Pfanne mit Mie-Nudeln Rezept von Andrin Meier,
   entnommen aus der WW App.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-andrin-meier-asia-schnitzel-mie-nudeln" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Andrin Meier
@@ -43,7 +48,8 @@ Weight Watchers App
 * 4 TL Sesamöl 
 * 200g Mie-Nudeln 
 * Salz 
-* Pfeffer 
+* Pfeffer 
+
 * 4 TL Sesamsamen 
 
 ## Zubereitung
@@ -62,4 +68,6 @@ Restliches Öl im Bratensatz auf hoher Stufe erhitzen und Karotten darin ca. 2 M
 
 ### Schritt 4 
 
-Nudeln abgiessen, mit Schnitzelstreifen und Frühlingszwiebeln zum Gemüse geben und unterheben. Asia-Schnitzel-Pfanne mit Salz und Pfeffer abschmecken und mit Sesamsamen bestreut servieren. 
+Nudeln abgiessen, mit Schnitzelstreifen und Frühlingszwiebeln zum Gemüse geben und unterheben. Asia-Schnitzel-Pfanne mit Salz und Pfeffer abschmecken und mit Sesamsamen bestreut servieren.
+
+</SpeechOutput>
