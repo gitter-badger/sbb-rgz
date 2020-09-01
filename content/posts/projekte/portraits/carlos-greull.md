@@ -5,7 +5,7 @@ seodescription: Ein Gedicht von Carlos Greull
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 
-<SpeechOutput id="inside">
+<SpeechOutput id="gedicht-carlos-greull">
 
 ### Ein Gedicht von Carlos Greull
 
