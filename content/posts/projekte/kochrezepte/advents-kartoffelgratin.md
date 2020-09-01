@@ -26,9 +26,9 @@ Klaus Marthy
 
 ### Guss
 
-* 2dl Rahm,  
-* 1dl Milch,  
-* 1-2 Knoblauchzehen, gepresst,  
+* 2dl Rahm  
+* 1dl Milch
+* 1-2 Knoblauchzehen, gepresst
 * 1-2 Prisen Lebkuchengewürz oder Zimt, nach Belieben, TL Salz, Pfeffer aus der Mühle  
 * 2 EL geriebener Gruyère   
 
