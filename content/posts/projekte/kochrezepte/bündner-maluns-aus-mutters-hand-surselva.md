@@ -5,6 +5,11 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Bündner Maluns aus Mutter's Hand (Surselva) von
   Cecilia Rey-Lutz.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-maluns" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Cecilia Rey-Lutz
@@ -35,3 +40,5 @@ Kartoffeln geschält und geraffelt  (wie für Röschti)  in einer grossen Schüs
 Alles von Hand zusammen mischen, fein kneten  und durch die Finger rieseln lassen bis möglichst kleine Knöllchen entstehen. Die kleinen Kügelchen sollten  nicht an den Fingern kleben, sonst wenig mehr Mehl dazugeben. 
 
 Braten: in einer Bratpfanne etwas von der Butter geben und  erhitzen, dann die Hälfte der Kart offelkügelchen dazugeben und ständig bei guter Hitze wenden bis sie goldgelb sind. Dann den ersten Teil warm stellen und mit dem Rest gleich verfahren. Dazu kann man Kompott servieren.
+
+</SpeechOutput>

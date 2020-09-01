@@ -4,6 +4,11 @@ title: Risotto con Luganighetta alla Grappa
 kategorie: 2. Hauptspeisen
 seodescription: Risotto con Luganighetta alla Grappa
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-irma-roesch-risotto-con-luganighetta-alla-grappa" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Irma Rösch
@@ -34,7 +39,8 @@ L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate 
 * Petersilie 
 * ein Löffel Tomatenextrakt 
 * Fleischbrühe (je besser die Fleischbrühe je besser das Risotto) 
-* Butter und Parmesan 
+
+* Butter und Parmesan 
 
 ## Zubereitung
 
@@ -61,3 +67,5 @@ Es gibt auch ein Risottoreis der im Tessin ( Im Locarno Delta) gepflanzt wird.
 Luganiga und Luganighetta gehören zur traditionellen Tessiner Küche. Man kennt sie gekocht als Beilage zum Risotto aber es sind auch vorzügliche Grillwürste. 
 
 Die Luganiga besteht aus Schweinefleisch von Schulter und Bauch, nicht zu mager, nicht zu fett. Je nach Metzgerei liegt das Brät näher beim Cotechino oder beim Salametto. Die Würzung besteht aus Pfeffer, Knoblauch, Muskatnuss, Nelken und Zimt sowie Weiss- oder Rotwein oder je nach Region auch Grappa. Gestossen wird sie in einen Rindskranzdarm. Man verkauft sie roh und ungeräuchert. 
+
+</SpeechOutput>

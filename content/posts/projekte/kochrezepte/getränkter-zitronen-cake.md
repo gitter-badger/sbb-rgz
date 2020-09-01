@@ -5,6 +5,11 @@ kategorie: 3. Dessert
 seodescription: Ein herrlicher feuchter Zitronenkuchen - Rezept aus der
   Kochschule von Jeannine Ulrich
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-jeannine-ulrich-zitronencake" customPlayButton={PlayButton}>
+
 ## Rezept von
 Jeannine Ulrich
 
@@ -43,4 +48,4 @@ Bei 180°C vorgeheiztem Ofens Ofenmitte 65 min backen. Cake in der Form etwas au
 ### Guss
 Saft von 3 Zitronen und Puderzucker mischen und den Kuchen damit tränken.
 
-## Tipps
+</SpeechOutput>

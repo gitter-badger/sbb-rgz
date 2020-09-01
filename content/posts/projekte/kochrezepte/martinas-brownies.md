@@ -4,6 +4,11 @@ title: Martinas Brownies
 kategorie: 3. Dessert
 seodescription: Martinas zartschmelzende, schokoladige Brownies
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-martina-schweizer-brownies" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Martina Schweizer
@@ -50,3 +55,5 @@ Kuvertüre-Schokolade/Couverture (auch Kuchenglasur) hat einen höheren Anteil a
 Wenn man die Brownies nicht länger als 18 Minuten bäckt, bleiben sie innen schön feucht und zerschmelzen fast auf der Zunge. 
 Wenn die Brownies noch heiss sind, lassen sie sich nicht schön schneiden, besser zuerst etwas abkühlen lassen
 Die Brownies können portioniert gut tiefgefroren werden.
+
+</SpeechOutput>

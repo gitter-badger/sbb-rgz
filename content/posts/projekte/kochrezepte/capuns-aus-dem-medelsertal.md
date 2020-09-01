@@ -4,6 +4,11 @@ title: Capuns aus dem Medelsertal
 kategorie: 2. Hauptspeisen
 seodescription: Capuns aus dem Medelsertal von Cecilia Rey-Lutz
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-cecilia-rey-lutz-capuns" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Cecilia Rey-Lutz
@@ -47,3 +52,5 @@ Braten:
 Die eingewickelten Capuns der Grösse von 3-5 cm-Länge in die Bratpfanne mit etwas Olivenöl geben und rundum anbrraten. Den Fond mit Gemüsebouillon kurz aufkochen und etas Rahm oder Kaffeerahm beigeben. Die Sauce so über die Capuns in der Gratinform geben und noch mit geriebenen Käse bestreuen und in den vorgeheizten Backofen für noch 30 Min. auf mittleren Feuer gratinieren.
 
 Dazu passt - farblich gesehen- ein Tomatensalat.
+
+</SpeechOutput>

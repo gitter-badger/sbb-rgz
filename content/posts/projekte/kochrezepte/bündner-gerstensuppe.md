@@ -4,6 +4,11 @@ title: Bündner Gerstensuppe
 kategorie: 1. Suppen und Salate
 seodescription: Kochrezept für eine Bündner Gerstensuppe von Cecilia Rey-Lutz.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-gerstensuppe" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Cecilia Rey-Lutz
@@ -40,3 +45,5 @@ Siedfleisch,  gut mit kaltem Wasser abgespült, und 1 Teelöffel Salz, Pfeffer u
 ## Tipps
 
 Zum Siedfleisch schmeckt ein Kartoffelsalat vorzüglich.
+
+</SpeechOutput>

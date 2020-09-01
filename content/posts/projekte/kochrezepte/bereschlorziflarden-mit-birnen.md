@@ -5,6 +5,11 @@ kategorie: 3. Dessert
 seodescription: Bereschlorziflarden mit Birnen - ein Dessert von Klaus Marthy,
   der auch mal als Hauptgang gegessen werden darf
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-klaus-marthy-bereschlorziflarden-birnen" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Klaus Marthy
@@ -60,3 +65,5 @@ Mit den übrigen Zutaten mischen, auf den Teigboden verteilen.
 Alles mischen und auf der Bereschlorzi verteilen.
 
 Ungefähr 25 bis 30 Minuten bei etwa 200 Grad auf der untersten Rille des Backofens backen.
+
+</SpeechOutput>

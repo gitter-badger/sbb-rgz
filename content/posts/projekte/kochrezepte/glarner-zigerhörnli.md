@@ -4,6 +4,11 @@ title: Glarner Zigerhörnli
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Glarner Zigerhörnli eingereicht von Nicola Tragni
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-nicola-tragni" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Nicola Tragni
@@ -28,7 +33,8 @@ Nicola Tragni
 
 * 15g Butter 
 * 100ml Halbrahm 
-* 250g Hörnli 
+
+* 250g Hörnli 
 * 1 SchussMuskat gerieben 
 * 1 SchussPfeffer aus der Mühle 
 * 50g Schabziger 
@@ -47,3 +53,5 @@ Der Schabziger wird fein gerieben und dem Halbrahm beigefügt, mit Pfeffer und M
 Anschliessend werden die Zwiebelschnitze über die Hörnli gegeben. Nach Bedarf kann noch etwas Schabziger auf die Hörnli gerieben werden. 
 
 En gueta! 
+
+</SpeechOutput>

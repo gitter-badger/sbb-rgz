@@ -4,6 +4,11 @@ title: Kalbs- oder Schweinsmedaillon auf Tomatenbeet
 kategorie: 2. Hauptspeisen
 seodescription: Kalbs- oder Schweinsmedaillon auf Tomatenbeet von Manuela Denzler
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-manuela-denzler-kalbs-schweinsmedaillon-tomatenbeet" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Manuela Denzler
@@ -55,3 +60,5 @@ Achtung: Käse könnte oben braun werden, darum nach ca. 15 Min.
 Gratinform mit Alufolie zudecken bis fertig gratiniert
 
 Als Beilage z.B. Nüdeli servieren
+
+</SpeechOutput>

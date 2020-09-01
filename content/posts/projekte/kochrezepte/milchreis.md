@@ -4,6 +4,11 @@ title: Milchreis
 kategorie: 3. Dessert
 seodescription: Ein Rezept für Milchreis von Karin Rüedi
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-karin-ruedi-milchreis" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Karin Rüedi
@@ -40,3 +45,5 @@ Einen Liter Milch aufkochen, den Reis und die Rosinen dazugeben und unter ständ
 ## Tipps
 
 Je nach Belieben mit Zimt, Zucker, Schokolade oder allen Zutaten bestreuen.
+
+</SpeechOutput>

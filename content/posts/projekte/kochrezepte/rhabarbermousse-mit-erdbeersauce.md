@@ -5,15 +5,29 @@ kategorie: 3. Dessert
 seodescription: Rhabarbermousse mit Erdbeersauce - ein Rezept aus der Kochschule
   von Jeannine Ulrich
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-jeannine-ulrich-rhabarbermousse-erdbeersauce" customPlayButton={PlayButton}>
+
 ## Rezept von
+
 Jeannine Ulrich
+
 ## Menge
+
 4 Portionen
+
 ## Vorbereitungszeit
+
 ca. 1 Stunde, plus 4 Stunden kaltstellen
+
 ## Quelle
+
 aus der Kochschule von Jeannine Ulrich
+
 ## Zutaten
+
 * 500 g Rhabarber 
 * 1 Zitrone (Saft)
 * Zucker 
@@ -24,6 +38,7 @@ aus der Kochschule von Jeannine Ulrich
 * 400 g Erdbeeren
 
 ## Zubereitung
+
 ### Rhabarbermousse
 
 Rhabarber schälen, in Würfel schneiden und in eine Pfanne geben.
@@ -50,3 +65,5 @@ Bis zum Servieren Kühl stellen
 
 Die Erdbeersauce kann 1-2 Tage im Kühlschrank aufbewahrt
 werden. 
+
+</SpeechOutput>

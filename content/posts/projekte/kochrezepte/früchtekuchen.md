@@ -4,6 +4,11 @@ title: "Früchtekuchen "
 kategorie: 3. Dessert
 seodescription: Grundrezept für einen saisonalen Früchtekuchen
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-martina-schweizer" customPlayButton={PlayButton}>
+
 ## Rezept von
 Martina Schweizer
 
@@ -42,3 +47,5 @@ Backen: ca. 1 Std. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens
 
 ## Tipps
 Es können auch tiefgefrorene Früchte verwendet werden.  
+
+</SpeechOutput>

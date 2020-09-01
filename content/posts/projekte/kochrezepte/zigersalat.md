@@ -4,6 +4,11 @@ title: Zigersalat
 kategorie: 1. Suppen und Salate
 seodescription: Zigersalat. Ein eigenes Rezept von Klaus Marthy.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-klaus-marthy-zigersalat" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Klaus Marthy
@@ -26,4 +31,7 @@ Eigenes Rezept
 
 1. Salat in feine Streifen schneiden  
 2. Geriebener Ziger auf den Salat geben 
-3. Mit Salatsauce beträufeln und mit gerösteten Speckwürfeln bestreuen. (French- oder italienischer Salatsauce) 
+3. Mit Salatsauce beträufeln und mit gerösteten Speckwürfeln bestreuen. 
+(French- oder italienischer Salatsauce) 
+
+</SpeechOutput>

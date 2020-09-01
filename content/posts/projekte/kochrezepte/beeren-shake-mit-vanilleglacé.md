@@ -4,6 +4,11 @@ title: Erfrischender Beeren-Shake mit Vanilleglacé
 kategorie: 3. Dessert
 seodescription: Erfrischender Beeren-Shake mit Vanilleglacé
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-brigitte-marthy-beeren-shake-vanilleglace" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Brigitte Marthy
@@ -29,3 +34,5 @@ Brigitte Marthy
 Alle Zutaten ausser dem Vollrahm in einen Standmixer geben und mixen. 
 
 Den Vollrahm zu Schlagrahm schlagen und auf den Shakes anrichten. Nach Belieben mit Guezli oder Minze garnieren und servieren.
+
+</SpeechOutput>
