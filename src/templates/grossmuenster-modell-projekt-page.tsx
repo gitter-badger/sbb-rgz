@@ -39,7 +39,7 @@ const GrossmuensterModellPage = ({ data }: { data: any }) => {
       <GrossmuensterModellPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.bodx}
+        content={post.body}
       />
     </Layout>
   )

@@ -6,7 +6,6 @@ import { Helmet } from 'react-helmet'
 
 const ProjektePage = ({ data }: { data: any }) => {
   const { edges: projekte } = data.allMdx;
-  console.log(projekte);
   return (
     <Layout>
       <Helmet>
