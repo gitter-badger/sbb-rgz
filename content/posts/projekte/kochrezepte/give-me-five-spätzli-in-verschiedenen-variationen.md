@@ -5,7 +5,8 @@ kategorie: 2. Hauptspeisen
 seodescription: 5 Spätzlirezepte vorgestellt von Klaus Marthy.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-<SpeechOutput id="gedicht-carlos-greull">
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzlirezepte">
 
 ## Einleitung
 
