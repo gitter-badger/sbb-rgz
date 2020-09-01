@@ -10,6 +10,8 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-herbstanlass-2020" customPlayButton={PlayButton}>
 
+# 07.11.2020 - Herbstanlass
+
 Der traditionelle Herbstanlass im Landhus zusammen mit dem SBV.
 
 Details folgen!

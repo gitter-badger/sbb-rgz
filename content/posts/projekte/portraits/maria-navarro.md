@@ -15,6 +15,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="portrait-maria-navarro" customPlayButton={PlayButton}>
 
+# Maria Navarro
+
 Gedichte und Geschichten zu schreiben ist eine Freude und eine Passion, die mich seit meiner Kindheit begleitet. Bereits mit 11 Jahren habe ich Gedichte und Geschichten geschrieben. Das Schreiben gibt mir Freude, Kraft und Ansporn im täglichen Leben. Es ist wie ein Motor, der mir Energie spendet auch in schwierigen Zeiten. Es ist auch wunderbar, die geschriebenen Gedichte und Geschichten mit anderen Personen zu teilen.
  
 ## Erklären Sie kurz, wie Sie auf diese Tätigkeit gekommen sind

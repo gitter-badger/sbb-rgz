@@ -8,6 +8,8 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="impressum-page" customPlayButton={PlayButton}>
 
+# Impressum
+
 ## Verantwortung für den Inhalt
 
 Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.

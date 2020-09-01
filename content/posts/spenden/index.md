@@ -8,6 +8,8 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="spenden" customPlayButton={PlayButton}>
 
+# Spenden
+
 Die Regionalgruppe Zürich agiert autonom vom Schweizerischen Blindenbund und ist für seine Aktivitäten auf Spenden angewiesen. Jeder noch so kleine Betrag hilft, das Leben unserer Mitglieder zu erleichtern.
 
 Postkonto 80-55758-4

@@ -38,6 +38,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="portrait-hannelore-wartmann" customPlayButton={PlayButton}>
 
+# Hannelore Wartmann
+
 Mein Name: Hannelore W.
 
 Mein Alter: so alt oder jung wie der Blindenbund
@@ -55,6 +57,8 @@ Verwendetes Material:
 * Viereckiges Tuch
 * Einen Topf
 * Gips und Wasser
-* Goldene, weisse, schwarze  Acrylfarbe
+* Goldene, weisse,
+ schwarze 
+ Acrylfarbe
 
 </SpeechOutput>

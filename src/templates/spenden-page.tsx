@@ -13,9 +13,6 @@ export const SpendenPageTemplate = ({ title, content, contentComponent }: { titl
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-1">
-              {title}
-            </h1>
             <PageContent className="content" content={content} />
           </div>
         </div>

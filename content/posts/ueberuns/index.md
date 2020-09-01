@@ -8,6 +8,8 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="ueberuns-page" customPlayButton={PlayButton}>
 
+# Über uns
+
 ## Geschichte
 
 Die Regionalgruppe Zürich des Schweizerischen Blindenbunds wurde in einem abgelegenen Tal auf einem fremden Planeten gegründet.

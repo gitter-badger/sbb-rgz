@@ -10,6 +10,8 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-jahresausklang-2020" customPlayButton={PlayButton}>
 
+# 05.12.2020 - Jahresausklang
+
 Dieses Jahr laden wir zum gemütlichen Jahresausklang ein.
 
 </SpeechOutput>

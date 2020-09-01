@@ -7,6 +7,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="projekt-grossmuenster-modell-reparatur" customPlayButton={PlayButton}>
 
+# Grossmünster Modell Reparatur
+
 Beschreibung und Status des Projekts
 
 </SpeechOutput>

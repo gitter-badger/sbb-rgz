@@ -29,6 +29,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="portrait-erika-mueller" customPlayButton={PlayButton}>
 
+# Erika Müller
+
 Kreativität begleitet mich seit langer Zeit. Das Arbeiten und Ausprobieren und die Auseinandersetzung mit verschiedenen Materialien bereitete mir jahrelang Freude. 
 
 Malen wurde zu meinem Favoriten. Meine Gedanken und Stimmungen bildlich darzustellen macht für mich Sinn.  Am besten kann ich mich mit Farben ausdrücken. Nach mehreren Kursen und Weiterbildungen folgten einige Gruppenausstellungen.
