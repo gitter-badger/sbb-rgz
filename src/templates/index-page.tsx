@@ -151,7 +151,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
-            date(formatString: "DD.MM.YYYY")
+            date(formatString: "dddd, DD.MM.YYYY", locale: "de")
           }
         }
       }
