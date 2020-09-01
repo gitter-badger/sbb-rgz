@@ -4,8 +4,9 @@ title: Carlos Greull
 seodescription: Ein Gedicht von Carlos Greull
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="gedicht-carlos-greull">
+<SpeechOutput id="gedicht-carlos-greull" customPlayButton={PlayButton}>
 
 ### Ein Gedicht von Carlos Greull
 
