@@ -15,7 +15,7 @@ export const IndexPageTemplate = ({
   title: any,
   content: any,
   contentComponent?: any,
-  activities: any,
+  activities?: any,
   projects: any
 }) => {
   const PageContent = contentComponent || Content
@@ -34,38 +34,7 @@ export const IndexPageTemplate = ({
           <div className="column is-10 is-offset-1">
             <PageContent className="content" content={content} />
           </div>
-        </div>
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="content">
-              <h2>
-                Aktivitäten
-              </h2>
-              <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{activities &&
-                activities.map(({ node: activity }: { node: any }) => (
-                  <div className="tile  is-parent" key={activity.id}>
-                    <div className="tile is-child">
-                      <div className="card">
-                        <div className="card-content">
-                          <div className="media">
-                            <div className="media-content">
-                              <p className="title is-4"><Link
-                          to={activity.fields.slug}
-                        >{activity.frontmatter.title}</Link></p>
-                              <p className="subtitle is-6">{activity.frontmatter.date}</p>
-                            </div>
-                          </div>
-                          <div className="content">
-                            {activity.excerpt}
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                ))}</div>
-            </div>
-          </div>
-        </div>
+        </div>        
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
@@ -119,7 +88,6 @@ const IndexPage = ({ data }: { data: any }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.body}
-        activities={activities.edges}
         projects={projects.edges}
       />
     </Layout>
@@ -129,33 +97,14 @@ const IndexPage = ({ data }: { data: any }) => {
 export default IndexPage
 
 export const pageQuery = graphql`
-  query IndexPageTemplate ($currentDate: Date!) {
+  query IndexPageTemplate {
     index: mdx(frontmatter: { templateKey: { eq: "index-page" } }) {
       body
       frontmatter {
         title
       }
     }
-    activities: allMdx(
-      sort: { order: ASC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, date: { gte: $currentDate } } }
-      limit: 3
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 200)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            date(formatString: "dddd, DD.MM.YYYY", locale: "de")
-          }
-        }
-      }
-    }
+    
     projects: allMdx(
       sort: { order: ASC, fields: [frontmatter___reihenfolge] }
       filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
