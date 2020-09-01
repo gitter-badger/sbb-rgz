@@ -69,7 +69,7 @@ module.exports = {
             resolve: "gatsby-mdx-tts",
             options: {
               awsRegion: "eu-central-1",
-              defaultVoiceId: "Hans",
+              defaultVoiceId: "Marlene",
               awsCredentials: {
                 accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
                 secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
