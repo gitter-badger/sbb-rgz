@@ -5,8 +5,9 @@ kategorie: 2. Hauptspeisen
 seodescription: 5 Spätzlirezepte vorgestellt von Klaus Marthy.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzlirezepte">
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzlirezepte" customPlayButton={PlayButton}>
 
 ## Einleitung
 
