@@ -4,6 +4,11 @@ title: Give me five - Spätzli in verschiedenen Variationen
 kategorie: 2. Hauptspeisen
 seodescription: 5 Spätzlirezepte vorgestellt von Klaus Marthy.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-1" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Klaus Marthy
@@ -33,6 +38,10 @@ Oft mit Käse überbacken oder gerne gesehen zu Wild. Aber auch im Frühsommer m
 Alles zusammen in eine Schüssel geben und mit einer Holzkelle luftig schlagen. Teig zudecken und ca. 30 Minuten stehen lassen, nochmals mit der Kelle aufschlagen und los gehts. Im Salzwasser blanchieren:optimal vom Brett schaben oder durchs Knöpflisieb geben. 
 
 **Wichtig:** Das Wasser darf nicht kochen, sondern sollte sieden, sonst zerreissen die Spätzli. Wenn sie aufschwimmen, mit einem Sieb herausschöpfen und mit kaltem Wasser abschrecken. Abtropfen lassen und mit Butter oder Öl etwas anbraten oder anderweitig weiterverarbeiten für Aufläufe etc. 
+
+</SpeechOutput>
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-2" customPlayButton={PlayButton}>
 
 ## Curry-Kurkuma-Spätzli
 
@@ -102,3 +111,5 @@ Es gibt viele Grundrezepte für Spätzli. Ich mache sie gerne auf diese Weise, w
 ### Metaküche
 
 Mit 23 war Meta Hiltebrand die jüngste Küchenchefin der Schweiz. Heute führt sie das Restaurant Le Chef in Zürich und kocht regelmässig in TV-Shows in Deutschland und der Schweiz. Mehr Rezepte von Meta finden Sie in ihrem Kochbuch "Meta kocht!" (Gräfe und Unzer).
+
+</SpeechOutput>
