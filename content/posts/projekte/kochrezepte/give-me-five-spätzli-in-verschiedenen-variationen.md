@@ -31,7 +31,7 @@ Oft mit Käse überbacken oder gerne gesehen zu Wild. Aber auch im Frühsommer m
 * 100 g Knöpflimehl (kann auch durch normales Mehl ersetzt werden) 
 * 1 EL Salz  
 * 3 Eier  
-* 1.5 dl Milch
+* 1,5 dl Milch
 
 ### Zubereitung
 
@@ -78,7 +78,7 @@ Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, d
 ### Zutaten
 
 * 23 Briefchen Safranpulver 
-* 1 Pck Vanillezucker  
+* 1 Pack Vanillezucker  
 * Stängel Vanillemark
 
 ### Zubereitung
@@ -93,7 +93,7 @@ Alles in die Milch geben und mischen, weiter wie oben.
 
 ### Zutaten
 
-* 1.5 dl Randensaft evtl.  
+* 1,5 dl Randensaft evtl.  
 * 2 EL Randenpulver (Reformhaus)
 
 ### Zubereitung
