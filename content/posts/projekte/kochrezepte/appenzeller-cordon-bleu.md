@@ -4,6 +4,11 @@ title: Appenzeller Cordon  Bleu
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für ein Appenzeller Cordon Bleu von Klaus Marthy.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-klaus-marthy-appenzeller-cordon-bleu" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Klaus Marthy
@@ -40,3 +45,5 @@ Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Heris
 Die Zutaten für die Füllung gut mischen.  
 Die gewürzten Plätzli füllen und mit Zahnstocher zusammenheften.   
 In Mehl, Ei und Paniermehl wenden und in Bratbutter 6 bis 8 Minuten goldgelb braten. 
+
+</SpeechOutput>
