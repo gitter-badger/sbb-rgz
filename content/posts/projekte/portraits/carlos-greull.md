@@ -10,22 +10,22 @@ import { PlayButton } from "../../PlayButton"
 
 ### Ein Gedicht von Carlos Greull
 
-Und wenn auch die Augen  
-herzlich wenig taugen:  
-unbeirrt und gegen Widerstände,  
-mit dem Kopf durch alle Wände,  
-gelang mir doch das Studium  
+Und wenn auch die Augen\
+herzlich wenig taugen:\
+unbeirrt und gegen Widerstände,\
+mit dem Kopf durch alle Wände,\
+gelang mir doch das Studium\
 und der Weg aufs Podium.  
 
-Vielen Menschen Freude machen,  
-sei’s mit Tränen, sei’s mit Lachen,  
-gibt dem Leben einen Sinn.  
-Einfach dadurch, dass ich bin,  
+Vielen Menschen Freude machen,\
+sei’s mit Tränen, sei’s mit Lachen,\
+gibt dem Leben einen Sinn.\
+Einfach dadurch, dass ich bin,\
 so wie mir’s gegeben.
 
-Und so will ich weiter leben,  
-meine Gaben weiter geben.  
-Spielen, sprechen, schreiben, singen  
-wird auch deine Seel’ zum klingen bringen
+Und so will ich weiter leben,\
+meine Gaben weiter geben.\
+Spielen, sprechen, schreiben, singen\
+wird auch deine Seel’ zum klingen bringen.
 
 </SpeechOutput>
