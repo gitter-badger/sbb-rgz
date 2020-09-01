@@ -10,7 +10,7 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-erzaehlfuehrung" customPlayButton={PlayButton}>
 
-# 09.20.2020 - Erzählführung
+# 20.09.2020 - Erzählführung
 
 Führung durch die Stadt Zürich mit Erzählungen, Geräuschen und Düften.
 
