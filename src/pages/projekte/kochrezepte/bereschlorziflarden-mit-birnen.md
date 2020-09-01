@@ -43,7 +43,8 @@ Heidi Baumann
 
 ## Zubereitung
 
-### Boden (geriebener Teig) 
+### Boden (geriebener Teig)
+ 
 Mehl und kalte Butter fein reiben
 mit Salz und 1 dl Wasser kurz zu einem Teig kneten, Kühl stellen.
 Teig von Hand gleichmässig auf einem Blech verteilen. 

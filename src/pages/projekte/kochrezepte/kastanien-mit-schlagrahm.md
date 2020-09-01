@@ -9,7 +9,7 @@ seodescription: Kastanien mit Schlagrahm - Ein Tessiner Rezept
 Irma Rösch
 
 ## Menge
-4 Protionen
+4 Portionen
 
 
 ## Vorbereitungszeit
@@ -28,8 +28,8 @@ L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate 
 
 * 1 kg getrocknete und geschälte Kastanien
 * Wasser
-* Glas Rotwein, 
-* Rahm. 
+* Glas Rotwein
+* Rahm
 
 
 ## Zubereitung
