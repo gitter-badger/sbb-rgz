@@ -149,12 +149,12 @@ AktivitaetPostTemplate.propTypes = {
 }
 
 const AktivitaetPost = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
       <AktivitaetPostTemplate
-        content={post.html}
+        content={post.body}
         contentComponent={HTMLContent}
         helmet={
           <Helmet titleTemplate="%s - Schweizerischer Blindenbund Regionalgruppe Zürich">
@@ -176,19 +176,13 @@ const AktivitaetPost = ({ data }: { data: any }) => {
   )
 }
 
-AktivitaetPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
-
 export default AktivitaetPost
 
 export const pageQuery = graphql`
   query AktivitaetPostByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
-      html      
+      body      
       fields {
         slug
       }

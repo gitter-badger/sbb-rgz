@@ -31,7 +31,7 @@ UeberUnsPageTemplate.propTypes = {
 }
 
 const UeberUnsPage = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
@@ -45,22 +45,18 @@ const UeberUnsPage = ({ data }: { data: any }) => {
       <UeberUnsPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        content={post.body}
       />
     </Layout>
   )
-}
-
-UeberUnsPage.propTypes = {
-  data: PropTypes.object.isRequired,
 }
 
 export default UeberUnsPage
 
 export const ueberunsPageQuery = graphql`
   query UeberUnsPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
+    mdx(id: { eq: $id }) {
+      body
       frontmatter {
         title
       }

@@ -31,7 +31,7 @@ SpendenPageTemplate.propTypes = {
 }
 
 const SpendenPage = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
@@ -45,7 +45,7 @@ const SpendenPage = ({ data }: { data: any }) => {
       <SpendenPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        content={post.body}
       />
     </Layout>
   )
@@ -59,8 +59,8 @@ export default SpendenPage
 
 export const spendenPageQuery = graphql`
   query SpendenPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
+    mdx(id: { eq: $id }) {
+      body
       frontmatter {
         title
       }

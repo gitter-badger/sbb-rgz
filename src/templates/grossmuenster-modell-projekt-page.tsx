@@ -25,7 +25,7 @@ export const GrossmuensterModellPageTemplate = ({ title, content, contentCompone
 
 
 const GrossmuensterModellPage = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
@@ -39,7 +39,7 @@ const GrossmuensterModellPage = ({ data }: { data: any }) => {
       <GrossmuensterModellPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        content={post.bodx}
       />
     </Layout>
   )
@@ -49,8 +49,8 @@ export default GrossmuensterModellPage
 
 export const GrossmuensterModellPageQuery = graphql`
   query GrossmuensterModellPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
+    mdx(id: { eq: $id }) {
+      body
       frontmatter {
         title
       }

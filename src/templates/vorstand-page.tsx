@@ -6,7 +6,7 @@ import { Helmet } from 'react-helmet'
 import VorstandMember from '../components/VorstandMember'
 
 const VorstandPage = ({ data }: { data: any }) => {
-  const { edges: members } = data.allMarkdownRemark;
+  const { edges: members } = data.allMdx;
 
   return (
     <Layout>
@@ -41,19 +41,11 @@ const VorstandPage = ({ data }: { data: any }) => {
   )
 }
 
-VorstandPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  })
-}
-
 export default VorstandPage
 
 export const vorstandPageQuery = graphql`
       query VorstandMembersQuery {
-          allMarkdownRemark(
+          allMdx(
             sort: { order: ASC, fields: [frontmatter___reihenfolge] }
             filter: {frontmatter: {templateKey: {eq: "vorstand" } } }
         ) {

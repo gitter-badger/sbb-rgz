@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet';
 
 const PortraitsProjektPage = ({ data }: { data: any }) => {
-    const { edges: portraits } = data.allMarkdownRemark;
+    const { edges: portraits } = data.allMdx;
 
     return (
         <Layout>
@@ -43,7 +43,7 @@ export default PortraitsProjektPage;
 
 export const portraitsProjektQuery = graphql`
       query portraitsProjektQuery {
-          allMarkdownRemark(
+          allMdx(
             sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "portrait-item" } } }
         ) {

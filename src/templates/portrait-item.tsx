@@ -59,12 +59,12 @@ export const PortraitItemTemplate = ({
 }
 
 const PortraitItem = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
       <PortraitItemTemplate
-        content={post.html}
+        content={post.body}
         contentComponent={HTMLContent}
         helmet={
           <Helmet titleTemplate="%s - Schweizerischer Blindenbund Regionalgruppe Zürich">
@@ -89,9 +89,9 @@ export default PortraitItem
 
 export const portraitQuery = graphql`
   query PortraitItemById($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
-      html
+      body
       fields {
         slug
       }

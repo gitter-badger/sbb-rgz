@@ -25,7 +25,7 @@ export const IndexPageTemplate = ({
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-1">
+            <h1>
               {title}
             </h1>
           </div>
@@ -118,7 +118,7 @@ const IndexPage = ({ data }: { data: any }) => {
       <IndexPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        content={post.body}
         activities={activities.edges}
         projects={projects.edges}
       />
@@ -130,13 +130,13 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query IndexPageTemplate ($currentDate: Date!) {
-    index: markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
-      html
+    index: mdx(frontmatter: { templateKey: { eq: "index-page" } }) {
+      body
       frontmatter {
         title
       }
     }
-    activities: allMarkdownRemark(
+    activities: allMdx(
       sort: { order: ASC, fields: [frontmatter___date] }
       filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, date: { gte: $currentDate } } }
       limit: 3
@@ -156,7 +156,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    projects: allMarkdownRemark(
+    projects: allMdx(
       sort: { order: ASC, fields: [frontmatter___reihenfolge] }
       filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
       limit: 3

@@ -13,7 +13,7 @@ class AktivitaetList extends React.Component<IProps, {}> {
 
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { edges: posts } = data.allMdx
 
     return (
       <Layout>
@@ -55,19 +55,11 @@ class AktivitaetList extends React.Component<IProps, {}> {
   }
 }
 
-AktivitaetList.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  })
-}
-
 export default () => (
   <StaticQuery
     query={graphql`
       query AktivitaetListQuery {
-        allMarkdownRemark(
+        allMdx(
           sort: { order: ASC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" } } }
         ) {

@@ -24,14 +24,8 @@ export const ImpressumPageTemplate = ({ title, content, contentComponent }: { ti
   )
 }
 
-ImpressumPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
-
 const ImpressumPage = ({ data }: { data: any }) => {
-  const { markdownRemark: post } = data
+  const { mdx: post } = data
 
   return (
     <Layout>
@@ -45,22 +39,18 @@ const ImpressumPage = ({ data }: { data: any }) => {
       <ImpressumPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
-        content={post.html}
+        content={post.body}
       />
     </Layout>
   )
-}
-
-ImpressumPage.propTypes = {
-  data: PropTypes.object.isRequired,
 }
 
 export default ImpressumPage
 
 export const impressiumPageQuery = graphql`
   query ImpressumPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
+    mdx(id: { eq: $id }) {
+      body
       frontmatter {
         title
       }

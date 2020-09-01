@@ -40,7 +40,7 @@ export const KochrezeptTemplate = ({
 }
 
 const Kochrezept = ({ data }: { data: any }) => {
-  const { markdownRemark: recipe } = data
+  const { mdx: recipe } = data
 
   return (
     <Layout>
@@ -58,26 +58,20 @@ const Kochrezept = ({ data }: { data: any }) => {
           </Helmet>
         }
         title={recipe.frontmatter.title}
-        content={recipe.html}
+        content={recipe.body}
         contentComponent={HTMLContent}
       />
     </Layout>
   )
 }
 
-Kochrezept.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
-
 export default Kochrezept
 
 export const kochrezeptQuery = graphql`
   query KochrezeptByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    mdx(id: { eq: $id }) {
       id
-      html
+      body
       fields {
         slug
       }

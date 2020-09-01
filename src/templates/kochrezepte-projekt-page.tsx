@@ -4,7 +4,7 @@ import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet';
 
 const KochrezepteProjektPage = ({ data }: { data: any }) => {
-  const { group: recipes } = data.allMarkdownRemark;
+  const { group: recipes } = data.allMdx;
   return (
     <Layout>
       <Helmet>
@@ -47,7 +47,7 @@ export default KochrezepteProjektPage;
 
 export const kochrezepteProjektQuery = graphql`
       query KochrezepteProjektQuery {
-          allMarkdownRemark(
+          allMdx(
             sort: { order: ASC, fields: [frontmatter___title] }
             filter: {frontmatter: {templateKey: {eq: "kochrezept-item" } } }
         ) {

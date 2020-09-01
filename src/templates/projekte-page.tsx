@@ -5,7 +5,7 @@ import Img from 'gatsby-image'
 import { Helmet } from 'react-helmet'
 
 const ProjektePage = ({ data }: { data: any }) => {
-  const { edges: projekte } = data.allMarkdownRemark;
+  const { edges: projekte } = data.allMdx;
   console.log(projekte);
   return (
     <Layout>
@@ -58,7 +58,7 @@ export default ProjektePage
 
 export const projekteQuery = graphql`
       query ProjekteQuery {
-          allMarkdownRemark(
+          allMdx(
             sort: { order: ASC, fields: [frontmatter___reihenfolge] }
             filter: {frontmatter: {templateKey: {eq: "projekt-item" } } }
         ) {
