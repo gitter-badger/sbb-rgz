@@ -15,13 +15,19 @@ Den Klassiker kann man auf ganz unterschiedliche Arten zubereiten. Köchin Meta 
 
 Oft mit Käse überbacken oder gerne gesehen zu Wild. Aber auch im Frühsommer machen Spätzli Spass und sind zudem einfach zum Selbermachen und ergänzen Gerichte wunderbar. 
 
+## Rezept von
+Klaus Marthy
+
+## Quelle
+"Meta kocht!" (Gräfe und Unzer) von Meta Hiltebrand
+
 ## Basisrezept für Klassische Spätzli
 
 ### Zutaten
 
 * 220 g Mehl
 * 100 g Knöpflimehl (kann auch durch normales Mehl ersetzt werden) 
-* 1 EL Salz  
+* 1 EL Salz  
 * 3 Eier  
 * 1.5 dl Milch
 
