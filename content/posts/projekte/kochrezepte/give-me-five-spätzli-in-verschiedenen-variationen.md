@@ -9,17 +9,19 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzlirezepte" customPlayButton={PlayButton}>
 
+## Rezept von
+
+Klaus Marthy
+
+## Quelle
+
+"Meta kocht!" (Gräfe und Unzer) von Meta Hiltebrand
+
 ## Einleitung
 
 Den Klassiker kann man auf ganz unterschiedliche Arten zubereiten. Köchin Meta Hiltebrand macht auch gerne Safran-Vanille- oder Randenspätzli. Wer mag sie nicht, die berühmten Spätzli.  
 
 Oft mit Käse überbacken oder gerne gesehen zu Wild. Aber auch im Frühsommer machen Spätzli Spass und sind zudem einfach zum Selbermachen und ergänzen Gerichte wunderbar. 
-
-## Rezept von
-Klaus Marthy
-
-## Quelle
-"Meta kocht!" (Gräfe und Unzer) von Meta Hiltebrand
 
 ## Basisrezept für Klassische Spätzli
 
