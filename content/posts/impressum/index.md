@@ -4,7 +4,7 @@ path: /impressum
 title: Impressum
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
-import { PlayButton } from "../../PlayButton"
+import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="impressum-page" customPlayButton={PlayButton}>
 
