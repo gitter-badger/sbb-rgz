@@ -10,11 +10,12 @@ backend:
 
 media_folder: static/uploads
 public_folder: /uploads
+locale: 'de'
 
 collections:
   - name: "aktivitaetpost"
     label: "Aktivitäten"
-    folder: "src/pages/aktivitaet-posts"
+    folder: "content/posts/aktivitaet-posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:        
@@ -27,7 +28,7 @@ collections:
 
   - name: "vorstandmember"
     label: "Vorstand"
-    folder: "src/pages/vorstand-members"
+    folder: "content/posts/vorstand-members"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand"}
@@ -38,7 +39,7 @@ collections:
 
   - name: "projekte"
     label: "Projekte"
-    folder: "src/pages/projekt-items"
+    folder: "content/posts/projekt-items"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekt-item"}
@@ -50,7 +51,7 @@ collections:
 
   - name: "portraits"
     label: "Portraits"
-    folder: "src/pages/projekte/portraits"
+    folder: "content/posts/projekte/portraits"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portrait-item"}
@@ -61,7 +62,7 @@ collections:
 
   - name: "kochrezepte"
     label: "Kochrezepte"
-    folder: "src/pages/projekte/kochrezepte"
+    folder: "content/posts/projekte/kochrezepte"
     create: true
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezept-item"}
@@ -73,66 +74,66 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/index.md"
+      - file: "content/posts/index.md"
         label: "Startseite"
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/aktivitaeten/index.md"
+      - file: "content/posts/aktivitaeten/index.md"
         label: "Aktivitäten"
         name: "aktivitaeten"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/vorstand/index.md"
+      - file: "content/posts/vorstand/index.md"
         label: "Vorstand"
         name: "vorstand"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "vorstand-page"}
           - {label: "Title", name: "title", widget: "string"}
-      - file: "src/pages/projekte/index.md"
+      - file: "content/posts/projekte/index.md"
         label: "Projekte"
         name: "projekte"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "projekte-page"}
           - {label: "Title", name: "title", widget: "string"}
-      - file: "src/pages/projekte/kochrezepte-projekt/index.md"
+      - file: "content/posts/projekte/kochrezepte-projekt/index.md"
         label: "Kochrezepte"
         name: "kochrezepte-projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
-      - file: "src/pages/projekte/portraits-projekt/index.md"
+      - file: "content/posts/projekte/portraits-projekt/index.md"
         label: "Portraits"
         name: "portraits-projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portraits-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
-      - file: "src/pages/projekte/Grossmünster-Modell-Projekt/index.md"
+      - file: "content/posts/projekte/Grossmünster-Modell-Projekt/index.md"
         label: "Grossmünster Reparatur Projekt"
         name: "Grossmünster-Modell-Projekt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/impressum/index.md"
+      - file: "content/posts/impressum/index.md"
         label: "Impressum"
         name: "impressum"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "impressum-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/spenden/index.md"
+      - file: "content/posts/spenden/index.md"
         label: "Spenden"
         name: "spenden"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "spenden-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/ueberuns/index.md"
+      - file: "content/posts/ueberuns/index.md"
         label: "Über uns"
         name: "ueberuns"
         fields:
