@@ -4,6 +4,11 @@ title: Advents-Kartoffelgratin
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für einen Advents-Kartoffelgratin von Klaus Marthy.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-klaus-marthy-advents-kartoffelgratin" customPlayButton={PlayButton}>
+
 ## Rezept von
 
 Klaus Marthy
@@ -34,3 +39,5 @@ Kartoffeln, Lauch und Schinken oder Rippli in die ausgebutterte Form schichten. 
 Passt gut zu heisser Hamme, Wurst oder gebratenem Lamm. 
 
 Rotkraut oder Salat dazu servieren. 
+
+</SpeechOutput>
