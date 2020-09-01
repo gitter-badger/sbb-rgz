@@ -25,14 +25,13 @@ const KochrezepteProjektPage = ({ data }: { data: any }) => {
                 recipes.map((category: any) => (
                   <div className="column" key={category.fieldValue}>
                     <h2
-                          className="title is-size-2">{category.fieldValue}</h2>
+                          >{category.fieldValue}</h2>
                     {category.edges &&
                       category.edges.map(({node: recipe}: {node: any}) => (
                         <div key={recipe.id}>                        
-                        <Link
+                        <h4><Link
                           to={recipe.fields.slug}
-                        ><h4
-                          className="title is-size-4">{recipe.frontmatter.title}</h4></Link></div>
+                        >{recipe.frontmatter.title}</Link></h4></div>
                       ))}
                   </div>
                 ))}
