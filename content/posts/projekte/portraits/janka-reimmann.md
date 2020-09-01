@@ -3,6 +3,11 @@ templateKey: portrait-item
 title: Janka Reimmann
 seodescription: Vorstellung von Janka Reimmann
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="portrait-janka-reimmann" customPlayButton={PlayButton}>
+
 Während der Corona Krise wurde ich viel sportlicher. Zusammen mit zwei verschiedenen WhatsApp-Gruppen habe ich zweimal in der Woche per Telefon trainiert. Auf einmal kam mir der Gedanke, selber nach diversen Übungen zu suchen und ich habe mir gedacht, warum dafür nicht nach Sportarten zu suchen.
 
 Ich hoffe, damit auch andere blinde und sehbehinderte Personen zu animieren, sich täglich ein wenig zu bewegen. Es braucht nicht viel dazu und kann selbstständig und alleine durchgeführt werden.
@@ -52,3 +57,5 @@ Wir sitzen so auf dem Stuhl, dass die Lehne zum Bauch zeigt. Nun halten wir uns 
 Wir lassen unserer Fantasie freien Lauf und tanzen einfach vergnügt im Raum herum.
 
 Viel Spass damit wünscht Euch Janka Reimmann.
+
+</SpeechOutput>
