@@ -3,6 +3,10 @@ templateKey: portrait-item
 title: Carlos Greull
 seodescription: Ein Gedicht von Carlos Greull
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+
+<SpeechOutput id="inside">
+
 ### Ein Gedicht von Carlos Greull
 
 Und wenn auch die Augen  
@@ -22,3 +26,5 @@ Und so will ich weiter leben,
 meine Gaben weiter geben.  
 Spielen, sprechen, schreiben, singen  
 wird auch deine Seel’ zum klingen bringen
+
+</SpeechOutput>

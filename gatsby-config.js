@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`
+})
+
 module.exports = {
   siteMetadata: {
     title: 'Schweizerischer Blindenbund RGZ',
@@ -61,6 +65,17 @@ module.exports = {
               destinationDir: 'static',
             },
           },
+          {
+            resolve: "gatsby-mdx-tts",
+            options: {
+              awsRegion: "eu-central-1",
+              defaultVoiceId: "Vicki",
+              awsCredentials: {
+                accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
+                secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
+              }
+            },
+          }
         ],
       },
     },
