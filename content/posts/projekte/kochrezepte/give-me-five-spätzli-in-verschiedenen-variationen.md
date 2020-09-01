@@ -104,7 +104,7 @@ Haselnüsse im Ofen auf einem Blech bei 200 Grad 5 Minuten rösten, damit das Ar
 
 Es gibt viele Grundrezepte für Spätzli. Ich mache sie gerne auf diese Weise, weil sie so immer gelingen. Viele schwören auf kohlensäurehaltiges Mineralwasser, das den Teig luftig macht. Gerne kann man die Milch 2/3 ersetzen durch Wasser mit Kohlensäure oder nach Wunsch laktosefreie Milch mit Wasser mischen. Wer kein Knöpflimehl hat, kann den Teig auch nur mit Mehl machen. Durch das Knöpflimehl werden sie bissfester und robuster beim Anbraten. 
 
-## Metaküche
+### Metaküche
 
 Mit 23 war Meta Hiltebrand die jüngste Küchenchefin der Schweiz. Heute führt sie das Restaurant Le Chef in Zürich und kocht regelmässig in TV-Shows in Deutschland und der Schweiz. Mehr Rezepte von Meta finden Sie in ihrem Kochbuch "Meta kocht!" (Gräfe und Unzer). 
 
