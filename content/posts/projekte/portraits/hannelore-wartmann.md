@@ -33,6 +33,11 @@ photogallery:
       alt: Eine Kerze umwickelt von einer dschungelartigen, silbrigen Wand.
         Hergestellt aus Gips und Stoff.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="portrait-hannelore-wartmann" customPlayButton={PlayButton}>
+
 Mein Name: Hannelore W.
 
 Mein Alter: so alt oder jung wie der Blindenbund
@@ -51,3 +56,5 @@ Verwendetes Material:
 * Einen Topf
 * Gips und Wasser
 * Goldene, weisse, schwarze  Acrylfarbe
+
+</SpeechOutput>
