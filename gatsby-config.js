@@ -64,6 +64,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+      },
+    },
+    {
       resolve: "gatsby-plugin-use-dark-mode",
       options: {
         classNameDark: "dark-mode",

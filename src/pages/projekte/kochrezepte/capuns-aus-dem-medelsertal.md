@@ -24,12 +24,12 @@ Cecilia Rey-Lutz
 
 * 400g Knöpfliteig
 * 1 Tasse frische Käruter fein geschnitten (Schnittlauch, Peterli,
-  Lauchspitzen), je 3-4 Blätter Pfefferminze und Salbei<br>
-* 2 Landjäger ganz fein geschnitten<br>
-* 1 halbe Tasse Sultaninen<br>
-* etwa 10-12 Kraustil- oder Mangoldblätter (nur das Grünne verwenden)<br>
-* etwas Gemüsebouillon<br>
-* 1 dl Rahm oder Kaffeerahm für die Sauce<br>
+  Lauchspitzen), je 3-4 Blätter Pfefferminze und Salbei
+* 2 Landjäger ganz fein geschnitten
+* 1 halbe Tasse Sultaninen
+* etwa 10-12 Kraustil- oder Mangoldblätter (nur das Grünne verwenden)
+* etwas Gemüsebouillon
+* 1 dl Rahm oder Kaffeerahm für die Sauce
 * Reibkäse
 
 ## Zubereitung

@@ -26,11 +26,11 @@ Eigenes Rezept bzw. von früher aus Mamas Küche; genannt "Kalbs- oder Schweinsm
 
 ## Zutaten
 
-* 8 Kalbs- oder Schweinmedaillon<br>
-* 1 Knoblauchzehe<br>
-* 500 g gehackte Pelatti-Tomaten<br>
-* 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln<br>
-* 1 Hand voll Kapern<br>
+* 8 Kalbs- oder Schweinmedaillon
+* 1 Knoblauchzehe
+* 500 g gehackte Pelatti-Tomaten
+* 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln
+* 1 Hand voll Kapern
 * Olivenöl, Salz und Pfeffer
 
 ## Zubereitung
