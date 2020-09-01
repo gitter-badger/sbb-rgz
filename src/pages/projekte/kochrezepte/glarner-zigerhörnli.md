@@ -2,11 +2,11 @@
 templateKey: kochrezept-item
 title: Glarner Zigerhörnli
 kategorie: 2. Hauptspeisen
-seodescription: Ein Rezept für Glarner Zigerhörnli eingereicht von Nicola
+seodescription: Ein Rezept für Glarner Zigerhörnli eingereicht von Nicola Tragni
 ---
 ## Rezept von
 
-Nicola
+Nicola Tragni
 
 ## Menge
 
