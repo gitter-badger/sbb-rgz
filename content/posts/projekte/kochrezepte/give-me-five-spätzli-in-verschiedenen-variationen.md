@@ -55,6 +55,10 @@ Alles zusammen in eine Schüssel geben und mit einer Holzkelle luftig schlagen. 
 
 Alle diese Zutaten mit Milchmischen und restliche Zutaten wieder mit der Holzkelle vermengen und wie oben weiterverarbeiten. 
 
+</SpeechOutput>
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-3" customPlayButton={PlayButton}>
+
 ## Bärlauchspätzli
 
 ### Zutaten
@@ -64,6 +68,10 @@ Alle diese Zutaten mit Milchmischen und restliche Zutaten wieder mit der Holzkel
 ### Zubereitung
 
 Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, dann gleich weiter wie oben. P.S. Das Rezept gelingt auch mit Petersilie oder Spinat.
+
+</SpeechOutput>
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-4" customPlayButton={PlayButton}>
 
 ## Safran-Vanille-Spätzli
 
@@ -77,6 +85,10 @@ Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, d
 
 Alles in die Milch geben und mischen, weiter wie oben.
 
+</SpeechOutput>
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-5" customPlayButton={PlayButton}>
+
 ## Randenspätzli
 
 ### Zutaten
@@ -87,6 +99,10 @@ Alles in die Milch geben und mischen, weiter wie oben.
 ### Zubereitung
 
 Milch durch Randensaft ersetzen, das Pulver  wer will  in das Mehl geben. Gleich weiter wie oben.
+
+</SpeechOutput>
+
+<SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-6" customPlayButton={PlayButton}>
 
 ## Haselnussspätzli
 
