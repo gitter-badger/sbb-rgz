@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-irma-roesch-risotto-con-luganighetta-alla-grappa" customPlayButton={PlayButton}>
 
+# Risotto con Luganighetta alla Grappa
+
 ## Rezept von
 
 Irma Rösch

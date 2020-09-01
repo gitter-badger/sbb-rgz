@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-patrick-helbling-rotes-thai-curry-thunfischwuerfel" customPlayButton={PlayButton}>
 
+# Rotes Thai Curry mit Thunfischwürfel
+
 ## Rezept von
 
 Patrick Helbling

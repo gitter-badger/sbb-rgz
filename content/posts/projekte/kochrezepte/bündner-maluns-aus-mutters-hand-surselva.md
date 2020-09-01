@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-maluns" customPlayButton={PlayButton}>
 
+# Bündner Maluns aus Mutter's Hand (Surselva)
+
 ## Rezept von
 
 Cecilia Rey-Lutz

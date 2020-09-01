@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-irma-roesch-castagne-con-panna-montata" customPlayButton={PlayButton}>
 
+# Castagne con panna montata - Kastanien mit Schlagrahm
+
 ## Rezept von
 
 Irma Rösch

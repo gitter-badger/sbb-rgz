@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-jeannine-ulrich-rhabarbermousse-erdbeersauce" customPlayButton={PlayButton}>
 
+# Rhabarbermousse mit Erdbeersauce
+
 ## Rezept von
 
 Jeannine Ulrich

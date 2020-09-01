@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-jeannine-ulrich-zitronencake" customPlayButton={PlayButton}>
 
+# Getränkter Zitronen-Cake
+
 ## Rezept von
 Jeannine Ulrich
 

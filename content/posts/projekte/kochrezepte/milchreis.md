@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-karin-ruedi-milchreis" customPlayButton={PlayButton}>
 
+# Milchreis
+
 ## Rezept von
 
 Karin Rüedi

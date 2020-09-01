@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-advents-kartoffelgratin" customPlayButton={PlayButton}>
 
+# Advents-Kartoffelgratin
+
 ## Rezept von
 
 Klaus Marthy
@@ -34,7 +36,8 @@ Klaus Marthy
 
 ## Zubereitung
 
-Kartoffeln, Lauch und Schinken oder Rippli in die ausgebutterte Form schichten. Alle Zutaten verrühren, darüber giessen. Mit Käse bestreuen. In der Mitte des auf 180°C vorgeheizten Ofens 45 - 50 Minuten gratinieren.  
+Kartoffeln, Lauch und Schinken oder Rippli in die ausgebutterte Form schichten. Alle Zutaten verrühren, darüber giessen. Mit Käse bestreuen. 
+In der Mitte des auf 180°C vorgeheizten Ofens 45 - 50 Minuten gratinieren.  
 
 Passt gut zu heisser Hamme, Wurst oder gebratenem Lamm. 
 

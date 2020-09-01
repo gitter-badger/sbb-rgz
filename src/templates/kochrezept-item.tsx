@@ -24,14 +24,7 @@ export const KochrezeptTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <header>
-              <h1 className="title is-size-1">
-                {title}
-              </h1>
-            </header>
-            <section>
-              <PageContent className="content" content={content} />
-            </section>
+            <PageContent className="content" content={content} />
           </div>
         </div>
       </div>
@@ -51,7 +44,7 @@ const Kochrezept = ({ data }: { data: any }) => {
             <meta
               name="description"
               content={`${recipe.frontmatter.seodescription}`}
-            />            
+            />
             <meta property="og:title" content={recipe.frontmatter.title} />
             <meta property="og:description" content={`${recipe.frontmatter.seodescription}`} />
             <meta property="og:url" content={`https://www.rgz-blind.ch` + `${recipe.fields.slug}`} />

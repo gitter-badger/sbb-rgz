@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-walter-schmutz-couscous-lamm" customPlayButton={PlayButton}>
 
+# Couscous mit Lamm
+
 ## Rezept von
 
 Walter Schmutz

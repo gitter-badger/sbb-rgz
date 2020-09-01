@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-zigersalat" customPlayButton={PlayButton}>
 
+# Zigersalat
+
 ## Rezept von
 
 Klaus Marthy

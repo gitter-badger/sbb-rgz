@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-capuns" customPlayButton={PlayButton}>
 
+# Capuns aus dem Medelsertal
+
 ## Rezept von
 
 Cecilia Rey-Lutz

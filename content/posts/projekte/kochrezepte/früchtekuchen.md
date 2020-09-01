@@ -1,6 +1,6 @@
 ---
 templateKey: kochrezept-item
-title: "Früchtekuchen "
+title: Früchtekuchen
 kategorie: 3. Dessert
 seodescription: Grundrezept für einen saisonalen Früchtekuchen
 ---
@@ -9,10 +9,14 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-martina-schweizer" customPlayButton={PlayButton}>
 
+# Früchtekuchen
+
 ## Rezept von
+
 Martina Schweizer
 
 ## Menge
+
 ca. 8 Stück
 
 ## Vorbereitungszeit

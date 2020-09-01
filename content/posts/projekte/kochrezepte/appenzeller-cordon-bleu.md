@@ -1,6 +1,6 @@
 ---
 templateKey: kochrezept-item
-title: Appenzeller Cordon  Bleu
+title: Appenzeller Cordon Bleu
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für ein Appenzeller Cordon Bleu von Klaus Marthy.
 ---
@@ -8,6 +8,8 @@ import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-appenzeller-cordon-bleu" customPlayButton={PlayButton}>
+
+# Appenzeller Cordon Bleu
 
 ## Rezept von
 
@@ -37,7 +39,8 @@ Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Heris
 * Petersilie  
 * Mehl  
 * 1 Ei  
-* 1 EL Milch  
+* 1 EL Milch  
+
 * Paniermehl 
 
 ## Zubereitung

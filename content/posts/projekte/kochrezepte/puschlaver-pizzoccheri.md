@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-puschlaver-pizzoccheri" customPlayButton={PlayButton}>
 
+# Puschlaver Pizzoccheri
+
 ## Rezept von
 
 Klaus Marthy

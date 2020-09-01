@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-bereschlorziflarden-birnen" customPlayButton={PlayButton}>
 
+# Bereschlorziflarden mit Birnen
+
 ## Rezept von
 
 Klaus Marthy

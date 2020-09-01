@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-walter-schmutz-fischeintopf" customPlayButton={PlayButton}>
 
+# Einfacher Fischeintopf
+
 ## Rezept von
 
 Walter Schmutz

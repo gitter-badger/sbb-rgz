@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-manuela-denzler-kalbs-schweinsmedaillon-tomatenbeet" customPlayButton={PlayButton}>
 
+# Kalbs- oder Schweinsmedaillon auf Tomatenbeet
+
 ## Rezept von
 
 Manuela Denzler

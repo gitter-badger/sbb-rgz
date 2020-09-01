@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-mutter-rosa-navarro-kartoffeln-knoblauch-mandeln" customPlayButton={PlayButton}>
 
+# Kartoffeln in Knoblauch und Mandeln
+
 ## Rezept von
 
 Die Mutter von Rosa Navarro

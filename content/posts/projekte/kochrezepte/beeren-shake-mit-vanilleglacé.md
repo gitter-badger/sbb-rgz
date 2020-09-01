@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-brigitte-marthy-beeren-shake-vanilleglace" customPlayButton={PlayButton}>
 
+# Erfrischender Beeren-Shake mit Vanilleglacé
+
 ## Rezept von
 
 Brigitte Marthy

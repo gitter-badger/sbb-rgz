@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-gerstensuppe" customPlayButton={PlayButton}>
 
+# Bündner Gerstensuppe
+
 ## Rezept von
 
 Cecilia Rey-Lutz

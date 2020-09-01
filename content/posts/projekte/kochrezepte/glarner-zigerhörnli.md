@@ -9,6 +9,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-nicola-tragni" customPlayButton={PlayButton}>
 
+# Glarner Zigerhörnli
+
 ## Rezept von
 
 Nicola Tragni

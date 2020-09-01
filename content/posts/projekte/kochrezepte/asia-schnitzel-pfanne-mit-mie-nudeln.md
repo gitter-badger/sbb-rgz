@@ -10,6 +10,8 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-andrin-meier-asia-schnitzel-mie-nudeln" customPlayButton={PlayButton}>
 
+# Asia-Schnitzel-Pfanne mit Mie-Nudeln
+
 ## Rezept von
 
 Andrin Meier
