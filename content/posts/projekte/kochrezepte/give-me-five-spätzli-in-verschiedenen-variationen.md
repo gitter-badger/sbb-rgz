@@ -4,6 +4,9 @@ title: Give me five - Spätzli in verschiedenen Variationen
 kategorie: 2. Hauptspeisen
 seodescription: 5 Spätzlirezepte vorgestellt von Klaus Marthy.
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+<SpeechOutput id="gedicht-carlos-greull">
+
 ## Einleitung
 
 Den Klassiker kann man auf ganz unterschiedliche Arten zubereiten. Köchin Meta Hiltebrand macht auch gerne Safran-Vanille- oder Randenspätzli. Wer mag sie nicht, die berühmten Spätzli.  
@@ -94,3 +97,5 @@ Es gibt viele Grundrezepte für Spätzli. Ich mache sie gerne auf diese Weise, w
 ## Metaküche
 
 Mit 23 war Meta Hiltebrand die jüngste Küchenchefin der Schweiz. Heute führt sie das Restaurant Le Chef in Zürich und kocht regelmässig in TV-Shows in Deutschland und der Schweiz. Mehr Rezepte von Meta finden Sie in ihrem Kochbuch "Meta kocht!" (Gräfe und Unzer). 
+
+</SpeechOutput>
