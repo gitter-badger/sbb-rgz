@@ -3,6 +3,11 @@ templateKey: impressum-page
 path: /impressum
 title: Impressum
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="impressum-page" customPlayButton={PlayButton}>
+
 ## Verantwortung für den Inhalt
 
 Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.
@@ -12,3 +17,5 @@ Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.
 Andrin Meier
 
 E-Mail: webmaster@rgz-blind.ch
+
+</SpeechOutput>
