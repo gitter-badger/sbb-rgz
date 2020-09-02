@@ -11,6 +11,6 @@ import { PlayButton } from "./PlayButton"
 
 ## Aktuelles
 
-Wir bitten euch, eure Portraits und Kochrezepte einzuschicken.
+Die Seite befindet sich noch in Arbeit.
 
 </SpeechOutput>
