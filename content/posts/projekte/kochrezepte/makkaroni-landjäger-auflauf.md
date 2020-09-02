@@ -17,7 +17,7 @@ Margrit Vollenweider (Mutter von Annette Pedrotti)
 
 ## Menge
 
-2-3 Personenen
+2-3 Personen
 
 ## Vorbereitungszeit
 
