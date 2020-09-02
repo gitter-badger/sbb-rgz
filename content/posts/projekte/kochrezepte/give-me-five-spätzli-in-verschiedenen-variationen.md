@@ -79,7 +79,7 @@ Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, d
 
 ### Zutaten
 
-* 23 Briefchen Safranpulver 
+* 2-3 Briefchen Safranpulver 
 * 1 Pack Vanillezucker  
 * Stängel Vanillemark
 
