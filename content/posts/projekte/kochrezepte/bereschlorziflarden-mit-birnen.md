@@ -1,16 +1,16 @@
 ---
 templateKey: kochrezept-item
-title: Bereschlorziflarden mit Birnen
+title: Bereschlorzifladen mit Birnen
 kategorie: 3. Dessert
-seodescription: Bereschlorziflarden mit Birnen - ein Dessert von Klaus Marthy,
+seodescription: Bereschlorzifladen mit Birnen - ein Dessert von Klaus Marthy,
   der auch mal als Hauptgang gegessen werden darf
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-klaus-marthy-bereschlorziflarden-birnen" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-klaus-marthy-bereschlorzifladen-birnen" customPlayButton={PlayButton}>
 
-# Bereschlorziflarden mit Birnen
+# Bereschlorzifladen mit Birnen
 
 ## Rezept von
 
