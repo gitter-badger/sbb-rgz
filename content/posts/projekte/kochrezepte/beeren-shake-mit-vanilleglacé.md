@@ -27,7 +27,7 @@ Brigitte Marthy
 
 * 200 gr Beeren (z.B. Himbeeren oder Beerenmischung)
 * 3 Kugeln Vanilleglacé
-* 3 Tl. Puderzucker
+* 3 TL Puderzucker
 * 350 ml Milch
 * 100 ml Vollrahm
 
