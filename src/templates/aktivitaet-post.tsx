@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import { navigate } from 'gatsby-link'
@@ -136,13 +135,6 @@ export const AktivitaetPostTemplate = ({
       </div>
     </section>
   )
-}
-
-AktivitaetPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  title: PropTypes.string,
-  helmet: PropTypes.object,
 }
 
 const AktivitaetPost = ({ data }: { data: any }) => {

@@ -6,13 +6,11 @@ import { Helmet } from 'react-helmet'
 import Img from 'gatsby-image'
 
 export const IndexPageTemplate = ({
-  title,
   content,
   contentComponent,
   activities,
   projects
 }: {
-  title: any,
   content: any,
   contentComponent?: any,
   activities: any,
@@ -49,7 +47,7 @@ export const IndexPageTemplate = ({
                             </div>
                           </div>
                           <div className="content">
-                            {activity.shortdescription}
+                            {activity.frontmatter.shortdescription}
                           </div>
                         </div>
                       </div>
@@ -110,7 +108,6 @@ const IndexPage = ({ data }: { data: any }) => {
       </Helmet>
       <IndexPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
         content={post.body}
         activities={activities.edges}
         projects={projects.edges}
