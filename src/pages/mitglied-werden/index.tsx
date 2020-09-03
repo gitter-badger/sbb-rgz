@@ -64,7 +64,7 @@ export default class Index extends React.Component {
                       <input name="bot-field" onChange={this.handleChange} />
                     </label>
                   </div>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">Art der Mitgliedschaft</legend>
                     <div className="field">
                       <div className="control">
@@ -79,7 +79,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">Anrede</legend>
                     <div className="field">
                       <div className="control">
@@ -94,7 +94,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'name'}>
                       Name*
                     </label>
@@ -109,7 +109,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'strasse'}>
                       Strasse*
                     </label>
@@ -124,7 +124,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'plzort'}>
                       PLZ und Ort*
                     </label>
@@ -139,7 +139,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'kanton'}>
                       Kanton
                     </label>
@@ -153,7 +153,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'telefonprivat'}>
                       Telefon Privat
                     </label>
@@ -167,7 +167,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'telefongeschaeft'}>
                       Telefon Geschäft
                     </label>
@@ -181,7 +181,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'email'}>
                       Email
                   </label>
@@ -195,7 +195,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'beruf'}>
                       Beruf
                     </label>
@@ -209,7 +209,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'geburtsdatum'}>
                       Geburtsdatum
                     </label>
@@ -223,7 +223,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'zivilstand'}>
                       Zivilstand
                     </label>
@@ -237,7 +237,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">Grad der Sehbehinderung</legend>
                     <div className="field">
                       <div className="control">
@@ -261,7 +261,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'seit-wann-sehbehindert-oder-blind'}>
                       Falls sehbehindert oder blind, seit wann?
                     </label>
@@ -275,7 +275,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'erwartungen-sbb'}>
                       Was erwarten Sie vom Schweizerischen Blindenbund?
                     </label>
@@ -288,7 +288,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       Welche Beratungsstelle würden Sie ggf. aufsuchen?
                       </legend>
@@ -325,7 +325,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       Können Sie Blindenschrift lesen?
                     </legend>
@@ -346,7 +346,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       In welcher Form möchten Sie die Unterlagen des Schweizerischen Blindenbundes erhalten?
                     </legend>
@@ -367,7 +367,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       Besitzen Sie einer der folgenden Ausweiskarten?
                     </legend>
@@ -385,7 +385,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <div className="field">
+                  <div className="field mb-5">
                     <label className="label" htmlFor={'aufmerksam-auf-sbb-durch-wen'}>
                       Durch wen sind Sie auf den Schweizerischen Blindenbund aufmerksam gemacht worden?
                   </label>
@@ -398,7 +398,7 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       Um ihre Aufgaben wahrnehmen zu können, sind unsere Regionalgruppen auf aktive Mitarbeit ihrer Mitglieder sowie freiwillige Helfende angewiesen. Dürfen wir Sie bei Bedarf anfragen, ob Sie bereits sind, mitzuhelfen?
                     </legend>
@@ -415,7 +415,7 @@ export default class Index extends React.Component {
                       </div>
                     </div>
                   </fieldset>
-                  <fieldset>
+                  <fieldset className="mb-5">
                     <legend className="label">
                       Möchten Sie an den Veranstaltungen der Regionalgruppe teilnehmen und Einladungen dafür erhalten?
                     </legend>
