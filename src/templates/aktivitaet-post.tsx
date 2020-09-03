@@ -21,11 +21,11 @@ export const AktivitaetPostTemplate = ({
   helmet,
 }: {
   content: any,
-  contentComponent: any,
+  contentComponent?: any,
   title: any,
   date: any,
   anmeldeformularanzeigen: any,
-  helmet: any,
+  helmet?: any,
 }) => {
   const PostContent = contentComponent || Content
   const [formState, setFormState] = useState({});
