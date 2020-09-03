@@ -49,7 +49,7 @@ export const IndexPageTemplate = ({
                             </div>
                           </div>
                           <div className="content">
-                            {activity.excerpt}
+                            {activity.shortdescription}
                           </div>
                         </div>
                       </div>
@@ -136,13 +136,13 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 200)
           id
           fields {
             slug
           }
           frontmatter {
             title
+            shortdescription
             templateKey
             date(formatString: "dddd, DD.MM.YYYY", locale: "de")
           }

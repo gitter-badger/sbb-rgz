@@ -21,6 +21,7 @@ collections:
     fields:        
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaet-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Kurzbeschreibung", name: "shortdescription", widget: "string"}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "Veranstaltungsdatum", name: "date", widget: "datetime",  timeFormat: false, dateFormat: "DD.MM.YYYY"}
       - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
