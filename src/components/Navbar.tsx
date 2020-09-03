@@ -73,12 +73,6 @@ const Navbar = class extends React.Component<{}, IState> {
                 <Link className="navbar-item" to="/projekte">
                   Projekte
               </Link>
-                <Link className="navbar-item" to="/mitglied-werden">
-                  Mitglied werden
-              </Link>
-                <Link className="navbar-item" to="/spenden">
-                  Spenden
-              </Link>
                 <Link className="navbar-item" to="/vorstand">
                   Vorstand
               </Link>
@@ -87,6 +81,12 @@ const Navbar = class extends React.Component<{}, IState> {
               </Link>
                 <Link className="navbar-item" to="/kontakt">
                   Kontakt
+              </Link>
+                <Link className="navbar-item" to="/mitglied-werden">
+                  Mitglied werden
+              </Link>
+                <Link className="navbar-item" to="/spenden">
+                  Spenden
               </Link>
               </div>
             </div>
