@@ -68,25 +68,25 @@ const Navbar = class extends React.Component<{}, IState> {
             >
               <div className="navbar-end has-text-centered">
                 <Link className="navbar-item" to="/aktivitaeten">
-                  AKTIVITÄTEN
+                  Aktivitäten
               </Link>
                 <Link className="navbar-item" to="/projekte">
-                  PROJEKTE
-              </Link>
-                <Link className="navbar-item" to="/ueberuns">
-                  ÜBER UNS
-              </Link>
-                <Link className="navbar-item" to="/vorstand">
-                  VORSTAND
-              </Link>
-                <Link className="navbar-item" to="/kontakt">
-                  KONTAKT
+                  Projekte
               </Link>
                 <Link className="navbar-item" to="/mitglied-werden">
-                  MITGLIED WERDEN
+                  Mitglied werden
               </Link>
                 <Link className="navbar-item" to="/spenden">
-                  SPENDEN
+                  Spenden
+              </Link>
+                <Link className="navbar-item" to="/vorstand">
+                  Vorstand
+              </Link>
+                <Link className="navbar-item" to="/ueberuns">
+                  Über uns
+              </Link>
+                <Link className="navbar-item" to="/kontakt">
+                  Kontakt
               </Link>
               </div>
             </div>
