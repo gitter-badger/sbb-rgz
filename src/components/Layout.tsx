@@ -6,6 +6,7 @@ import Navbar from '../components/Navbar'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 import { SkipNavLink, SkipNavContent } from "@reach/skip-nav"
+import "@reach/skip-nav/styles.css";
 
 const TemplateWrapper = ({ children }: { children: any }) => {
   const { title, description } = useSiteMetadata()
