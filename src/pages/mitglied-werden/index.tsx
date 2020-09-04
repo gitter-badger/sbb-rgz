@@ -96,7 +96,7 @@ export default class Index extends React.Component {
                   </fieldset>
                   <div className="field mb-5">
                     <label className="label" htmlFor={'name'}>
-                      Name*
+                      Vor- und Nachname*
                     </label>
                     <div className="control">
                       <input
@@ -168,16 +168,16 @@ export default class Index extends React.Component {
                     </div>
                   </div>
                   <div className="field mb-5">
-                    <label className="label" htmlFor={'telefongeschaeft'}>
-                      Telefon Geschäft
+                    <label className="label" htmlFor={'handynummer'}>
+                      Handynummer
                     </label>
                     <div className="control">
                       <input
                         className="input"
                         type={'tel'}
-                        name={'telefongeschaeft'}
+                        name={'handynummer'}
                         onChange={this.handleChange}
-                        id={'telefongeschaeft'}
+                        id={'handynummer'}
                       />
                     </div>
                   </div>
