@@ -12,10 +12,12 @@ export default () => (
       <div className="container">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2">
-              Danke!
+            <div className="content">
+              <h1>
+                Danke!
               </h1>
-            <p>Wir haben deine Nachricht erhalten.</p>
+              <p>Wir haben deine Nachricht erhalten.</p>
+            </div>
           </div>
         </div>
       </div>
