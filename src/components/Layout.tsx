@@ -5,6 +5,7 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import { SkipNavLink, SkipNavContent } from "@reach/skip-nav"
 
 const TemplateWrapper = ({ children }: { children: any }) => {
   const { title, description } = useSiteMetadata()
@@ -49,7 +50,9 @@ const TemplateWrapper = ({ children }: { children: any }) => {
         <meta property="og:image:width" content="256" />
         <meta property="og:image:height" content="256" />
       </Helmet>
+      <SkipNavLink/>
       <Navbar />
+      <SkipNavContent />
       <main>{children}</main>
       <Footer />
     </div>
