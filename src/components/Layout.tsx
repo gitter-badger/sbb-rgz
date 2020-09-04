@@ -51,7 +51,7 @@ const TemplateWrapper = ({ children }: { children: any }) => {
         <meta property="og:image:width" content="256" />
         <meta property="og:image:height" content="256" />
       </Helmet>
-      <SkipNavLink/>
+      <SkipNavLink>Zum Hauptinhalt springen</SkipNavLink>
       <Navbar />
       <SkipNavContent />
       <main>{children}</main>

@@ -48,6 +48,8 @@ export default class Index extends React.Component {
                 <h1 className="title is-size-1">
                   Anmeldeformular
                   </h1>
+                  <p>Wenn Sie Interesse haben, Mitglied bei der Regionalgruppe Zürich zu werden, dann füllen Sie bitte das nachstehende Formular aus. Wir werden uns dann bei Ihnen melden.</p>
+                  <p>Die Aktivmitgliedschaft ist für Personen, welche eine Sehbehinderung haben oder blind sind. Der jährliche Mitgliederbeitrag für Aktivmitglieder beträgt CHF 40. Für Passivmitglieder beträgt der Mitgliederbeitrag CHF 30.</p>
                 <form
                   name="mitglied-werden"
                   method="post"
