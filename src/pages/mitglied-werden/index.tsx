@@ -68,13 +68,13 @@ export default class Index extends React.Component {
                     <legend className="label">Art der Mitgliedschaft</legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="mitgliedschaft" id="Aktivmitglied" value="Aktivmitglied"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio mr-3" htmlFor="Aktivmitglied">Aktivmitglied
+                        <label className="radio mr-3">
+                          <input type="radio" name="mitgliedschaft" id="Aktivmitglied" value="Aktivmitglied"
+                            onChange={this.handleChange} className="mr-1" /> Aktivmitglied
                       </label>
-                        <input type="radio" name="mitgliedschaft" value="Passivmitglied" id="Passivmitglied"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio" htmlFor="Passivmitglied">Passivmitglied
+                        <label className="radio">
+                          <input type="radio" name="mitgliedschaft" value="Passivmitglied" id="Passivmitglied"
+                            onChange={this.handleChange} className="mr-1" /> Passivmitglied
                       </label>
                       </div>
                     </div>
@@ -83,13 +83,13 @@ export default class Index extends React.Component {
                     <legend className="label">Anrede</legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="anrede" value="Herr" id="Herr"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio mr-3" htmlFor="Herr"> Herr
+                        <label className="radio mr-3">
+                          <input type="radio" name="anrede" value="Herr" id="anrede-herr"
+                            onChange={this.handleChange} className="mr-1" /> Herr
                       </label>
-                        <input type="radio" name="anrede" value="Frau" id="Frau"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio" htmlFor="Frau">Frau
+                        <label className="radio">
+                          <input type="radio" name="anrede" value="Frau" id="anrede-frau"
+                            onChange={this.handleChange} className="mr-1" /> Frau
                       </label>
                       </div>
                     </div>
@@ -241,22 +241,21 @@ export default class Index extends React.Component {
                     <legend className="label">Grad der Sehbehinderung</legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="grad-sehbehinderung" value="Keine Sehbehinderung"
-                          onChange={this.handleChange} id="keine-sehbehinderung" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="keine-sehbehinderung">keine Sehbehinderung
+                        <label className="radio mr-3">
+                          <input type="radio" name="grad-sehbehinderung" value="Keine Sehbehinderung"
+                            onChange={this.handleChange} id="keine-sehbehinderung" className="mr-1" /> keine Sehbehinderung
                       </label>
-                        <input type="radio" name="grad-sehbehinderung" value="stark sehbehindert"
-                          onChange={this.handleChange} id="stark-sehbehindert" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="stark-sehbehindert">stark sehbehindert
+                        <label className="radio mr-3">
+                          <input type="radio" name="grad-sehbehinderung" value="stark sehbehindert"
+                            onChange={this.handleChange} id="stark-sehbehindert" className="mr-1" /> stark sehbehindert
                       </label>
-                        <input type="radio" name="grad-sehbehinderung" value="Sehrest" id="sehrest"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio mr-3" htmlFor="sehrest">Sehrest
+                        <label className="radio mr-3">
+                          <input type="radio" name="grad-sehbehinderung" value="Sehrest" id="sehrest"
+                            onChange={this.handleChange} className="mr-1" /> Sehrest
                       </label>
-                        <input type="radio" name="grad-sehbehinderung" value="blind" id="blind"
-                          onChange={this.handleChange} className="mr-1" />
-
-                        <label className="radio" htmlFor="blind">blind
+                        <label className="radio">
+                          <input type="radio" name="grad-sehbehinderung" value="blind" id="blind"
+                            onChange={this.handleChange} className="mr-1" /> blind
                       </label>
                       </div>
                     </div>
@@ -294,33 +293,33 @@ export default class Index extends React.Component {
                       </legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Aarau" id="aarau"
-                          onChange={this.handleChange} className="mr-1" />
-                        <label className="radio mr-3" htmlFor="aarau">Aarau
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Aarau" id="aarau"
+                            onChange={this.handleChange} className="mr-1" /> Aarau
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Brig"
-                          onChange={this.handleChange} id="brig" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="brig">Brig
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Brig"
+                            onChange={this.handleChange} id="brig" className="mr-1" />Brig
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Schaffhausen"
-                          onChange={this.handleChange} id="schaffhausen" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="schaffhausen">Schaffhausen
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Schaffhausen"
+                            onChange={this.handleChange} id="schaffhausen" className="mr-1" /> Schaffhausen
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Thun"
-                          onChange={this.handleChange} id="thun" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="thun">Thun
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Thun"
+                            onChange={this.handleChange} id="thun" className="mr-1" /> Thun
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Uznach"
-                          onChange={this.handleChange} id="uznach" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="uznach">Uznach
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Uznach"
+                            onChange={this.handleChange} id="uznach" className="mr-1" /> Uznach
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Winterthur"
-                          onChange={this.handleChange} id="winterthur" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="winterthur"> Winterthur
+                        <label className="radio mr-3">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Winterthur"
+                            onChange={this.handleChange} id="winterthur" className="mr-1" /> Winterthur
                       </label>
-                        <input type="radio" name="aufzusuchende-beratungsstelle" value="Zürich"
-                          onChange={this.handleChange} id="zürich" className="mr-1" />
-                        <label className="radio" htmlFor="zürich">Zürich
+                        <label className="radio">
+                          <input type="radio" name="aufzusuchende-beratungsstelle" value="Zürich"
+                            onChange={this.handleChange} id="zürich" className="mr-1" /> Zürich
                       </label>
                       </div>
                     </div>
@@ -331,17 +330,17 @@ export default class Index extends React.Component {
                     </legend>
                     <div className="field">
                       <div className="control">
-                        <p><input type="checkbox" name="kann-vollschrift-lesen" value="Kann Vollschrift lesen"
-                          id="kann-vollschrift-lesen" onChange={this.handleChange} className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="kann-vollschrift-lesen">Kann Vollschrift lesen
+                        <p>
+                          <label className="checkbox mr-3"><input type="checkbox" name="kann-vollschrift-lesen" value="Kann Vollschrift lesen"
+                            id="kann-vollschrift-lesen" onChange={this.handleChange} className="mr-1" /> Kann Vollschrift lesen
                       </label></p>
-                        <p><input type="checkbox" name="kann-kurzschrift-lesen" value="Kann Kurzschrift lesen"
-                          onChange={this.handleChange} id="kann-kurzschrift-lesen" className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="kann-kurzschrift-lesen">Kann Kurzschrift lesen
+                        <p>
+                          <label className="checkbox mr-3"><input type="checkbox" name="kann-kurzschrift-lesen" value="Kann Kurzschrift lesen"
+                            onChange={this.handleChange} id="kann-kurzschrift-lesen" className="mr-1" /> Kann Kurzschrift lesen
                       </label></p>
-                        <p><input type="checkbox" name="kann-blindenschrift-nicht-lesen" value="Kann Blindenschrift nicht"
-                          onChange={this.handleChange} id="kann-blindenschrift-nicht-lesen" className="mr-1" />
-                          <label className="checkbox" htmlFor="kann-blindenschrift-nicht-lesen">Kann Blindenschrift nicht
+                        <p>
+                          <label className="checkbox"><input type="checkbox" name="kann-blindenschrift-nicht-lesen" value="Kann Blindenschrift nicht"
+                            onChange={this.handleChange} id="kann-blindenschrift-nicht-lesen" className="mr-1" />Kann Blindenschrift nicht
                       </label></p>
                       </div>
                     </div>
@@ -352,17 +351,17 @@ export default class Index extends React.Component {
                     </legend>
                     <div className="field">
                       <div className="control">
-                        <p><input type="checkbox" name="unterlagen-in-schwarzschrift" value="in Schwarzschrift (per Post)"
-                          onChange={this.handleChange} id="unterlagen-in-schwarzschrift" className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="unterlagen-in-schwarzschrift">in Schwarzschrift (per Post)
+                        <p>
+                          <label className="checkbox mr-3"><input type="checkbox" name="unterlagen-in-schwarzschrift" value="in Schwarzschrift (per Post)"
+                            onChange={this.handleChange} id="unterlagen-in-schwarzschrift" className="mr-1" /> in Schwarzschrift (per Post)
                       </label></p>
-                        <p><input type="checkbox" name="unterlagen-in-blindenschrift" value="in Blindenschrift (Kurzschrift, nur in deutsch)"
-                          onChange={this.handleChange} id="unterlagen-in-blindenschrift" className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="unterlagen-in-blindenschrift">in Blindenschrift (Kurzschrift, nur in deutsch)
+                        <p>
+                          <label className="checkbox mr-3"><input type="checkbox" name="unterlagen-in-blindenschrift" value="in Blindenschrift (Kurzschrift, nur in deutsch)"
+                            onChange={this.handleChange} id="unterlagen-in-blindenschrift" className="mr-1" /> in Blindenschrift (Kurzschrift, nur in deutsch)
                       </label></p>
-                        <p><input type="checkbox" name="unterlagen-per-email" value="per E-Mail"
-                          onChange={this.handleChange} id="unterlagen-per-email" className="mr-1" />
-                          <label className="checkbox" htmlFor="unterlagen-per-email">per E-Mail
+                        <p>
+                          <label className="checkbox"><input type="checkbox" name="unterlagen-per-email" value="per E-Mail"
+                            onChange={this.handleChange} id="unterlagen-per-email" className="mr-1" /> per E-Mail
                       </label></p>
                       </div>
                     </div>
@@ -374,13 +373,12 @@ export default class Index extends React.Component {
                     <div className="field">
                       <div className="control">
                         <p>
-                          <input type="checkbox" name="besitzt-begleiterkarte" value="Besitzt Begleiterkarte"
-                            onChange={this.handleChange} id="besitzt-begleiterkarte" className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="besitzt-begleiterkarte">Begleiterkarte ("Ausweiskarte für behinderteReisende") der Schweiz. Transportunternehmen
+                          <label className="checkbox mr-3"><input type="checkbox" name="besitzt-begleiterkarte" value="Besitzt Begleiterkarte"
+                            onChange={this.handleChange} id="besitzt-begleiterkarte" className="mr-1" /> Begleiterkarte ("Ausweiskarte für behinderteReisende") der Schweiz. Transportunternehmen
                       </label></p>
-                        <p><input type="checkbox" name="besitzt-jahreskarte-voev" value="Besitzt Jahreskarte VöV"
-                          onChange={this.handleChange} id="besitzt-jahreskarte-voev" className="mr-1" />
-                          <label className="checkbox mr-3" htmlFor="besitzt-jahreskarte-voev">Jahreskarte für Blinde und Sehbehinderte des VöV (Nahverkehrsunternehmungen)?
+                        <p>
+                          <label className="checkbox mr-3"><input type="checkbox" name="besitzt-jahreskarte-voev" value="Besitzt Jahreskarte VöV"
+                            onChange={this.handleChange} id="besitzt-jahreskarte-voev" className="mr-1" /> Jahreskarte für Blinde und Sehbehinderte des VöV (Nahverkehrsunternehmungen)?
                       </label></p>
                       </div>
                     </div>
@@ -404,13 +402,13 @@ export default class Index extends React.Component {
                     </legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="anfrage-mithilfe-erlaubt" value="Ja"
-                          onChange={this.handleChange} id="anfrage-mithilfe-ja" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="anfrage-mithilfe-ja">Ja
+                        <label className="radio mr-3">
+                          <input type="radio" name="anfrage-mithilfe-erlaubt" value="Bereit, mitzuhelfen"
+                            onChange={this.handleChange} id="anfrage-mithilfe-ja" className="mr-1" /> Ja
                       </label>
-                        <input type="radio" name="anfrage-mithilfe-erlaubt" value="Nein"
-                          onChange={this.handleChange} id="anfrage-mithilfe-nein" className="mr-1" />
-                        <label className="radio" htmlFor="anfrage-mithilfe-nein">Nein
+                        <label className="radio">
+                          <input type="radio" name="anfrage-mithilfe-erlaubt" value="Nicht bereit, mitzuhelfen"
+                            onChange={this.handleChange} id="anfrage-mithilfe-nein" className="mr-1" /> Nein
                       </label>
                       </div>
                     </div>
@@ -421,13 +419,13 @@ export default class Index extends React.Component {
                     </legend>
                     <div className="field">
                       <div className="control">
-                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Ja"
-                          onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-ja" className="mr-1" />
-                        <label className="radio mr-3" htmlFor="moechte-an-veranstaltungen-teilnehmen-ja">Ja
+                        <label className="radio mr-3">
+                          <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Möchte an Veranstaltungen teilnehmen"
+                            onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-ja" className="mr-1" /> Ja
                       </label>
-                        <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Nein"
-                          onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-nein" className="mr-1" />
-                        <label className="radio" htmlFor="moechte-an-veranstaltungen-teilnehmen-nein">Nein
+                        <label className="radio">
+                          <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Möchte nicht an Veranstaltungen teilnehmen"
+                            onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-nein" className="mr-1" /> Nein
                       </label>
                       </div>
                     </div>
