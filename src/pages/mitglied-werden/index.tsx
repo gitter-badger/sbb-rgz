@@ -340,7 +340,7 @@ export default class Index extends React.Component {
                       </label></p>
                         <p>
                           <label className="checkbox"><input type="checkbox" name="kann-blindenschrift-nicht-lesen" value="Kann Blindenschrift nicht"
-                            onChange={this.handleChange} id="kann-blindenschrift-nicht-lesen" className="mr-1" />Kann Blindenschrift nicht
+                            onChange={this.handleChange} id="kann-blindenschrift-nicht-lesen" className="mr-1" /> Kann Blindenschrift nicht
                       </label></p>
                       </div>
                     </div>
