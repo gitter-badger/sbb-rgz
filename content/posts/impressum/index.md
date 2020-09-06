@@ -18,6 +18,6 @@ Die Regionalgruppe Zürich des Schweizerischen Blindenbunds.
 
 Andrin Meier
 
-E-Mail: webmaster@rgz-blind.ch
+E-Mail: [webmaster@rgz-blind.ch](mailto:webmaster@rgz-blind.ch)
 
 </SpeechOutput>
