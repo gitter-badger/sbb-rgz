@@ -88,6 +88,7 @@ module.exports = {
         minify: true,
       },
     },
+    "gatsby-plugin-catch-links",
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

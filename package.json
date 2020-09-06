@@ -14,6 +14,7 @@
     "gatsby": "^2.24.53",
     "gatsby-image": "^2.3.5",
     "gatsby-mdx-tts": "0.0.12",
+    "gatsby-plugin-catch-links": "^2.3.11",
     "gatsby-plugin-mdx": "^1.2.37",
     "gatsby-plugin-netlify": "^2.2.4",
     "gatsby-plugin-netlify-cms": "^4.3.12",
