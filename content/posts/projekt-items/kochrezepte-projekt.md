@@ -5,7 +5,7 @@ bild:
   alt: Kochen
 title: Kochrezepte
 link: kochrezepte-projekt
-beschreibung: Eine Ansammlung von Kochrezepten unserer Mitglieder. Das Ziel ist
-  ein Kochbuch der Regionalgruppe Zürich.
+beschreibung: Eine Sammlung von Kochrezepten von Mitgliedern und Freunden der
+  RGZ. Dies ist ein Projekt zum 60-jährigen Jubiläum der RGZ im Jahr 2020.
 reihenfolge: 1
 ---
