@@ -10,7 +10,7 @@ import { PlayButton } from "../../PlayButton"
 
 # Carlos Greull
 
-### Ein Gedicht von Carlos Greull
+## Ein Gedicht von Carlos Greull
 
 Und wenn auch die Augen  
 herzlich wenig taugen:  
