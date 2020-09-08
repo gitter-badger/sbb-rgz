@@ -30,7 +30,9 @@ const VorstandPage = ({ data }: { data: any }) => {
                       <VorstandMember portrait={member.frontmatter.portrait}
                         title={member.frontmatter.title}
                         funktion={member.frontmatter.funktion}
-                        slug={member.fields.slug} />
+                        slug={member.fields.slug}
+                        telefon={member.frontmatter.telefon}
+                        email={member.frontmatter.email}/>
                     </div>
                   </div>
                 ))}</div>
@@ -59,6 +61,8 @@ export const vorstandPageQuery = graphql`
               frontmatter {
                 title
                 funktion
+                telefon
+                email
                 templateKey                
                 portrait {
                   alt

@@ -5,5 +5,7 @@ portrait:
   alt: Liliane Schweizer
 title: Liliane Schweizer
 funktion: Aktuarin
+telefon: 044 750 26 35
+email: liliane.schweizer@rgz-blind.ch
 reihenfolge: 3
 ---

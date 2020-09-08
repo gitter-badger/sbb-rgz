@@ -6,11 +6,15 @@ const VorstandMember = ({
   portrait,
   title,
   funktion,
+  telefon,
+  email,
   slug
 }: {
   portrait: any,
   title: string,
   funktion: string,
+  telefon: string,
+  email: string,
   slug: string
 }) => {
   return (
@@ -25,6 +29,8 @@ const VorstandMember = ({
           <div className="media-content">
             <Link to={slug}><p className="title is-4">{title}</p></Link>
             <p className="subtitle is-6">{funktion}</p>
+            <Link to={`tel:${telefon}`}><p className="subtitle is-6">{telefon}</p></Link>
+            <Link to={`mailto:${email}`}><p className="subtitle is-6">{email}</p></Link>
           </div>
         </div>
       </div>

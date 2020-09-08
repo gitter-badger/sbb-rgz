@@ -36,6 +36,8 @@ collections:
       - {label: "Portrait", name: "portrait", widget: object, fields: [{label: PortraitImage, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Funktion", name: "funktion", widget: "string"}
+      - {label: "Telefon", name: "telefon", widget: "string"}
+      - {label: "EMail", name: "email", widget: "string"}
       - {label: "Reihenfolge", name: "reihenfolge", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
 
