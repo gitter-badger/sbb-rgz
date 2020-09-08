@@ -29,7 +29,8 @@ const VorstandPage = ({ data }: { data: any }) => {
                     <div className="tile is-child">
                       <VorstandMember portrait={member.frontmatter.portrait}
                         title={member.frontmatter.title}
-                        funktion={member.frontmatter.funktion} />
+                        funktion={member.frontmatter.funktion}
+                        slug={member.fields.slug} />
                     </div>
                   </div>
                 ))}</div>
@@ -52,6 +53,9 @@ export const vorstandPageQuery = graphql`
           edges {
             node {
               id
+              fields {
+                slug
+              }
               frontmatter {
                 title
                 funktion

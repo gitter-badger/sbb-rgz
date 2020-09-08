@@ -1,26 +1,29 @@
 import React from 'react'
 import Img from 'gatsby-image'
+import { Link } from 'gatsby'
 
 const VorstandMember = ({
   portrait,
   title,
-  funktion
+  funktion,
+  slug
 }: {
   portrait: any,
-  title: any,
-  funktion: any
+  title: string,
+  funktion: string,
+  slug: string
 }) => {
   return (
     <div className="card">
       <div className="card-image">
         <figure className="image mx-0">
-          <Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} />
+          <Link to={slug}><Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} /></Link>
         </figure>
       </div>
       <div className="card-content">
         <div className="media">
           <div className="media-content">
-            <p className="title is-4">{title}</p>
+            <Link to={slug}><p className="title is-4">{title}</p></Link>
             <p className="subtitle is-6">{funktion}</p>
           </div>
         </div>
