@@ -68,6 +68,8 @@ export const vorstandQuery = graphql`
         title
         seodescription
         funktion
+        telefon
+        email
         portrait {
           alt
           image {

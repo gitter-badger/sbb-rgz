@@ -28,9 +28,9 @@ const VorstandMember = ({
         <div className="media">
           <div className="media-content">
             <Link to={slug}><p className="title is-4">{title}</p></Link>
-            <p className="subtitle is-6">{funktion}</p>
-            <Link to={`tel:${telefon}`}><p className="subtitle is-6">{telefon}</p></Link>
-            <Link to={`mailto:${email}`}><p className="subtitle is-6">{email}</p></Link>
+            <p className="is-6">{funktion}</p>
+            <a href={`tel:${telefon}`}><p className="is-6">Telefon: {telefon}</p></a>
+            <a href={`mailto:${email}`}><p className="is-6">E-Mail: {email}</p></a>
           </div>
         </div>
       </div>
