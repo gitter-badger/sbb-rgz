@@ -1,12 +1,12 @@
 ---
-templateKey: portrait-item
+templateKey: talent-item
 title: Janka Reimmann
 seodescription: Vorstellung von Janka Reimmann
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="portrait-janka-reimmann" customPlayButton={PlayButton}>
+<SpeechOutput id="talent-janka-reimmann" customPlayButton={PlayButton}>
 
 # Janka Reimmann
 

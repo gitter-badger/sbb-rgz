@@ -5,17 +5,15 @@ import Layout from '../components/Layout'
 import Img from 'gatsby-image'
 import Content, { HTMLContent } from '../components/Content'
 
-export const PortraitItemTemplate = ({
+export const TalentItemTemplate = ({
   content,
   contentComponent,
-  title,
   photogallery,
   helmet
 }: {
   content: any,
-  contentComponent: any,
-  title: any,
-  photogallery: any,
+  contentComponent?: any,
+  photogallery?: any,
   helmet?: any,
 }) => {
   const PageContent = contentComponent || Content
@@ -55,12 +53,12 @@ export const PortraitItemTemplate = ({
   )
 }
 
-const PortraitItem = ({ data }: { data: any }) => {
+const TalentItem = ({ data }: { data: any }) => {
   const { mdx: post } = data
 
   return (
     <Layout>
-      <PortraitItemTemplate
+      <TalentItemTemplate
         content={post.body}
         contentComponent={HTMLContent}
         helmet={
@@ -75,17 +73,16 @@ const PortraitItem = ({ data }: { data: any }) => {
             <meta property="og:url" content={`https://www.rgz-blind.ch` + `${post.fields.slug}`} />
           </Helmet>
         }
-        title={post.frontmatter.title}
         photogallery={post.frontmatter.photogallery}
       />
     </Layout>
   )
 }
 
-export default PortraitItem
+export default TalentItem
 
-export const portraitQuery = graphql`
-  query PortraitItemById($id: String!) {
+export const talentQuery = graphql`
+  query TalentItemById($id: String!) {
     mdx(id: { eq: $id }) {
       id
       body

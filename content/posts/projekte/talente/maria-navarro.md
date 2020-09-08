@@ -1,5 +1,5 @@
 ---
-templateKey: portrait-item
+templateKey: talent-item
 title: Maria Navarro
 seodescription: Vorstellung von Maria Navarro
 photogallery:
@@ -13,7 +13,7 @@ photogallery:
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="portrait-maria-navarro" customPlayButton={PlayButton}>
+<SpeechOutput id="talent-maria-navarro" customPlayButton={PlayButton}>
 
 # Maria Navarro
 

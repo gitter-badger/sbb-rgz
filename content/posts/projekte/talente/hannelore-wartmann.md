@@ -1,5 +1,5 @@
 ---
-templateKey: portrait-item
+templateKey: talent-item
 title: Hannelore Wartmann
 seodescription: Die Kunst von Hannelore Wartmann.
 photogallery:
@@ -36,7 +36,7 @@ photogallery:
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="portrait-hannelore-wartmann" customPlayButton={PlayButton}>
+<SpeechOutput id="talent-hannelore-wartmann" customPlayButton={PlayButton}>
 
 # Hannelore Wartmann
 

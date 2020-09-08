@@ -1,5 +1,5 @@
 ---
-templateKey: portrait-item
+templateKey: talent-item
 title: Christina Rösli
 seodescription: Vorstellung von Christina Rösli
 photogallery:
@@ -28,7 +28,7 @@ photogallery:
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="portrait-carlos-christina-roesli" customPlayButton={PlayButton}>
+<SpeechOutput id="talent-carlos-christina-roesli" customPlayButton={PlayButton}>
 
 # Christina Rösli
 

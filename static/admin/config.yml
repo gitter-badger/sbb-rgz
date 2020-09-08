@@ -50,12 +50,12 @@ collections:
       - {label: "Beschreibung", name: "beschreibung", widget: "string"}
       - {label: "Reihenfolge", name: "reihenfolge", widget: "number"}
 
-  - name: "portraits"
-    label: "Portraits"
-    folder: "content/posts/projekte/portraits"
+  - name: "talente"
+    label: "Talente und Aktivitäten"
+    folder: "content/posts/projekte/talente"
     create: true
     fields:        
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portrait-item"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talent-item"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"} 
       - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
@@ -107,11 +107,11 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "kochrezepte-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
-      - file: "content/posts/projekte/portraits-projekt/index.md"
-        label: "Portraits"
-        name: "portraits-projekt"
+      - file: "content/posts/projekte/talente-projekt/index.md"
+        label: "Talente und Aktivitäten"
+        name: "talente-projekt"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portraits-projekt-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "talente-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
       - file: "content/posts/projekte/Grossmünster-Modell-Projekt/index.md"
         label: "Grossmünster Reparatur Projekt"

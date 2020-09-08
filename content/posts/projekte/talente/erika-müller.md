@@ -1,5 +1,5 @@
 ---
-templateKey: portrait-item
+templateKey: talent-item
 title: Erika Müller
 seodescription: Vorstellung von Erika Müller. Kreativität und Malen.
 photogallery:
@@ -27,7 +27,7 @@ photogallery:
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="portrait-erika-mueller" customPlayButton={PlayButton}>
+<SpeechOutput id="talent-erika-mueller" customPlayButton={PlayButton}>
 
 # Erika Müller
 
