@@ -1,5 +1,5 @@
 ---
-templateKey: talent-item
+templateKey: projekt-item
 bild:
   image: /uploads/projekte_talente.jpg
   alt: Talente und Aktivitäten
