@@ -30,7 +30,7 @@ Heidi Metzner von Visit Zurich, wird uns mit Erzählungen, Geräuschen und Düft
 
 **Kosten:** 	Wegen der speziellen Situation und weil wir dieses Jahr bisher nur einen Anlass durchführen konnten, ist die Teilnahme ausnahmsweise kostenlos. 
 
-**Anmeldung:**	Bis Mittwoch, 16. September 2020 bei Martina: martina_schweizer@gmx.ch, 078 848 99 65 oder mit dem untenstehenden Anmeldeformular.
+**Anmeldung:**	Bis Mittwoch, 16. September 2020 mit dem untenstehenden Anmeldeformular.
 
 Wir freuen uns, euch an dieser aussergewöhnlichen Führung begrüssen zu dürfen. Bitte gebt bei der Anmeldung an, ob ihr individuell anreist, oder gemeinsam mit uns in den Öffentlichen Verkehrsmitteln. 
 
