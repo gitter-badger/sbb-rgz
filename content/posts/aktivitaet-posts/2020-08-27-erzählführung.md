@@ -32,6 +32,6 @@ Heidi Metzner von Visit Zurich, wird uns mit Erzählungen, Geräuschen und Düft
 
 **Anmeldung:**	Bis Mittwoch, 16. September 2020 mit dem untenstehenden Anmeldeformular.
 
-Wir freuen uns, euch an dieser aussergewöhnlichen Führung begrüssen zu dürfen. Bitte gebt bei der Anmeldung an, ob ihr individuell anreist, oder gemeinsam mit uns in den Öffentlichen Verkehrsmitteln. 
+Wir freuen uns, euch an dieser aussergewöhnlichen Führung begrüssen zu dürfen. Bitte gebt bei der Anmeldung an, ob ihr mit Begleitung kommt und ihr individuell anreist, oder gemeinsam mit uns in den Öffentlichen Verkehrsmitteln. 
 
 </SpeechOutput>
