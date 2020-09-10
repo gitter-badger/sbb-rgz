@@ -7,7 +7,7 @@ seodescription: Ein Rezept für Rote Grütze, eingereicht von Karin Rüedi.
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-klaus-marthy-advents-kartoffelgratin" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-karin-ruedi-rote-gruetze" customPlayButton={PlayButton}>
 
 # Rote Grütze
 
