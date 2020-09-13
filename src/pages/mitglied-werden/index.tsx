@@ -74,7 +74,7 @@ export default class Index extends React.Component {
                         <div className="control">
                           <label className="radio mr-3">
                             <input type="radio" name="mitgliedschaft" id="Aktivmitglied" value="Aktivmitglied"
-                              onChange={this.handleChange} className="mr-1" /> Aktivmitglied
+                              onChange={this.handleChange} className="mr-1" checked/> Aktivmitglied
                       </label>
                           <label className="radio">
                             <input type="radio" name="mitgliedschaft" value="Passivmitglied" id="Passivmitglied"
@@ -89,7 +89,7 @@ export default class Index extends React.Component {
                         <div className="control">
                           <label className="radio mr-3">
                             <input type="radio" name="anrede" value="Herr" id="anrede-herr"
-                              onChange={this.handleChange} className="mr-1" /> Herr
+                              onChange={this.handleChange} className="mr-1" checked/> Herr
                       </label>
                           <label className="radio">
                             <input type="radio" name="anrede" value="Frau" id="anrede-frau"
@@ -247,7 +247,7 @@ export default class Index extends React.Component {
                         <div className="control">
                           <label className="radio mr-3">
                             <input type="radio" name="grad-sehbehinderung" value="Keine Sehbehinderung"
-                              onChange={this.handleChange} id="keine-sehbehinderung" className="mr-1" /> keine Sehbehinderung
+                              onChange={this.handleChange} id="keine-sehbehinderung" className="mr-1" checked/> keine Sehbehinderung
                       </label>
                           <label className="radio mr-3">
                             <input type="radio" name="grad-sehbehinderung" value="stark sehbehindert"
@@ -297,6 +297,10 @@ export default class Index extends React.Component {
                       </legend>
                       <div className="field">
                         <div className="control">
+                        <label className="radio mr-3">
+                            <input type="radio" name="aufzusuchende-beratungsstelle" value="Keine Beratungsstelle" id="keine-beratungsstelle"
+                              onChange={this.handleChange} className="mr-1" checked/> Keine
+                      </label>
                           <label className="radio mr-3">
                             <input type="radio" name="aufzusuchende-beratungsstelle" value="Aarau" id="aarau"
                               onChange={this.handleChange} className="mr-1" /> Aarau
@@ -412,7 +416,7 @@ export default class Index extends React.Component {
                       </label>
                           <label className="radio">
                             <input type="radio" name="anfrage-mithilfe-erlaubt" value="Nicht bereit, mitzuhelfen"
-                              onChange={this.handleChange} id="anfrage-mithilfe-nein" className="mr-1" /> Nein
+                              onChange={this.handleChange} id="anfrage-mithilfe-nein" className="mr-1" checked/> Nein
                       </label>
                         </div>
                       </div>
@@ -429,7 +433,7 @@ export default class Index extends React.Component {
                       </label>
                           <label className="radio">
                             <input type="radio" name="moechte-an-veranstaltungen-teilnehmen" value="Möchte nicht an Veranstaltungen teilnehmen"
-                              onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-nein" className="mr-1" /> Nein
+                              onChange={this.handleChange} id="moechte-an-veranstaltungen-teilnehmen-nein" className="mr-1" checked/> Nein
                       </label>
                         </div>
                       </div>
