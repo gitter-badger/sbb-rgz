@@ -57,7 +57,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
-        plugins: ['gatsby-remark-relative-images', 'gatsby-remark-images', 'gatsby-remark-copy-linked-files'],
+        plugins: ['gatsby-mdx-tts', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
           {
             resolve: "gatsby-mdx-tts",
@@ -69,6 +69,23 @@ module.exports = {
                 secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
               }
             },
+          },
+          {
+            resolve: "gatsby-remark-embed-video",
+            options: {
+              width: 800,
+              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
+              height: 400, // Optional: Overrides optional.ratio
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+              urlOverrides: [
+                {
+                  id: 'youtube',
+                  embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                }
+              ], //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
+              containerClass: 'embedVideo-container', //Optional: Custom CSS class for iframe container, for multiple classes separate them by space
+            }
           },
           {
             resolve: 'gatsby-remark-relative-images',
