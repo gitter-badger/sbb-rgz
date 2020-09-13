@@ -18,6 +18,20 @@ module.exports = {
     'gatsby-plugin-typescript',
     'gatsby-plugin-sass',
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/uploads`,
+        name: 'assets',
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/posts`,
+        name: 'content',
+      },
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -43,6 +57,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
+        plugins: ['gatsby-remark-relative-images', 'gatsby-remark-images', 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
           {
             resolve: 'gatsby-remark-relative-images',
