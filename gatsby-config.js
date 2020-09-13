@@ -60,6 +60,17 @@ module.exports = {
         plugins: ['gatsby-remark-relative-images', 'gatsby-remark-images', 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
           {
+            resolve: "gatsby-mdx-tts",
+            options: {
+              awsRegion: "eu-central-1",
+              defaultVoiceId: "Vicki",
+              awsCredentials: {
+                accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
+                secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
+              }
+            },
+          },
+          {
             resolve: 'gatsby-remark-relative-images',
             options: {
               name: 'uploads',
@@ -78,17 +89,6 @@ module.exports = {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
               destinationDir: 'static',
-            },
-          },
-          {
-            resolve: "gatsby-mdx-tts",
-            options: {
-              awsRegion: "eu-central-1",
-              defaultVoiceId: "Vicki",
-              awsCredentials: {
-                accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
-                secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
-              }
             },
           }
         ],
