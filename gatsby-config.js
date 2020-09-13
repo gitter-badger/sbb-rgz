@@ -57,7 +57,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
-        plugins: ['gatsby-mdx-tts', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', 'gatsby-remark-copy-linked-files'],
+        plugins: ['gatsby-mdx-tts', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', `gatsby-remark-responsive-iframe`, 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
           {
             resolve: "gatsby-mdx-tts",
@@ -100,6 +100,7 @@ module.exports = {
               withWebp: true
             },
           },
+          `gatsby-remark-responsive-iframe`,
           {
             resolve: 'gatsby-remark-copy-linked-files',
             options: {
