@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import useDarkMode from "use-dark-mode"
 import banner from '../img/banner-rgz.svg'
 import bannerDark from '../img/banner-rgz_dark.svg'

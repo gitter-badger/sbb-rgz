@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet';
@@ -9,7 +8,6 @@ interface IProps {
 }
 
 class AktivitaetList extends React.Component<IProps, {}> {
-  static propTypes: any;
 
   render() {
     const { data } = this.props

@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
@@ -19,12 +18,6 @@ export const UeberUnsPageTemplate = ({ title, content, contentComponent }: { tit
       </div>
     </section>
   )
-}
-
-UeberUnsPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
 }
 
 const UeberUnsPage = ({ data }: { data: any }) => {

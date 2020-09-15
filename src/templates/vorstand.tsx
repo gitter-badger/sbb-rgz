@@ -2,7 +2,6 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Img from 'gatsby-image'
 import Content, { HTMLContent } from '../components/Content'
 
 export const VorstandTemplate = ({

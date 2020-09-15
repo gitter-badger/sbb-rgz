@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
@@ -21,12 +20,6 @@ export const SpendenPageTemplate = ({ title, content, contentComponent }: { titl
   )
 }
 
-SpendenPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
-
 const SpendenPage = ({ data }: { data: any }) => {
   const { mdx: post } = data
 
@@ -46,10 +39,6 @@ const SpendenPage = ({ data }: { data: any }) => {
       />
     </Layout>
   )
-}
-
-SpendenPage.propTypes = {
-  data: PropTypes.object.isRequired,
 }
 
 export default SpendenPage

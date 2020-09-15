@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import useDarkMode from "use-dark-mode"
 import home from '../img/home.svg'
 import homeDark from '../img/home_dark.svg'
