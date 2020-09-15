@@ -69,7 +69,7 @@ export const vorstandPageQuery = graphql`
                   image {
                     childImageSharp {
                       fluid(maxWidth: 400, quality: 92) {
-                        ...GatsbyImageSharpFluid
+                        ...GatsbyImageSharpFluid_withWebp_tracedSVG
                       }
                     }
                   }
