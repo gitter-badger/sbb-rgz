@@ -1,6 +1,8 @@
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 
+const replacePath = path => (path === `/` ? path : path.replace(/\/$/, ``));
+
 function getCurrentDate() {
   const d = new Date();
   let month = (d.getMonth() + 1).toString();
@@ -68,5 +70,15 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       node,
       value,
     })
+  }
+}
+
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+  const oldPage = Object.assign({}, page)
+  page.path = replacePath(page.path)
+  if (page.path !== oldPage.path) {
+    deletePage(oldPage)
+    createPage(page)
   }
 }
