@@ -14,7 +14,7 @@ const VorstandPage = ({ data }: { data: any }) => {
         <meta name="description" content='Vorstellung des Vorstands der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
         <meta property="og:title" content='Vorstandsmitglieder RGZ' />
         <meta property="og:description" content='Vorstellung des Vorstands der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/vorstand' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/vorstand/' />
       </Helmet>
       <section className="section">
         <div className="container content">

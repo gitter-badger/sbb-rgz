@@ -30,7 +30,7 @@ const NetzwerkPage = ({ data }: { data: any }) => {
         <meta name="description" content='Eine Übersicht über alle Partnervereine und Hilfsorganisationen, die mit der RGZ zusammenarbeiten.' />
         <meta property="og:title" content='Netzwerk' />
         <meta property="og:description" content='Eine Übersicht über alle Partnervereine und Hilfsorganisationen, die mit der RGZ zusammenarbeiten.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/netzwerk' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/netzwerk/' />
       </Helmet>
       <NetzwerkPageTemplate
         contentComponent={HTMLContent}

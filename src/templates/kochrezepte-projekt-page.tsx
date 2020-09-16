@@ -12,7 +12,7 @@ const KochrezepteProjektPage = ({ data }: { data: any }) => {
         <meta name="description" content='Kochrezepte der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
         <meta property="og:title" content='Kochrezepte' />
         <meta property="og:description" content='Kochrezepte der Mitglieder der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/projekte/kochrezepte-projekt' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/projekte/kochrezepte-projekt/' />
       </Helmet>
       <section className="section">
         <div className="container content">

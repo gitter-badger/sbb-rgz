@@ -30,7 +30,7 @@ const SpendenPage = ({ data }: { data: any }) => {
         <meta name="description" content='Wie man der Regionalgruppe Zürich des Schweizerischen Blindenbunds spendet.' />
         <meta property="og:title" content='Spenden' />
         <meta property="og:description" content='Wie man der Regionalgruppe Zürich des Schweizerischen Blindenbunds spendet.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/spenden' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/spenden/' />
       </Helmet>
       <SpendenPageTemplate
         contentComponent={HTMLContent}

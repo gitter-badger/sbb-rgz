@@ -40,6 +40,9 @@ export default class Index extends React.Component {
         <Helmet>
           <title>Mitglied werden - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
           <meta name="description" content='Anmeldeformular, um Mitglied zu werden bei der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
+          <meta property="og:title" content="Mitglied werden" />
+          <meta property="og:description" content={`Anmeldeformular, um Mitglied zu werden bei der Regionalgruppe Zürich des Schweizerischen Blindenbunds.`} />
+          <meta property="og:url" content={`https://www.rgz-blind.ch/mitglied-werden/`} />
         </Helmet>
         <section className="section">
           <div className="container">

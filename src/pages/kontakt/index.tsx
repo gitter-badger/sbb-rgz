@@ -40,6 +40,9 @@ export default class Index extends React.Component {
         <Helmet>
           <title>Kontakt - Schweizerischer Blindenbund Regionalgruppe Zürich</title>
           <meta name="description" content='Kontakt aufnehmen mit der Regionalgruppe Zürich.' />
+          <meta property="og:title" content="Kontakt" />
+          <meta property="og:description" content={`Kontakt aufnehmen mit der Regionalgruppe Zürich.`} />
+          <meta property="og:url" content={`https://www.rgz-blind.ch/kontakt/`} />
         </Helmet>
         <section className="section">
           <div className="container">

@@ -20,7 +20,7 @@ class AktivitaetList extends React.Component<IProps, {}> {
           <meta name="description" content='Aktivitäten der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
           <meta property="og:title" content='Aktivitäten' />
           <meta property="og:description" content='Aktivitäten der Regionalgruppe Zürich des Schweizerischen Blindenbunds.' />
-          <meta property="og:url" content='https://www.rgz-blind.ch/aktivitaeten' />
+          <meta property="og:url" content='https://www.rgz-blind.ch/aktivitaeten/' />
         </Helmet>
         <section className="section">
           <div className="container content">

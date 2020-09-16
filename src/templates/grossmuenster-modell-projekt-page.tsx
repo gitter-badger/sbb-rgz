@@ -31,7 +31,7 @@ const GrossmuensterModellPage = ({ data }: { data: any }) => {
         <meta name="description" content='Das Projekt um das Modell des Grossmünsters zu reparieren.' />
         <meta property="og:title" content='Grossmünster Modell Reparatur Projekt' />
         <meta property="og:description" content='Das Projekt um das Modell des Grossmünsters zu reparieren.' />
-        <meta property="og:url" content='https://www.rgz-blind.ch/projekte/Grossmünster-Modell-Projekt' />
+        <meta property="og:url" content='https://www.rgz-blind.ch/projekte/Grossmünster-Modell-Projekt/' />
       </Helmet>
       <GrossmuensterModellPageTemplate
         contentComponent={HTMLContent}
