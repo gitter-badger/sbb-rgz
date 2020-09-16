@@ -1,7 +1,7 @@
 ---
 templateKey: vorstand
 portrait:
-  image: /uploads/portrait_placeholder.jpg
+  image: /uploads/portrait_martina_schweizer.jpg
   alt: Martina Schweizer
 title: Martina Schweizer
 seodescription: Vorstellung von Martina Schweizer, Vizepräsidentin der Regionalgruppe Zürich.
@@ -19,7 +19,7 @@ import { PlayButton } from "../PlayButton"
 
 ## Bild
 
-![Bild von Martina Schweizer](/uploads/portrait_placeholder.jpg "Bild von Martina Schweizer")
+![Bild von Martina Schweizer](/uploads/portrait_martina_schweizer.jpg "Bild von Martina Schweizer")
 
 ## Funktion
 
