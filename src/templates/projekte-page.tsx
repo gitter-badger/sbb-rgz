@@ -28,13 +28,13 @@ const ProjektePage = ({ data }: { data: any }) => {
                       <div className="card">
                         <div className="card-image">
                           <figure className="image mx-0">
-                            <Link to={projekt.frontmatter.link + "/"}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
+                            <Link to={projekt.frontmatter.link}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
                           </figure>
                         </div>
                         <div className="card-content">
                           <div className="media">
                             <div className="media-content">
-                              <p className="title is-4"><Link to={projekt.frontmatter.link + "/"}><strong>{projekt.frontmatter.title}</strong></Link></p>
+                              <p className="title is-4"><Link to={projekt.frontmatter.link}><strong>{projekt.frontmatter.title}</strong></Link></p>
                             </div>
                           </div>                          
                           <div className="content">
