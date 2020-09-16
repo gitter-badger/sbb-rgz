@@ -126,6 +126,12 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.tsx`,
       },
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://www.rgz-blind.ch`,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
