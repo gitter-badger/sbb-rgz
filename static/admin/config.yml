@@ -11,9 +11,7 @@ backend:
 media_folder: static/uploads
 public_folder: /uploads
 locale: 'de'
-publish_mode: editorial_workflow
 site_url: https://www.rgz-blind.ch
-display_url: https://www.rgz-blind.ch
 
 collections:
   - name: "aktivitaetpost"
