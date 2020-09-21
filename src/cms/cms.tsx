@@ -7,8 +7,10 @@ import KochrezeptPagePreview from './preview-templates/KochrezeptPagePreview';
 import IndexPagePreview from './preview-templates/IndexPagePreview';
 import NetzwerkPagePreview from './preview-templates/NetzwerkPagePreview';
 import TalentPagePreview from './preview-templates/TalentPagePreview';
+import GruppePagePreview from './preview-templates/GruppePagePreview';
 
 CMS.registerPreviewTemplate('aktivitaetpost', AktivitaetPagePreview);
+CMS.registerPreviewTemplate('gruppepost', GruppePagePreview);
 CMS.registerPreviewTemplate('spenden', SpendenPagePreview);
 CMS.registerPreviewTemplate('impressum', ImpressumPagePreview);
 CMS.registerPreviewTemplate('netzwerk', NetzwerkPagePreview);
