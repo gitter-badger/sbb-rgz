@@ -28,6 +28,18 @@ collections:
       - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
+      
+  - name: "gruppepost"
+    label: "Gruppen"
+    folder: "content/posts/gruppe-posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:        
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "gruppe-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "vorstandmember"
     label: "Vorstand"
     folder: "content/posts/vorstand-members"

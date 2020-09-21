@@ -66,19 +66,6 @@ export const vorstandQuery = graphql`
       frontmatter {
         title
         seodescription
-        funktion
-        telefon
-        email
-        portrait {
-          alt
-          image {
-            childImageSharp {
-              fluid(maxWidth: 400, quality: 92) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
-              }
-            }
-          }
-        }
       }
     }
   }
