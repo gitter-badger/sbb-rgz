@@ -13,8 +13,8 @@ import { PlayButton } from "../PlayButton"
 
 # 07.11.2020 - Herbstanlass
 
-Liebe Mitglieder der RGZ
-Liebe Mitglieder des SBV, Sektionn Zürich/Schaffhausen
+Liebe Mitglieder der RGZ  
+Liebe Mitglieder des SBV, Sektion Zürich/Schaffhausen
 
 Auch in diesem besonderen Jahr laden wir euch gerne zu unserem gemeinsamen Herbstanlass ein, der dieses Jahr von der Sektion ZH/SH des SBV organisiert wird. 
 
@@ -33,14 +33,14 @@ Tram Nr. 14 bis Endstation Seebach
 
 ### Programm
 
-13.45 Uhr Türöffnung\
-14.15 Uhr Musikalische Unterhaltung\
-16.15 Uhr Essen\
+13.45 Uhr Türöffnung  
+14.15 Uhr Musikalische Unterhaltung  
+16.15 Uhr Essen  
 18.00 Uhr Ende der Veranstaltung
 
 ### Anmeldung
 
-Bis spätestens **Montag, 28. Oktober 2020** mit untenstehendem Formular.\
+Bis spätestens **Montag, 28. Oktober 2020** mit untenstehendem Formular.  
 Bitte gebt im Feld 'Bemerkung' auch den **Namen, die Adresse und das Geburtsdatum eurer Begleitperson** an und ob ihr das **Manü mit Fleisch oder Vegetarisch** möchtet. 
 
 </SpeechOutput>
