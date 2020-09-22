@@ -1,10 +1,15 @@
 ---
 templateKey: kochrezept-item
-title: Nudelteig für selbstgemachte frische Teigwwaren
+title: Nudelteig für selbstgemachte frische Teigwaren
 kategorie: 2. Hauptspeisen
-seodescription: Nudelteig für selbstgemachte frische Teigwwaren
+seodescription: Nudelteig für selbstgemachte frische Teigwaren
 ---
-# Nudelteig
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-bettina-prigge-nudelteig" customPlayButton={PlayButton}>
+
+# Nudelteig für selbstgemachte frische Teigwaren
 
 ## Rezept von
 Bettina Prigge
@@ -120,4 +125,6 @@ Kochen auf
 Tüchern ausbreiten .
 ## Quelle
 Claudia Marazzi. "Kochen macht Spass. Das grosse Pasta Kochbuch". 
+
+</SpeechOutput>
 
