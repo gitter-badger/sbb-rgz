@@ -48,7 +48,6 @@ Andrin Meier
 * 200 g Mie-Nudeln 
 * Salz 
 * Pfeffer 
-
 * 4 TL Sesamsamen 
 
 ## Zubereitung
