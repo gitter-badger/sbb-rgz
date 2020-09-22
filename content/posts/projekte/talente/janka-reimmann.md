@@ -10,7 +10,7 @@ import { PlayButton } from "../../PlayButton"
 
 # Janka Reimmann
 
-Während der Corona Krise wurde ich viel sportlicher. Zusammen mit zwei verschiedenen WhatsApp-Gruppen habe ich zweimal in der Woche per Telefon trainiert. Auf einmal kam mir der Gedanke, selber nach diversen Übungen zu suchen und ich habe mir gedacht, warum dafür nicht nach Sportarten zu suchen.
+Während der Corona-Krise wurde ich viel sportlicher. Zusammen mit zwei verschiedenen WhatsApp-Gruppen habe ich zweimal in der Woche per Telefon trainiert. Auf einmal kam mir der Gedanke, selber nach diversen Übungen zu suchen und ich habe mir gedacht, warum dafür nicht nach Sportarten zu suchen.
 
 Ich hoffe, damit auch andere blinde und sehbehinderte Personen zu animieren, sich täglich ein wenig zu bewegen. Es braucht nicht viel dazu und kann selbstständig und alleine durchgeführt werden.
 
@@ -40,11 +40,11 @@ Wir kicken abwechselnd unsere Füsse nach vorne und versuchen auch hier das Temp
 
 ### 6. Langlauf
 
-Wir strecken die Hände nach vorne und stellen uns vor wir halten 2 Stöcke in der Hand. Nun schwingen wir die Arme mit Elan nach hinten und gehen gleichzeitig tief in die Knie. Diese Bewegung wiederholen wir nun die ganze Zeit. 
+Wir strecken die Hände nach vorne und stellen uns vor, dass wir 2 Stöcke in der Hand halten. Nun schwingen wir die Arme mit Elan nach hinten und gehen gleichzeitig tief in die Knie. Diese Bewegung wiederholen wir nun die ganze Zeit. 
 
 ### 7. Rudern
 
-Wir setzen uns auf einen Stuhl. Dann strecken wir die Beine nach vorne und heben sie hoch. Die Arme werden ebenfalls nach vorne gestreckt mit leichtem Hang nach unten. Dann werden die Füsse nach hinten gezogen ohne den Boden zu berühren. Jedes Mal wenn die Beine nach vorn gestreckt werden, gehen wir mit den Händen und Unterarmen nach hinten, bis diese auf der Höhe der Schultern sind. Diese Bewegung wiederholen wir nun im eher langsamen tempo.
+Wir setzen uns auf einen Stuhl. Dann strecken wir die Beine nach vorne und heben sie hoch. Die Arme werden ebenfalls nach vorne gestreckt mit leichtem Hang nach unten. Dann werden die Füsse nach hinten gezogen ohne den Boden zu berühren. Jedes Mal wenn die Beine nach vorn gestreckt werden, gehen wir mit den Händen und Unterarmen nach hinten, bis diese auf der Höhe der Schultern sind. Diese Bewegung wiederholen wir nun in eher langsamem Tempo.
 
 ### 8. Radfahren
 
