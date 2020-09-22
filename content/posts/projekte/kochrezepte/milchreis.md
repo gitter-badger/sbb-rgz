@@ -17,7 +17,7 @@ Karin Rüedi
 
 ## Menge
 
-4-6 Personen (je nach Hunger)
+4-6 Portionen (je nach Hunger)
 
 ## Vorbereitungszeit
 
@@ -27,14 +27,11 @@ Keine
 
 20-30 Minuten (flüssiger oder trockener)
 
-## Quelle
-
-Wenn Petronilla kocht, Flavia Brüesch, Südostschweiz Buchverlag
-
 ## Zutaten
 
 * 2 Tassen Milchreis (z. Bsp. Originario Migros)
-* 2 Liter Vollmilch Eine Hand voll Rosinen (oder mehr)
+* 2 Liter Vollmilch 
+* Eine Handvoll Rosinen (oder mehr)
 * 1 Prise Salz
 * 1 TL Zucker
 * 1 nussgrosses Stück Butter
@@ -48,4 +45,7 @@ Einen Liter Milch aufkochen, den Reis und die Rosinen dazugeben und unter ständ
 
 Je nach Belieben mit Zimt, Zucker, Schokolade oder allen Zutaten bestreuen.
 
+## Quelle
+
+Wenn Petronilla kocht, Flavia Brüesch, Südostschweiz Buchverlag
 </SpeechOutput>
