@@ -17,7 +17,7 @@ Katharina Stockmann
 
 ## Menge
 
-5-6 Personen
+5-6 Portionen
 
 ## Vorbereitungszeit
 
@@ -32,32 +32,26 @@ Katharina Stockmann
 * 1 Apfel  
 * 1 Zwiebel 
 * 1 Banane
-
-alles zerkleinert  
-
-* 2 Essl. Curry Pulver 
+* 2 EL Curry-Pulver 
 * ½ Zimtstange
-
-alles  miteinander  in der Pfanne anbraten
- 
 * 3 dl Bouillon
-
-ablöschen, kochen
-
-* 1 Esslöffel Aprikosenconfi
+* 1 EL Aprikosenkonfitüre
 * 2 dl Kokosmilch 
-
-Abschmecken Pfeffer Curry  
+* Pfeffer 
+* Curry  
 
 ## Zubereitung
 
-1. Alles zusammen kochen ca. 30 Min 
-1. Zimtstange entfernen
-1. Pürieren 
-1. Verfeinern  mit Aprikosen Konfitüre und Kokosmilch würzen
+Apfel, Banane und Zwiebel in Stücke schneiden und mit dem Currypulver und der Zimtstange zusammen anbraten.
+
+Mit der Bouillon ablöschen und ca. 30 Minuten kochen lassen. Danach die Zimtstange entfernen und alles zusammen pürieren.  
+
+Verfeinern mit Aprikosenkonfitüre und Kokosmilch. 
+
+Nach Belieben mit Pfeffer und Curry würzen.
 
 ## Tipps
 
-Kann auch als Grundlage für eine Curry Suppe gebraucht werden.
+Kann auch als Grundlage für eine Curry-Suppe gebraucht werden.
 
 </SpeechOutput>
