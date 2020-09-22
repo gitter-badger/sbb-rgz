@@ -86,7 +86,7 @@ P.S. Das Rezept gelingt auch mit Petersilie oder Spinat.
 
 ### Zubereitung
 
-Alles in die Milch geben und mischen, weiter wie oben.
+Alles in die Milch geben und mischen. Gleich weiter wie oben.
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-5" customPlayButton={PlayButton}>
@@ -95,12 +95,12 @@ Alles in die Milch geben und mischen, weiter wie oben.
 
 ### Zutaten
 
-* 1,5 dl Randensaft evtl.  
-* 2 EL Randenpulver (Reformhaus)
+* 1,5 dl Randensaft   
+* evtl. 2 EL Randenpulver (Reformhaus)
 
 ### Zubereitung
 
-Milch durch Randensaft ersetzen, das Pulver  wer will  in das Mehl geben. Gleich weiter wie oben.
+Milch durch Randensaft ersetzen, evtl. das Randenpulver in das Mehl geben. Gleich weiter wie oben.
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-6" customPlayButton={PlayButton}>
