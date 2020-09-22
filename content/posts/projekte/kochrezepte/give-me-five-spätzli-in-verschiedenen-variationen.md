@@ -9,7 +9,7 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-1" customPlayButton={PlayButton}>
 
-# Give me five - Spätzli in verschiedenen Variationen
+# Give me Five - Spätzli in verschiedenen Variationen
 
 ## Rezept von
 
