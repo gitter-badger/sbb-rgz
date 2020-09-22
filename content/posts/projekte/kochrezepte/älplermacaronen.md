@@ -1,8 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Älplermacaronen
-kategorie:
-  - 2. Hauptspeisen
+kategorie: 2. Hauptspeisen
 seodescription: Älplermacaronen
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
