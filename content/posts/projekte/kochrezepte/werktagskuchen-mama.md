@@ -17,7 +17,7 @@ Katharina Stockmann
 
 ## Menge
 
-Für eine länglich Kuchenform
+Für eine längliche Kuchenform
 
 ## Vorbereitungszeit
 
@@ -30,26 +30,27 @@ Für eine länglich Kuchenform
 ## Zutaten
 
 * 250 ml Rahm
-* 100 gr. Zucker
+* 100 g Zucker
 * 2 Eier
-
-alles gut mischen
-
-* 125 gr. Mandeln gemahlen
+* 125 g Mandeln gemahlen
 * 1 Teelöffel  Backpulver
-* 125 gr. ca Mehl 
-* 100 gr. Schoggimöckli
-
-alles mischen und in Kuchenform giessen
+* 125 g Mehl 
+* 100 g Schoggimöckli
 
 ## Zubereitung
+Rahm, Zucker und Eier gut mischen.
 
-Backen ca. 40 min bei 180 Grad.
+Danach die restlichen Zutaten beigeben, alles mischen und in eine Kuchenform giessen. 
+
+Backen ca. 40 Min. bei 180°C
 
 ## Tipps
 
 * Satt Mandeln, Haselnüsse
-* Flüssige Schoggi 
-* Oder satt Schoggi Früchte 
+* Flüssige Schoggi statt Schoggimöckli
+* Oder Früchte satt Schoggi verwenden.
+
+## Quelle
+Ein Rezept meiner Mama für einen schnellen Kuchen unter der Woche. 
 
 </SpeechOutput>
