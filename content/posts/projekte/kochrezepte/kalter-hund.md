@@ -1,39 +1,63 @@
 ---
 templateKey: kochrezept-item
-title: Kalter Hund
-kategorie: 3. Dessert
-seodescription: Kalter Hund
+title: Khoresh Rivas
+kategorie: 1. Suppen und Salate
+seodescription: Khoresh Rivas
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-hannelore-wartmann-kalter-hund" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-martina-schweizer-khoresh-rivas" customPlayButton={PlayButton}>
 
-# Kalter Hund (Guetzli-Kuchen)
+# Khoresh Rivas - ein iranisches Gericht
 
 ## Rezept von
-Hannelore Wartmann
+Martina Schweizer
+
+## Menge
+4 Portionen
+## Vorbereitungszeit
+20-30 Minuten
+## Kochzeit
+1,5 – 2 Stunden 
 
 ## Zutaten
-- 600 g Kochschokolade
-- 150 g Kokosfett
-- 2 dl Vollrahm
-- 50 g Puderzucker
-- 2 EL Orangensaft
-- 200 g Petit Beurre
+- 500 g Rindfleisch, gewürfelt (Voressen)
+- 400 g frischer Rhabarber 
+- 5 dl Bouillon
+- 1 grosse Zwiebel
+- 2 Knoblauchzehen
+- Sonnenblumenöl
+- 2 Bund Peterli (kraus)
+- 2 Bund Pfefferminze
+- Kurkuma
+- Advieh (arabische Gewürzmischung, erhältlich in Spezialitätenläden)
+- Salz
+- Pfeffer
+- Zucker
 
+## Zubereitung
+Zwiebeln klein schneiden und mit Sonnenblumenöl und Kurkuma kurz anbraten. 
+Die Fleischwürfel dazugeben und kurz anbraten. Nach ca. 2-3 Minuten das Fleisch aus der Pfanne nehmen und mit Salz und Pfeffer würzen. 
 
-## Zubereitung:
-Blockschokolade zerstückeln und mit Kokosfett im Wasserbad zergehen lassen.
+Die Bouillon aufkochen, das Fleisch wieder hinzugeben und die Hitze reduzieren. Die Bouillon mit dem Fleisch kann nun auf kleiner Stufe ca. 1 Stunde köcheln. Das Fleisch sollte immer knapp mit Flüssigkeit bedeckt sein, falls nötig etwas Boullion nachgiessen.
 
-Danach alle Zutaten (ausser Petit Beurre) der Masse zufügen und vermischen.
+Während das Fleisch gart, hat man genug Zeit, alles andere vorzubereiten. Dazu muss man nun beim Peterli und der Pfefferminze die Stiele entfernen und alles ganz fein hacken. 
 
-Cakeform grosszügig mit Klarsichtfolie auslegen.
+Danach in einer beschichteten Pfanne 2 EL Öl erhitzen, die Kräuter darin kurz weich schmoren. Zum Fleisch geben und zusammen eine weitere halbe Stunde köcheln lassen. Wenn nötig, etwas Brühe oder Wasser nachgiessen. Die Konsistenz soll suppenartig bleiben. 
 
-Eine dünne Schicht der Masse in Form geben und verteilen. Danach Petit Beurre auf die Masse legen. Dies abwechslungsweise wiederholen bis die Form voll ist. Restliche Schokoladenmasse verteilen.
+Den Rhabarber waschen und in 2 bis 3 cm lange Stücke schneiden und in der gleichen Pfanne wie vorhin die Kräuter mit 1 EL Öl zwei bis drei Minuten dünsten. 
 
-Mit der Folie zudecken und für 5 Std. in den Kühlschrank.
+Sobald das Fleisch weich und zart ist, den Rhabarber in die Suppe geben und zwei bis drei Minuten mitkochen. Mit Salz und der Advieh-Gewürzmischung abschmecken. Wem das Gericht zu sauer ist, kann noch 1 - 2 KL Zucker dazugeben. 
 
-Den Block bei Zimmertemperatur in Scheiben schneiden und mit geschlagenem Rahm servieren.
+## Tipps
+-	Dazu passen Pitabrot, Reis oder der iranische Reisfladen namens Tadig
+-	Das Advieh kann man auch selbst herstellen mit einem Mörser aus ½ TL Zimt, 3 zerdrückten Kapseln Kardamom, ½ TL gemahlener Koriander und 1 Prise Muskat 
+-	Wer es etwas edler mag, nimmt statt Voressen Rindshohrücken. Dadurch reduziert sich die Kochzeit je nachdem auf ca. 1 Stunde. 
+-	Statt auf dem Herd kann das Gericht auch im Ofen bei ca. 180°C in einem Schmortopf gegart werden. Einfach darauf achten, dass genug Flüssigkeit im Topf ist und bei Bedarf nachgiessen.
+
+## Quelle
+eigenes Rezept
+
 
 </SpeechOutput>
