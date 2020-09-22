@@ -34,4 +34,6 @@ Eine dünne Schicht der Masse in Form geben und verteilen. Danach Petit Beurre a
 
 Mit der Folie zudecken und für 5 Std. in den Kühlschrank.
 
+Den Block bei Zimmertemperatur in Scheiben schneiden und mit geschlagenem Rahm servieren.
+
 </SpeechOutput>
