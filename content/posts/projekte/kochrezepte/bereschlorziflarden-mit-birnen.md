@@ -20,10 +20,6 @@ Klaus Marthy
 
 25-30 Minuten
 
-## Quelle
-
-Heidi Baumann
-
 ## Zutaten
 
 ### Boden (geriebener Teig) 
@@ -68,4 +64,7 @@ Alles mischen und auf der Bereschlorzi verteilen.
 
 Ungefähr 25 bis 30 Minuten bei etwa 200 Grad auf der untersten Rille des Backofens backen.
 
+## Quelle
+
+Heidi Baumann
 </SpeechOutput>
