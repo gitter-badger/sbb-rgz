@@ -1,8 +1,8 @@
 ---
 templateKey: kochrezept-item
-title: Give me five - Spätzli in verschiedenen Variationen
+title: Give me Five - Spätzli in verschiedenen Variationen
 kategorie: 2. Hauptspeisen
-seodescription: 5 Spätzlirezepte vorgestellt von Klaus Marthy.
+seodescription: 5 Spätzlirezepte, vorgestellt von Klaus Marthy.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
@@ -15,9 +15,6 @@ import { PlayButton } from "../../PlayButton"
 
 Klaus Marthy
 
-## Quelle
-
-"Meta kocht!" (Gräfe und Unzer) von Meta Hiltebrand
 
 ## Einleitung
 
@@ -41,6 +38,10 @@ Alles zusammen in eine Schüssel geben und mit einer Holzkelle luftig schlagen. 
 
 **Wichtig:** Das Wasser darf nicht kochen, sondern sollte sieden, sonst zerreissen die Spätzli. Wenn sie aufschwimmen, mit einem Sieb herausschöpfen und mit kaltem Wasser abschrecken. Abtropfen lassen und mit Butter oder Öl etwas anbraten oder anderweitig weiterverarbeiten für Aufläufe etc. 
 
+## Tipp
+Die Milch kann zu 2/3 mit kohlesäurehaltigem Mineralwasser ersetzt werden. Das macht den Teig schön luftig. 
+
+Statt Knöpflimehl kann auch normales Mehl verwendet werden. Mit dem Knöpflimehl werden die Spätzli bissfester und robuster beim Anbraten. 
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-2" customPlayButton={PlayButton}>
@@ -56,7 +57,6 @@ Alles zusammen in eine Schüssel geben und mit einer Holzkelle luftig schlagen. 
 ### Zubereitung
 
 Alle diese Zutaten mit Milchmischen und restliche Zutaten wieder mit der Holzkelle vermengen und wie oben weiterverarbeiten. 
-
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-3" customPlayButton={PlayButton}>
@@ -69,8 +69,9 @@ Alle diese Zutaten mit Milchmischen und restliche Zutaten wieder mit der Holzkel
 
 ### Zubereitung
 
-Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, dann gleich weiter wie oben. P.S. Das Rezept gelingt auch mit Petersilie oder Spinat.
+Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, dann gleich weiter wie oben. 
 
+P.S. Das Rezept gelingt auch mit Petersilie oder Spinat.
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-4" customPlayButton={PlayButton}>
@@ -86,7 +87,6 @@ Den Bärlauch mit der Milch pürieren, bis eine schöne grüne Milch entsteht, d
 ### Zubereitung
 
 Alles in die Milch geben und mischen, weiter wie oben.
-
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-5" customPlayButton={PlayButton}>
@@ -101,7 +101,6 @@ Alles in die Milch geben und mischen, weiter wie oben.
 ### Zubereitung
 
 Milch durch Randensaft ersetzen, das Pulver  wer will  in das Mehl geben. Gleich weiter wie oben.
-
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-6" customPlayButton={PlayButton}>
@@ -122,9 +121,9 @@ Milch durch Randensaft ersetzen, das Pulver  wer will  in das Mehl geben. Gleich
 
 Haselnüsse im Ofen auf einem Blech bei 200 Grad 5 Minuten rösten, damit das Aroma intensiver wird. Alle Zutaten in eine Schüssel geben und wie oben weiterfahren. Geht auch mit Mandeln oder gemahlenen Haselnüssen.
 
-## Info
+## Quelle
 
-Es gibt viele Grundrezepte für Spätzli. Ich mache sie gerne auf diese Weise, weil sie so immer gelingen. Viele schwören auf kohlensäurehaltiges Mineralwasser, das den Teig luftig macht. Gerne kann man die Milch 2/3 ersetzen durch Wasser mit Kohlensäure oder nach Wunsch laktosefreie Milch mit Wasser mischen. Wer kein Knöpflimehl hat, kann den Teig auch nur mit Mehl machen. Durch das Knöpflimehl werden sie bissfester und robuster beim Anbraten. 
+"Meta kocht!" (Gräfe und Unzer) von Meta Hiltebrand
 
 ### Metaküche
 
