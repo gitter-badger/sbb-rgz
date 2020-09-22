@@ -12,6 +12,8 @@ import { PlayButton } from "../PlayButton"
 
 Die Regionalgruppe Zürich agiert autonom vom Schweizerischen Blindenbund und ist für seine Aktivitäten auf Spenden angewiesen. Jeder noch so kleine Betrag hilft, das Leben unserer Mitglieder zu erleichtern.
 
-Postkonto 80-55758-4
+Name: RGZ des Blindenbundes, Im Grossacher 14, 8125 Zollikerberg  
+Postkonto: 80-55758-4  
+IBAN: CH46 0900 0000 8005 5758 4
 
 </SpeechOutput>
