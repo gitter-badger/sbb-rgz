@@ -17,7 +17,7 @@ Cecilia Rey-Lutz
 
 ## Menge
 
-3-4 Personen
+3-4 Portionen
 
 ## Vorbereitungszeit
 
@@ -29,7 +29,7 @@ Cecilia Rey-Lutz
 
 ## Zutaten
 
-* 400g Knöpfliteig
+* 400 g Knöpfli-Teig (siehe unten)
 * 1 Tasse frische Käruter fein geschnitten (Schnittlauch, Peterli,
   Lauchspitzen), je 3-4 Blätter Pfefferminze und Salbei
 * 2 Landjäger ganz fein geschnitten
@@ -41,18 +41,25 @@ Cecilia Rey-Lutz
 
 ## Zubereitung
 
-Knöpfli Teig:
+### Knöpfli-Teig
 
 * 2 Tassen Mehl
 * 2 Eier verquirlt
 * 1 kleiner Teelöffel Salz
 * etwas Wasser und Quark
 
-Alles mischen und rühren/klopfen bis der Teil Blasen wirft. Alle Zutaten beigeben und gut durchrühren. Der Teig sollte fest sein, damit man ihn gut in die Blätter einwickeln kann. Jeweils quadratische Blätter (ca. 6 x 6 cm) gross) schneiden
+Alles mischen und rühren/klopfen bis der Teil Blasen wirft. 
 
-Braten:
-Die eingewickelten Capuns der Grösse von 3-5 cm-Länge in die Bratpfanne mit etwas Olivenöl geben und rundum anbrraten. Den Fond mit Gemüsebouillon kurz aufkochen und etas Rahm oder Kaffeerahm beigeben. Die Sauce so über die Capuns in der Gratinform geben und noch mit geriebenen Käse bestreuen und in den vorgeheizten Backofen für noch 30 Min. auf mittleren Feuer gratinieren.
+### Füllung
+Kräuter, Landjäger und Sultaninen zum Knöpfli-Teig geben und gut durchrühren. Der Teig sollte fest sein, damit man ihn gut in die Blätter einwickeln kann. 
 
-Dazu passt - farblich gesehen- ein Tomatensalat.
+Jeweils quadratische Blätter (ca. 6 x 6 cm) gross) aud dem Krautstiel oder Mangold schneiden und die Füllung darin einwickeln. 
+
+### Braten
+Die eingewickelten Capuns (ca. 3-5 cm lang) mit etwas Olivenöl in die Bratpfanne geben und rundum anbraten und anschliessend in eine Gratinform geben. 
+
+Den Fond mit Gemüsebouillon kurz aufkochen und etas Rahm oder Kaffeerahm beigeben. Die Sauce so über die Capuns in der Gratinform geben, mit geriebenen Käse bestreuen und in den vorgeheizten Backofen für 30 Min. auf mittlerem Feuer gratinieren.
+
+Dazu passt - farblich gesehen - ein Tomatensalat.
 
 </SpeechOutput>
