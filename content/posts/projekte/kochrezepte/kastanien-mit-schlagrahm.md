@@ -27,15 +27,11 @@ Irma Rösch
 etwa 60 Minuten
 
 
-## Quelle
-
-L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate con Zschinsky
-
 ## Zutaten
 
 * 1 kg getrocknete und geschälte Kastanien
 * Wasser
-* Glas Rotwein
+* 1 Glas Rotwein
 * Rahm
 
 
@@ -49,4 +45,7 @@ Eine der Ursachen der Schlacht von Giornico (der Schlacht der großen Steine), d
 Noch im 18. Jahrhundert ass der Tessiner Bauer oft Kastanien anstelle von Brot. 
 Heute gehört eine Castagnata — ein gemeinschaftliches Verspeisen gerösteter Kastanien im Freundeskreis, meistens in einem Grotto — zu den kulinarischen Herbstfreuden des Tessiners. 
 
+## Quelle
+
+L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate con Zschinsky
 </SpeechOutput>
