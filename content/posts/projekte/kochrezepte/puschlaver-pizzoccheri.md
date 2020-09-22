@@ -17,26 +17,25 @@ Klaus Marthy
 
 ## Menge
 
-5 Personen
+5 Portionen
 
 ## Zutaten
 
-* 250g  Buchweizennudeln  
-* 200g Butter  
+* 250 g Buchweizennudeln  
+* 200 g Butter  
 * 2 Knoblauchzehen   
-* 300g Reibkäse 
-* 300g Krautstiele 
-* 300g Kartoffeln , gewürfelt 
-
+* 300 g Reibkäse 
+* 300 g Krautstiele 
+* 300 g Kartoffeln, gewürfelt 
 * Salz, Pfeffer und ein Salbeiblatt 
 
 ## Zubereitung
 
-1. Krautstil und Kartoffeln 10 Minuten kochen  
-1. Pizzoccheri dazugeben und nochmals 10 Minuten kochen  
-1. Mit einer Schaumkelle anrichten mit Reibkäse bestreuen 
+* Krautstiele und Kartoffeln 10 Minuten kochen  
+* Pizzoccheri dazugeben und nochmals 10 Minuten kochen  
+* Mit einer Schaumkelle anrichten, mit Reibkäse bestreuen 
 und mit Knoblauchbutter überschmelzen 
-1. Das Gericht heiss servieren.  
+* Das Gericht heiss servieren.  
 
 ## Tipps
 
