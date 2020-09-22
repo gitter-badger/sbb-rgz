@@ -1,7 +1,7 @@
 ---
 templateKey: talent-item
 title: Hannelore Wartmann
-seodescription: Die Kunst von Hannelore Wartmann.
+seodescription: Die Kunst von Hannelore W.
 photogallery:
   - bild:
       image: /uploads/hannelore_wartmann_1.jpg
@@ -38,13 +38,13 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="talent-hannelore-wartmann" customPlayButton={PlayButton}>
 
-# Hannelore Wartmann
+# Hannelore W.
 
 Mein Name: Hannelore W.
 
 Mein Alter: so alt oder jung wie der Blindenbund
 
-Nach dem Ausscheiden aus dem Berufsleben suchte ich für mich eine Aufgabe die zu meiner Person passte. Da ich immer schon eine „Nuschitante“ war und gerne gebastelt oder mich mit Farben beschäftigt habe, entdeckte ich vor ca. 2 Jahren das Acrylgiessen und Malen. Meine ersten Versuche waren am Anfang sehr zaghaft, doch mit der Zeit fing ich an zu experimentieren und ich benutzte alles was mir in die Finger kam, ob es Luftballons, Plastiksäcke, Folie, Backpapier oder Weihnachtsbaumketten oder nur das alte Salatbesteck war, all diese alltäglichen Dinge benutze ich, um meine Bilder zu bearbeiten. Nach einigen Farbenverschmierten Vorhängen und Kleidern freute ich mich über schöne Ergebnisse.
+Nach dem Ausscheiden aus dem Berufsleben suchte ich für mich eine Aufgabe die zu meiner Person passte. Da ich immer schon eine „Nuschitante“ war und gerne gebastelt oder mich mit Farben beschäftigt habe, entdeckte ich vor ca. 2 Jahren das Acrylgiessen und Malen. Meine ersten Versuche waren am Anfang sehr zaghaft, doch mit der Zeit fing ich an zu experimentieren und ich benutzte alles was mir in die Finger kam, ob es Luftballons, Plastiksäcke, Folie, Backpapier oder Weihnachtsbaumketten oder nur das alte Salatbesteck war, all diese alltäglichen Dinge benutze ich, um meine Bilder zu bearbeiten. Nach einigen farbenverschmierten Vorhängen und Kleidern freute ich mich über schöne Ergebnisse.
 
 Meine Hilfsmittel wie Lesegerät, Lupenbrille, Vergrösserungslupe und iPhone ermöglichen mir mein Schaffen.
 
@@ -57,8 +57,6 @@ Verwendetes Material:
 * Viereckiges Tuch
 * Einen Topf
 * Gips und Wasser
-* Goldene, weisse,
- schwarze 
- Acrylfarbe
+* Goldene, weisse, schwarze Acrylfarbe
 
 </SpeechOutput>
