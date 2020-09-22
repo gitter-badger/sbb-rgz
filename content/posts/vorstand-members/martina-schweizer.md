@@ -27,7 +27,9 @@ Vizepräsidentin
 
 ## Kurzportrait
 
-a
+Als ich die RGZ kennengelernt habe, war ich sofort begeistert davon, was der Blindenbund und seine Regionalgruppen für die Mitglieder machen. Deshalb engagiere ich mich seit 2014 im Vorstand der RGZ. Als einziges sehendes Vorstandsmitglied unterstütze ich meine Kolleginnen und Kollegen sowie unsere Mitglieder wo es nötig ist und helfe sehr gerne mit beim Organisieren von Anlässen und weiteren  Vorstandsaufgaben. 
+
+Ich arbeite an der Hochschule für Heilpädagogik Zürich und mein Forschungsschwerpunkt liegt auf dem Bereich Sehbehinderung und Blindheit. Somit kann ich mich auch im beruflichen Alltag für die Anliegen sehbehinderter und blinder Menschen einsetzen.  
 
 ## Kontakt
 
