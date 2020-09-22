@@ -36,7 +36,7 @@ Cecilia Rey-Lutz
 * 1 halbe Tasse weisse Bohnen, am Vorabend einweichen
 * 1 halbe Tasse Rollgerste
 * 1 Teelöffel Salz und Pfeffer und 2-3 Lorbeerblätter
-* 400 - 500g Siedfleisch mager 
+* 400 - 500 g Siedfleisch, mager 
 
 ## Zubereitung
 
