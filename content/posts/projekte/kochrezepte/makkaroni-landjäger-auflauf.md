@@ -13,11 +13,11 @@ import { PlayButton } from "../../PlayButton"
 
 ## Rezept von
 
-Margrit Vollenweider (Mutter von Annette Pedrotti)
+Margrit Vollenweider
 
 ## Menge
 
-2-3 Personen
+2-3 Portionen
 
 ## Vorbereitungszeit
 
@@ -27,16 +27,14 @@ Margrit Vollenweider (Mutter von Annette Pedrotti)
 
 20 Minuten
 
-## Quelle
 
-Eigenes Rezept
 
 ## Zutaten
 
-* 300g gekochte Makkaroni oder Teigwaren-Resten vom Vortag
-* 2 Landjäger evtl. geschält
+* 300 g gekochte Makkaroni oder Teigwaren-Reste vom Vortag
+* 2 Landjäger
 * Butter für die Auflaufform und für Butterflöckli als Abschluss
-* 100g geriebenen Gruyere-Käse
+* 100 g geriebenen Gruyere-Käse
 * 3 Eier
 * 1,5 – 2 dl Milch
 * 2 Esslöffel Paniermehl
@@ -44,20 +42,22 @@ Eigenes Rezept
 
 ## Zubereitung
 
-1. Ofen auf 200° vorheizen
-1. Auflaufform ausbuttern und bereitstellen.
-1. Landjäger evtl. schälen und der Länge nach halbieren. Quer in feine Streifen schneiden.
-1. Eiermilch vorbereiten mit 3 Eier und 1.5 – 2 dl Milch, würzen mit Salz und Pfeffer
-1. Lagenweise Teigwaren und Landjäger in die Auflaufform schickten. Abschliessen mit Teigwaren.
-1. Geriebenen Käse auf der obersten Schicht verteilen.
-1. Eiermilch über den Auflauf giessen.
-1. Den Auflauf mit Paniermehl überstreuen und mit Butterflöckli garnieren.
-1. Auflauf in der Mitte des Ofens bei 200° ca. 20 Min. backen.
+* Ofen auf 200°C vorheizen
+* Auflaufform ausbuttern und bereitstellen.
+* Landjäger evtl. schälen und der Länge nach halbieren. Quer in feine Streifen schneiden.
+* Eiermilch vorbereiten mit 3 Eier und 1.5 – 2 dl Milch, würzen mit Salz und Pfeffer
+* Lagenweise Teigwaren und Landjäger in die Auflaufform schickten. Abschliessen mit Teigwaren.
+* Geriebenen Käse auf der obersten Schicht verteilen.
+* Eiermilch über den Auflauf giessen.
+* Den Auflauf mit Paniermehl überstreuen und mit Butterflöckli garnieren.
+* Auflauf in der Mitte des Ofens bei 200°C ca. 20 Min. backen.
 
 Än Guetä!
 
 ## Tipps
 
 Auflauf variieren mit Resten von gekochtem Gemüse.
+## Quelle
 
+Eigenes Rezept
 </SpeechOutput>
