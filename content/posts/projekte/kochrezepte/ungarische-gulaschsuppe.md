@@ -17,6 +17,11 @@ Adrienn Seifert - ein geheimes Rezept ihrer Mutter aus Ungarn
 ## Menge
 5 Portionen
 
+## Vorbereitungszeit
+30 Minuten
+## Kochzeit
+2 Stunden
+
 ## Zutaten
 - 1 Kilogramm Rindsgulasch Schulter in 1,5 cm grosse Würfel geschnitten
 - 2 mittelgrosse Zwiebeln klein gehackt
@@ -64,6 +69,7 @@ Da dies eine Suppe und kein Voressen ist, wird die Gulaschsuppe in einem Suppent
 
 Als Dessert empfehle ich meine leichten Schoko-Sauerkirsch Muffins dazu.
 
-
+## Quelle
+Eigenes Rezept meiner Mutter, es gibt so viele Varianten, aber alle sind richtig lecker.
 
 </SpeechOutput>
