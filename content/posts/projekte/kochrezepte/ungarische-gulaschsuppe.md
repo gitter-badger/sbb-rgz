@@ -7,7 +7,7 @@ seodescription: Ungarische Gulaschsuppe
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-adrienn-seifert-gulaschsuppe" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-adrienn-seifert-gulaschsuppe-teil-1" customPlayButton={PlayButton}>
 
 # Ungarische Gulaschsuppe
 
@@ -44,7 +44,9 @@ Adrienn Seifert - ein geheimes Rezept ihrer Mutter aus Ungarn
 - 1 EL Vegeta (in Migros erhältlich) oder 1 Stück Gemüsebouillonwürfel
 - 600 g Kartoffeln in 1,5 cm grosse Würfel geschnitten
 
+</SpeechOutput>
 
+<SpeechOutput id="kochrezept-adrienn-seifert-gulaschsuppe-teil-2" customPlayButton={PlayButton}>
 
 ## Zubereitung
 Zuerst alles gut vorbereiten, Fleisch, Zwiebeln, Gemüse schneiden. 
