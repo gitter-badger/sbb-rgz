@@ -1,15 +1,15 @@
 ---
 templateKey: kochrezept-item
-title: Spagghetti aglio, olio e peperoncino
+title: Spaghetti aglio, olio e peperoncino
 kategorie: 2. Hauptspeisen
-seodescription: Spagghetti aglio, olio e peperoncino
+seodescription: Spaghetti aglio, olio e peperoncino
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-bettina-prigge-spaghetti-aglio-olio-peperoncino" customPlayButton={PlayButton}>
 
-# Spagghetti aglio, olio e peperoncino
+# Spaghetti aglio, olio e peperoncino
 
 ## Rezept von
 
