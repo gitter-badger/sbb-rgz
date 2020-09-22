@@ -47,7 +47,7 @@ Pinienkerne ohne Fett rösten und über die Pasta streuen.
 ## Gelbe Sauce (Zitronensauce) 
 
 ### Zutaten
-- l EL Butter
+- 1 EL Butter
 - 1 Zwiebel
 - 1 Zitrone, abgeriebene Schale
 - 1 Zitrone, Saft
