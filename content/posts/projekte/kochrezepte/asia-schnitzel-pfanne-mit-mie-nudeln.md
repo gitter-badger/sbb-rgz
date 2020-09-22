@@ -18,7 +18,7 @@ Andrin Meier
 
 ## Menge
 
-2 Personen
+2 Portionen
 
 ## Vorbereitungszeit
 
@@ -28,9 +28,6 @@ Andrin Meier
 
 15 Minuten
 
-## Quelle
-
-Weight Watchers App
 
 ## Zutaten 
 
@@ -40,15 +37,15 @@ Weight Watchers App
 * 2 Knoblauchzehen 
 * 4 grosse Karotten 
 * 1 Chinakohl (ca. 300g) 
-* 400g frische Champignons 
+* 400 g frische Champignons 
 * 4 Frühlingszwiebeln 
-* 400g Schweinsschnitzel (Eckstück) oder Geschnetzeltes 
+* 400 g Schweinsschnitzel (Eckstück) oder Geschnetzeltes 
 * 2 TL Maisstärke (z.B. Maizena) 
 * 8 EL Sojasauce 
 * 2 EL Reisessig 
 * 2 EL Teriyaki 
 * 4 TL Sesamöl 
-* 200g Mie-Nudeln 
+* 200 g Mie-Nudeln 
 * Salz 
 * Pfeffer 
 
@@ -71,5 +68,10 @@ Restliches Öl im Bratensatz auf hoher Stufe erhitzen und Karotten darin ca. 2 M
 ### Schritt 4 
 
 Nudeln abgiessen, mit Schnitzelstreifen und Frühlingszwiebeln zum Gemüse geben und unterheben. Asia-Schnitzel-Pfanne mit Salz und Pfeffer abschmecken und mit Sesamsamen bestreut servieren.
+
+## Quelle
+
+Weight Watchers App
+
 
 </SpeechOutput>
