@@ -32,7 +32,7 @@ Andrin Meier
 ## Zutaten 
 
 * 1 Chilischote, rot 
-* 1 Stück Ingwer (ca. 2cm) 
+* 1 Stück Ingwer (ca. 2 cm) 
 * 1 Stange Zitronengras, frisch 
 * 2 Knoblauchzehen 
 * 4 grosse Karotten 
