@@ -17,7 +17,7 @@ Klaus Marthy
 
 ## Menge
 
-2 Personen
+2 Portionen
 
 ## Zutaten
  
