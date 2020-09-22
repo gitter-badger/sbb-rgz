@@ -17,7 +17,7 @@ Walter Schmutz
 
 ## Menge
 
-4 Personen
+4 Portionen
 
 ## Vorbereitungszeit
 
@@ -27,58 +27,57 @@ Walter Schmutz
 
 45 Minuten
 
-## Quelle
-
-Eigenes Rezept
 
 ## Zutaten
 
-* 100g Karotten 
-* 100g Sellerieknolle 
-* 100g Lauch 
-* 100g Peperoni rot 
-* 100g Weisskohl 
-* 50g Butter 
-* 1dl Gemüsebouillon 
+* 100 g Karotten 
+* 100 g Sellerieknolle 
+* 100 g Lauch 
+* 100 g Peperoni rot 
+* 100 g Weisskohl 
+* 50 g Butter 
+* 1 dl Gemüsebouillon 
 * 2 EL Olivenöl 
-* 600g Lammfleisch von der Schulter 
+* 600 g Lammfleisch von der Schulter 
 * 1 Zwiebel gehackt 
 * 3 Knoblauchzehen fein gehackt 
 * Abgeriebene Schale von 1 Zitrone 
-* 30g frischer Ingwer fein gehackt 
+* 30 g frischer Ingwer fein gehackt 
 * 2 Chilischotten gehackt 
 * Salz, Pfeffer aus der Mühle 
-* 2dl Rotwein 
-* 2dl Fleischbouillon 
-* 300g Couscous 
+* 2 dl Rotwein 
+* 2 dl Fleischbouillon 
+* 300 g Couscous 
 * 1 EL Petersilie gehackt 
 * 1 EL frischer Koriander gehackt 
 * 1 EL Pfefferminze gehackt 
-* 80g Mandelstifte 
+* 80 g Mandelstifte 
 
 ## Zubereitung
 
-1. Das Gemüse gründlich waschen. 
+* Das Gemüse gründlich waschen. 
 
-1. Karotten und Sellerie schälen und in 2 cm grosse Würfel schneiden. 
+* Karotten und Sellerie schälen und in 2 cm grosse Würfel schneiden. 
 
-1. Lauch, Kohl und Peperoni rüsten und ebenfalls in 2 cm grosse Stücke schneiden. 
-1. Die Butter in einer Pfanne erhitzen. Das Gemüse beigeben, kurz andünsten, mit der Gemüsebouillon ablöschen, mit Salz und pfeffer würzen und zugedeckt knackig weichdämpfen. 
-1. Das Fleisch in 2 cm grosse Würfel schneiden. 
-1. Das Olivenöl in einer grossen Pfanne erhitzen, das Fleisch kurz darin anbraten, die Zwiebeln, den Knoblauch, die Zitronenschale, die Chilischoten und den Ingwer beifügen, mit Salz und Pfeffer würzen, kurz mitdünsten, mit dem Rotwein und der Fleischbouillon ablöschen und zugedeckt ca. 40 Minuten köcheln lassen. 
-1. 3 dl Wasser aufkochen, leicht salzen, das Couscous einrieseln lassen, vom Feuer nehmen und zugedeckt  ca. 5 Minuten ziehen lassen. 
-1. Anschliessend das Gemüse und den Couscous zum Fleisch geben, Petersilie, Koriander und Pfefferminze beigeben, gut verrühren und eventuell mit Salz und Pfeffer nachwürzen.  
-
-1. Die Mandeln in einer Pfanne ohne Fettzugabe hellbraun rösten. 
-
-1. Das Gericht in tiefe Teller anrichten, mit den Mandeln bestreuen und heiss servieren.
+* Lauch, Kohl und Peperoni rüsten und ebenfalls in 2 cm grosse Stücke schneiden. 
+* Die Butter in einer Pfanne erhitzen. Das Gemüse beigeben, kurz andünsten, mit der Gemüsebouillon ablöschen, mit Salz und pfeffer würzen und zugedeckt knackig weichdämpfen. 
+* Das Fleisch in 2 cm grosse Würfel schneiden. 
+* Das Olivenöl in einer grossen Pfanne erhitzen, das Fleisch kurz darin anbraten, die Zwiebeln, den Knoblauch, die Zitronenschale, die Chilischoten und den Ingwer beifügen, mit Salz und Pfeffer würzen, kurz mitdünsten, mit dem Rotwein und der Fleischbouillon ablöschen und zugedeckt ca. 40 Minuten köcheln lassen. 
+* 3 dl Wasser aufkochen, leicht salzen, das Couscous einrieseln lassen, vom Feuer nehmen und zugedeckt ca. 5 Minuten ziehen lassen. 
+* Anschliessend das Gemüse und den Couscous zum Fleisch geben, Petersilie, Koriander und Pfefferminze beigeben, gut verrühren und eventuell mit Salz und Pfeffer nachwürzen.  
+* Die Mandeln in einer Pfanne ohne Fettzugabe hellbraun rösten. 
+* Das Gericht in tiefe Teller anrichten, mit den Mandeln bestreuen und heiss servieren.
 
 ## Tipps
 
-Die Zutaten sollten ganz frisch sein, wenn möglich Bio zertifiziert., so kann ich auf ein gutes Gelingen garantieren. 
+Die Zutaten sollten ganz frisch sein, wenn möglich Bio zertifiziert, so kann ich für ein gutes Gelingen garantieren. 
 
-Nach Belieben kann auch (statt Lammfleisch) Schwein oder Rindfleisch von der Schulter verwendet werden.
+Nach Belieben kann (statt Lammfleisch) auch Schweine oder Rindfleisch von der Schulter verwendet werden.
 
-Weinempfehlung: Rosé de probence oder ein Pinot noir
+Weinempfehlung: Rosé de Provence oder ein Pinot Noir
+
+## Quelle
+
+Eigenes Rezept
 
 </SpeechOutput>
