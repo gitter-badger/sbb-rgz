@@ -25,18 +25,15 @@ ca. 8 Stück
 ## Backzeit
 60 Minuten
 
-## Quelle
-Eigenes Rezept
-
 ## Zutaten
-* 100 Gramm Butter, weich
-* 200 Gramm Zucker
+* 100 g Butter, weich
+* 200 g Zucker
 * 1 Beutel Vanillezucker
 * 1 Prise Salz	
 * 3 Eier	
-* 200 Gramm Mehl
+* 200 g Mehl
 * 1 Beutel Backpulver
-* 500 Gramm saisonale Früchte (z.B. Rhabarber, Erdbeeren, Bananen, Äpfel…)
+* 500 g saisonale Früchte (z.B. Rhabarber, Erdbeeren, Bananen, Äpfel…)
 
 ## Zubereitung
 Butter, Zucker, Vanillezucker, Eier und Salz in einer Schüssel gut verrühren.  
@@ -50,6 +47,9 @@ Früchte klein schneiden, unter den Teig mischen, in die vorbereitete Form füll
 Backen: ca. 1 Std. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens. 
 
 ## Tipps
-Es können auch tiefgefrorene Früchte verwendet werden.  
+Es können auch tiefgefrorene Früchte verwendet werden, der Kuchen wird dann schön feucht. 
+
+## Quelle
+Eigenes Rezept
 
 </SpeechOutput>
