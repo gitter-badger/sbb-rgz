@@ -17,8 +17,8 @@ Bettina Prigge
 ## Menge
 4 Portionen
 
-# Rote Sauce mit Pinienkernen
-## Zutaten
+## Rote Sauce mit Pinienkernen
+### Zutaten
 - 1 EL Oel
 - 1 Zwiebel
 - ca. 80 g Tomaten, getrocknet
@@ -30,7 +30,7 @@ Bettina Prigge
 - ev. einige schwarze Oliven, entsteint
 - ca. 50 g Pinienkemy
 
-## Zubereitung
+### Zubereitung
 Zwiebel fein hacken und im Öl andünsten. 
 Getrocknete Tomaten fein schneiden und begeben, Knoblauch dazu pressen. 
 
@@ -44,9 +44,9 @@ Pinienkerne ohne Fett rösten und über die Pasta streuen.
 
 <SpeechOutput id="kochrezept-bettina-prigge-gelbe-sauce" customPlayButton={PlayButton}>
 
-# Gelbe Sauce (Zitronensauce) 
+## Gelbe Sauce (Zitronensauce) 
 
-## Zutaten
+### Zutaten
 - l EL Butter
 - 1 Zwiebel
 - 1 Zitrone, abgeriebene Schale
@@ -57,7 +57,7 @@ Pinienkerne ohne Fett rösten und über die Pasta streuen.
 - Salz, Pfeffer
 - einige Zitronenzesten
 
-## Zubereitung 
+### Zubereitung 
 Butter schmelzen, Zwiebel fein schneiden, beigeben und mit der abgeriebenen Zitronenschale kurz andünsten. 
 
 Danach den Zitronensaft beigeben und fast einkochen lassen.
@@ -72,8 +72,9 @@ Zitronenzesen darüberstreuen.
 
 <SpeechOutput id="kochrezept-bettina-prigge-grüne-sauce" customPlayButton={PlayButton}>
 
-# Grüne Sauce (Petersilienpesto) 
-## Zutaten
+## Grüne Sauce (Petersilienpesto) 
+
+### Zutaten
 - 3 Bund Petersilie
 - 3 Knoblauchzehen
 - 75 g Pinienkeme
@@ -82,7 +83,7 @@ Zitronenzesen darüberstreuen.
 - Salz, Pfeffer
 - einige EL Kochwasser
 
-## Zubereitung 
+### Zubereitung 
 Petersilie und Knoblauch hacken. Mit den Pinienkernen und ca. 1/2 dl Olivenöl im Mixer, Cutter oder Mörser zu einer Paste vermischen. 
 
 Das restliche Olivenöl und den Käse dazugeben und mit Salz und Pfeffer abschmecken. 
