@@ -5,6 +5,9 @@ bild:
   alt: Talente und Aktivitäten
 title: Talente und Aktivitäten
 link: talente-projekt
-beschreibung: Unsere Mitglieder stellen ihre Talente und besonderen Aktivitäten vor.
+beschreibung: Die Mitglieder der RGZ haben vielfältige Talente oder gehen
+  besonderen Aktivitäten nach. Anlässlich des 60-jährigen Jubiläums der RGZ
+  haben wir die Mitglieder gebeten, ihre Talente und besonderen Aktivitäten
+  vorzustellen.
 reihenfolge: 2
 ---
