@@ -19,20 +19,16 @@ Klaus Marthy
 
 2 Personen
 
-## Quelle
-
-Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Herisau
-
 ## Zutaten
  
 * 4 Schweinsplätzli, aufgeschnitten  
-* Salz - Pfeffer  
+* Salz und Pfeffer  
 
 ### Füllung
 
-* 40g Mostbröckli (kleine Würfel) 
-* 50g Kalbsbrät 
-* 50g Appenzellerkäse (kleine Würfel) 
+* 40 g Mostbröckli (kleine Würfel) 
+* 50 g Kalbsbrät 
+* 50 g Appenzellerkäse (kleine Würfel) 
 
 ### Panade 
 
@@ -46,7 +42,11 @@ Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Heris
 ## Zubereitung
 
 Die Zutaten für die Füllung gut mischen.  
-Die gewürzten Plätzli füllen und mit Zahnstocher zusammenheften.   
+Die mit Salz und Pfeffer gewürzten Plätzli füllen und mit Zahnstocher zusammenheften.   
 In Mehl, Ei und Paniermehl wenden und in Bratbutter 6 bis 8 Minuten goldgelb braten. 
+
+## Quelle
+
+Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Herisau
 
 </SpeechOutput>
