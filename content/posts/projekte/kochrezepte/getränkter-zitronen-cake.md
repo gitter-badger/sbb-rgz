@@ -21,9 +21,6 @@ Jeannine Ulrich
 ## Backzeit
 65 Minuten
 
-## Quelle
-Rezept aus der Kochschule
-
 ## Zutaten
 * 200 g Butter, weich 
 * 200 g Zucker 
@@ -45,9 +42,13 @@ Mehl und Backpulver sieben, unter die Masse mischen.
 
 Masse in eine gut eingefettete Cakeform füllen. 
 
-Bei 180°C vorgeheiztem Ofens Ofenmitte 65 min backen. Cake in der Form etwas auskühlen lassen, mit Sticknadeln mehrmals einstechen und mit dem Guss tränken. 
+Bei 180°C vorgeheiztem Ofens Ofenmitte 65 Minuten backen. Cake in der Form etwas auskühlen lassen, mit Sticknadeln mehrmals einstechen und mit dem Guss tränken. 
 
 ### Guss
 Saft von 3 Zitronen und Puderzucker mischen und den Kuchen damit tränken.
+
+
+## Quelle
+Rezept aus der Kochschule
 
 </SpeechOutput>
