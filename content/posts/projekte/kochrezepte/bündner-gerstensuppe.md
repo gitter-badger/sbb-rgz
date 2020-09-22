@@ -31,7 +31,7 @@ Cecilia Rey-Lutz
 
 * 1 Lauch fein schneiden
 * 1 kleine Sellerieknolle, in kleine Stücke  schneiden 
-* 2-3 Karotten in kleine Stücke schneiden (je nach Grösse)
+* 2-3 Karotten in kleine Stücke schneiden
 * 1 halber Weisskabis in feine Streifen schneiden
 * 1 halbe Tasse weisse Bohnen, am Vorabend einweichen
 * 1 halbe Tasse Rollgerste
