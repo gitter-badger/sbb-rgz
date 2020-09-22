@@ -42,6 +42,7 @@ Pinienkerne ohne Fett rösten und über die Pasta streuen.
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-bettina-prigge-gelbe-sauce" customPlayButton={PlayButton}>
+
 # Gelbe Sauce (Zitronensauce) 
 
 ## Zutaten
@@ -68,6 +69,7 @@ Zitronenzesen darüberstreuen.
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-bettina-prigge-grüne-sauce" customPlayButton={PlayButton}>
+
 # Grüne Sauce (Petersilienpesto) 
 ## Zutaten
 - 3 Bund Petersilie
