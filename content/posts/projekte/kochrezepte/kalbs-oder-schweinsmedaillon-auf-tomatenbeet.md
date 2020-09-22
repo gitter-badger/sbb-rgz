@@ -32,7 +32,7 @@ Manuela Denzler
 
 * 8 Kalbs- oder Schweinmedaillons
 * 1 Knoblauchzehe
-* 500 g gehackte Pellati-Tomaten aus der Dose
+* 500 g gehackte Pelati-Tomaten aus der Dose
 * 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln
 * 1 Handvoll Kapern
 * Olivenöl, Salz und Pfeffer
@@ -45,7 +45,7 @@ Eine Gratinform ausreichend mit Olivenöl ausreiben bzw. einfetten.
 
 Die Knoblauchzehe in möglichst dünne Scheibchen schneiden und diese dann auf dem Gratinformboden verteilen.
 
-Pellati-Tomaten in ein Gefäss (bspw. Massbecher) leeren und mit Salz und Pfeffer würzen, dann in Gratinform über Knoblauchscheibchen leeren.
+Pelati-Tomaten in ein Gefäss (bspw. Massbecher) leeren und mit Salz und Pfeffer würzen, dann in Gratinform über Knoblauchscheibchen leeren.
 
 Medaillons mit Salz und Pfeffer würzen, dann auf das "Tomatenbeet" legen und Kapern darin verteilen.
 
