@@ -5,7 +5,10 @@ bild:
   alt: Kochen
 title: RGZ-Kochbuch
 link: kochrezepte-projekt
-beschreibung: Eine Sammlung der Kochrezepte von Mitgliedern und Freunden der
-  RGZ. Dies ist ein Projekt zum 60-jährigen Jubiläum der RGZ im Jahr 2020.
+beschreibung: Zum 60-jährigen Jubiläum der RGZ möchten wir ein Kochbuch mit den
+  Lieblingsrezepten unserer Mitglieder und Freundinnen und Freunden der RGZ
+  herausgeben. Dies soll ein Geschenk für diese sein. Entstanden ist eine
+  gluschtige Sammlung von Rezepten mit traditionellen und internationalen
+  Gerichten.
 reihenfolge: 1
 ---
