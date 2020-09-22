@@ -17,7 +17,7 @@ Walter Schmutz
 
 ## Menge
 
-4 Personen
+4 Portionen
 
 ## Vorbereitungszeit
 
@@ -27,63 +27,64 @@ Walter Schmutz
 
 15 Minuten
 
-## Quelle
 
-Eigenes Rezept
 
 ## Zutaten
 
-* 100 gramm Karotten 
-* 100 gramm Sellerieknolle 
-* 100 gramm Kohlrabi
-* 100 gramm Pastinake 
-* 100 gramm Petersielienwurzel 
-* 100 gramm Lauch 
-* 60 gramm Wirz  
-* 100 gramm Kartoffeln (festkochend) 
-* 50 gramm Butter 
-* 600 gramm frische Lachsfilets, Störfilet oder Hechtfilet, ohne Haut und Gräten 
-* 1 Esslöffel Zitronensaft 
+* 100 g Karotten 
+* 100 g Sellerieknolle 
+* 100 g Kohlrabi
+* 100 g Pastinake 
+* 100 g Petersielienwurzel 
+* 100 g Lauch 
+* 60 g Wirz  
+* 100 g Kartoffeln (festkochend) 
+* 50 g Butter 
+* 600 g frische Lachsfilets, Störfilet oder Hechtfilet, ohne Haut und Gräten 
+* 1 EL Zitronensaft 
 * 1 dl trockener Weisswein 
 * 2 dl Gemüse oder Hühnerbouillon 
-* 1 Esslöffel Petersilie gehackt 
-* 1 Esslöffel Schnittlauch fein geschnitten 
+* 1 EL Petersilie gehackt 
+* 1 EL Schnittlauch fein geschnitten 
 * Salz, Pfeffer aus der Mühle 
-* 100 gramm Créme fraiche 
+* 100 g Créme fraiche 
 * 1 Kaffeelöffel Meerrettich aus dem Glas 
 
 * 1 Kaffeelöffel frischer Dill gehackt 
 
 ## Zubereitung
+* Karotten, Sellerie, Kohlrabi Pastinake und Petersielenwurzel schälen und in Stäbchen schneiden. 
 
-1. Karotten, Sellerie, Kohlrabi Pastinake und Petersielenwurzel schälen und in Stäbchen schneiden. 
+* Lauch und Wirz in Streifen schneiden. 
 
-1. Lauch und Wirz in Streifen schneiden. 
+* Kartoffeln schälen und in 2 cm grosse Würfel schneiden. 
 
-1. Kartoffeln schälen und in 2 cm grosse Würfel schneiden. 
+* Die Butter in einer Pfanne erhitzen. Das Gemüse und die Kartoffeln beigeben, kurz andünsten, mit dem Weisswein und der Bouillon ablöschen und knackig weich dämpfen. 
 
-1. Die Butter in einer Pfanne erhitzen. Das Gemüse und die Kartoffeln beigeben, kurz andünsten, mit dem Weisswein und der Bouillon ablöschen und knackig weich dämpfen. 
+* Eventuell mit Salz und Pfeffer abschmecken. 
 
-1. Eventuell mit Salz und Pfeffer abschmecken. 
+* Den Fisch in 25 Gramm schwere Stücke schneiden, mit Salz, Pfeffer und Zitronensaft würzen und auf dem Gemüse verteilen. 
 
-1. Den Fisch in 25 gramm schwere Stücke schneiden, mit Salz, Pfeffer und Zitronensaft würzen und auf dem Gemüse verteilen. 
+* Zugedeckt 3 bis 4 Minuten ziehen lassen. 
 
-1. Zugedeckt 3 bis 4 Minuten ziehen lassen. 
+* Die Créme fraiche in eine Schüssel geben, den Meerrettich dazugeben und mit Salz und Pfeffer würzen. 
 
-1. Die Créme fraiche in eine Schüssel geben, den Meerrettich dazugeben und mit Salz und Pfeffer würzen. 
+* Das Gemüse auf vorgewärmte Teller anrichten, die Fischstückchen darauf legen und mit Petersilie und Schnittlauch bestreuen. 
 
-1. Das Gemüse auf vorgewärmte Teller anrichten, die Fischstückchen darauf legen und mit Petersilie und Schnittlauch bestreuen. 
-
-1. In die Mitte jeweils ein wenig Meerrettich-Rahm daraufsetzen,  mit Dill garnieren und servieren
+* In der Mitte jeweils ein wenig Meerrettich-Rahm daraufsetzen, mit Dill garnieren und servieren
 
 ## Tipps
 
-Die Zutaten sollten ganz frisch sein, wenn möglich Bio zertifiziert, so kann ich auf ein gutes Gelingen garantieren. 
+Die Zutaten sollten ganz frisch sein, wenn möglich Bio zertifiziert, so kann ich ein gutes Gelingen garantieren. 
 
 Nach Belieben können natürlich auch andere Fischarten oder Gemüse verwendet werden  
 
 Ein frisches Baguette dazu servieren.  
 
-Weinempfehlung: Ein Sauvignon blanc oder Riesling
+Weinempfehlung: Ein Sauvignon Blanc oder Riesling
+
+## Quelle
+
+Eigenes Rezept
 
 </SpeechOutput>
