@@ -15,6 +15,8 @@ import { PlayButton } from "../../PlayButton"
 
 Klaus Marthy
 
+## Menge
+3-4 Portionen
 
 ## Einleitung
 
