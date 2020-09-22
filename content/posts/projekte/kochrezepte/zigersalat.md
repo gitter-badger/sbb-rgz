@@ -17,16 +17,13 @@ Klaus Marthy
 
 ## Menge
 
-1 Person
+1 Portion
 
-## Quelle
-
-Eigenes Rezept
 
 ## Zutaten
 
-* 50g Schabziger
-* 25g Speckwürfeli geschnitten 
+* 50 g Schabziger
+* 25 g Speckwürfeli geschnitten 
 * Minilattich oder Minikopfsalat
 
 ## Zubereitung
@@ -36,4 +33,7 @@ Eigenes Rezept
 3. Mit Salatsauce beträufeln und mit gerösteten Speckwürfeln bestreuen. 
 (French- oder italienischer Salatsauce) 
 
+## Quelle
+
+Eigenes Rezept
 </SpeechOutput>
