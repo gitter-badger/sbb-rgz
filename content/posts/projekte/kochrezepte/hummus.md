@@ -26,8 +26,8 @@ Vorspeise für 6-8 Personen
 - 4-6 EL Olivenöl zum Beträufeln
 - 1 Handvoll Petersilienblätter, gehackt
 
-Zubereitung:
-Die Kichererbsen über Nacht in kaltem Wasser einweichen. Einweichwasser abgiessen, und die Kircherbsen mit frischem Wasser weich kochen. (Wenn Kichererbsen aus der Dose verwendet werden, entfällt dieser schritt)
+## Zubereitung
+Die Kichererbsen über Nacht in kaltem Wasser einweichen. Einweichwasser abgiessen, und die Kircherbsen mit frischem Wasser weich kochen. (Wenn Kichererbsen aus der Dose verwendet werden, entfällt dieser Schritt)
 
 Kichererbsen abtropfen lassen und das Wasser auffangen. Kichererbsen mit Knoblauchzehen, Tahina und Zitronensaft im Mixer fein pürieren, dabei etwa einen Viertelliter des augefangenen Wassers zugiessen. 
 
@@ -39,7 +39,7 @@ Mit Fladenbrot servieren.
 
 ## Tipps
 
-* Tahina ist erhältlich in türkischen Lebensmittelläden, Delikatessgeschäften, vereinzelt auch  bei den Grossverteilern.
+*Tahina ist erhältlich in türkischen Lebensmittelläden, Delikatessgeschäften, vereinzelt auch  bei den Grossverteilern.
 
 ## Quelle
 SRF1, a point
