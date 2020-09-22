@@ -10,7 +10,7 @@ import { PlayButton } from "../../PlayButton"
 
 # Ruth Häuptli
 
-Ein Video von Ruth Häuptli, wie Sie auf Ihrem Schwyzerörgeli spielt.
+Ein Video von Ruth Häuptli, wie Sie auf Ihrem Schwyzerörgeli spielt. Das Stück heisst "En fröhliche Geburtstag" und sie hat es eigens für das 60-jährige Jubiläum der RGZ komponiert. 
 
 `youtube: [Video von Ruth Häuptli auf Ihrem Schwyzerörgeli](PW-Jr6wkyK8)`
 
