@@ -25,7 +25,7 @@ Brigitte Marthy
 
 ## Zutaten
 
-* 200 gr Beeren (z.B. Himbeeren oder Beerenmischung)
+* 200 g Beeren (z.B. Himbeeren oder Beerenmischung)
 * 3 Kugeln Vanilleglacé
 * 3 TL Puderzucker
 * 350 ml Milch
@@ -35,6 +35,6 @@ Brigitte Marthy
 
 Alle Zutaten ausser dem Vollrahm in einen Standmixer geben und mixen. 
 
-Den Vollrahm zu Schlagrahm schlagen und auf den Shakes anrichten. Nach Belieben mit Guezli oder Minze garnieren und servieren.
+Den Vollrahm zu Schlagrahm schlagen und auf den Shakes anrichten. Nach Belieben mit Guetzli oder Minze garnieren und servieren.
 
 </SpeechOutput>
