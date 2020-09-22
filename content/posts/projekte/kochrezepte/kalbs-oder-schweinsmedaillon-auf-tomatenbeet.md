@@ -17,7 +17,7 @@ Manuela Denzler
 
 ## Menge
 
-4 Personen
+4 Portionen
 
 ## Vorbereitungszeit
 
@@ -27,40 +27,40 @@ Manuela Denzler
 
 25 Minuten
 
-## Quelle
-
-Eigenes Rezept bzw. von früher aus Mamas Küche; genannt "Kalbs- oder Schweinsmedaillon auf Tomatenbeet"
 
 ## Zutaten
 
-* 8 Kalbs- oder Schweinmedaillon
+* 8 Kalbs- oder Schweinmedaillons
 * 1 Knoblauchzehe
-* 500 g gehackte Pelatti-Tomaten
+* 500 g gehackte Pellati-Tomaten aus der Dose
 * 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln
-* 1 Hand voll Kapern
+* 1 Handvoll Kapern
 * Olivenöl, Salz und Pfeffer
 
 ## Zubereitung
 
-Backofen auf 180-200 Grad vorheizen (Umluft)
+Backofen auf 180-200°C vorheizen (Umluft).
 
-Eine Gratinform ausreichend mit Olivenöl ausreiben bzw. einfetten
+Eine Gratinform ausreichend mit Olivenöl ausreiben bzw. einfetten.
 
-Knoblauchzehe in möglichst dünne Scheibchen schneiden und diese dann auf dem Gratinformboden verteilen
+Die Knoblauchzehe in möglichst dünne Scheibchen schneiden und diese dann auf dem Gratinformboden verteilen.
 
-Pelatti-Tomaten in ein Gefäss (bspw. Massbecher) leeren und mit Salz und Pfeffer würzen, dann in Gratinform über Knoblauchscheibchen leeren
+Pellati-Tomaten in ein Gefäss (bspw. Massbecher) leeren und mit Salz und Pfeffer würzen, dann in Gratinform über Knoblauchscheibchen leeren.
 
-Medaillons mit Salz und Pfeffer würzen, dann auf das "Tomatenbeet" legen und Kapern darin verteilen
+Medaillons mit Salz und Pfeffer würzen, dann auf das "Tomatenbeet" legen und Kapern darin verteilen.
 
-Reibkäse bzw. geraffelter Käse darüber streuen
+Reibkäse bzw. geraffelter Käse darüber streuen.
 
-Das Ganze in den Ofen schieben und bei 180-200 Grad (Umluft) während 20-25 Min. gratinieren
+Das Ganze in den Ofen schieben und bei 180-200°C (Umluft) während 20-25 Min. gratinieren.
 
 ## Tipps
 
 Achtung: Käse könnte oben braun werden, darum nach ca. 15 Min.
-Gratinform mit Alufolie zudecken bis fertig gratiniert
+Gratinform mit Alufolie zudecken bis es fertig gratiniert ist.
 
-Als Beilage z.B. Nüdeli servieren
+Als Beilage z.B. Nüdeli servieren.
 
+## Quelle
+
+Eigenes Rezept bzw. von früher aus Mamas Küche
 </SpeechOutput>
