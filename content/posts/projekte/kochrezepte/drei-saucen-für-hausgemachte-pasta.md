@@ -38,7 +38,8 @@ Chilischote entkernen und fein schneiden. Mit den Pelati dazugeben und zugedeckt
 
 Mit Basilikum, Salz und Pfeffer abschmecken und nach Belieben einige schwarze Oliven dazugeben. 
 
-Pinienkerne ohne Fett rösten und über die Pasta streuen. 
+Pinienkerne ohne Fett rösten und über die Pasta streuen.
+ 
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-bettina-prigge-gelbe-sauce" customPlayButton={PlayButton}>
@@ -66,6 +67,7 @@ Den Rahm dazurühren und aufkochen lassen.
 Parmesan, Eigelb, dazumischen, mit Salz und Pfeffer abschmecken und sofort mit der heissen Pasta mischen.
 
 Zitronenzesen darüberstreuen.
+
 </SpeechOutput>
 
 <SpeechOutput id="kochrezept-bettina-prigge-grüne-sauce" customPlayButton={PlayButton}>
