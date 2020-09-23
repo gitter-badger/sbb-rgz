@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Khoresh Rivas
-kategorie: 1. Suppen und Salate
+kategorie: 2. Hauptspeisen
 seodescription: Khoresh Rivas
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
