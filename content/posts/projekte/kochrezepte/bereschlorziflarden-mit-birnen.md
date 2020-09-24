@@ -26,23 +26,23 @@ Klaus Marthy
 
 * 225 g Mehl 
 * 75 g Butter 
-* 1 Tl Salz 
+* 1 TL Salz 
 * 1 dl Wasser
 
 ### Bereschlorzi 
 
 * 200 g Dörrbirnen 
-* 1 Tl Birnbrotgewürz 
-* 2 El Zucker
+* 1 TL Birnbrotgewürz 
+* 2 EL Zucker
 * Saft von einer Zitrone 
-* 1 El Tresterschnaps 
+* 1 EL Tresterschnaps 
 
 ### Guss
-* 1 El Mehl 
+* 1 EL Mehl 
 * 3 dl Rahm
 * 3 Eier 
-* 1 El Zucker 
-* 1 El Vanillezucker 
+* 1 EL Zucker 
+* 1 EL Vanillezucker 
 
 ## Zubereitung
 
