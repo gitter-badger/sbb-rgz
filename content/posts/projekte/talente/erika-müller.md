@@ -8,21 +8,21 @@ photogallery:
       alt: Portrait von Erika Müller
   - bild:
       image: /uploads/erika_müller_corona_5.jpg
-      alt: Corona 5 gemalt von Erika Müller. Auf Steinpapier gemalt mit Acrylfarbe mit
-        den Dimensionen 30x30cm.
+      alt: Corona 5, gemalt von Erika Müller. Auf Steinpapier gemalt mit Acrylfarbe
+        mit den Dimensionen 30x30cm.
   - bild:
       image: /uploads/erika_müller_betonkugel.jpg
-      alt: Betonkugel gemacht von Erika Müller. Durchmesser von 17cm.
+      alt: Betonkugel, gestaltet von Erika Müller. Durchmesser von 17cm.
   - bild:
       image: /uploads/erika_müller_trudi.jpg
-      alt: Skulptur Trudi aus Beton gemacht von Erika Müller. Gesamthöhe mit Sockel
-        ist 34cm.
+      alt: Skulptur Trudi, aus Beton gestaltet von Erika Müller. Gesamthöhe mit
+        Sockel, 34cm.
   - bild:
       image: /uploads/erika_müller_monotype_001.jpg
-      alt: Monotype 1. Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
+      alt: Monotype 1, Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
   - bild:
       image: /uploads/erika_müller_monotype_002.jpg
-      alt: Monotype 2. Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
+      alt: Monotype 2, Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
