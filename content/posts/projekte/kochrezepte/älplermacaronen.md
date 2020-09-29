@@ -14,25 +14,30 @@ import { PlayButton } from "../../PlayButton"
 ## Rezept von
 Hannelore Wartmann
 
+## Backzeit
+25 Minuten
+
 ## Zutaten
 - 500 g festkochende Kartoffeln
 - 250 g Teigwaren (Macaronen)
 - 2 grosse Zwiebeln
 - 2 Äpfel
 - 100 g Speckwürfel
-- 150 g Geriebenen Käse ( Emmenthaler oder Sprinz) 3dl. Vollrahm 
+- 150 g Geriebenen Käse ( Emmenthaler oder Sprinz) 
+- 3 dl Vollrahm 
+- 2 Eier
 
 
 
 ## Zubereitung
-Kartoffeln schälen in Würfel schneiden und 5 min. Im Salzwasser kochen.
-Teigwaren al dente kochen.
+Kartoffeln schälen in Würfel schneiden und 5 Min. im Salzwasser kochen.
+Teigwaren dazugeben und al dente kochen.
 
 Äpfel schälen und in Scheiben schneiden.
 
-Zwiebeln hacken und mit Speckwürfel kurz anbraten. Alle Zutaten in eine Gratinform geben und den gerieben Käse oben darauf verteilen.
+Zwiebeln hacken und mit den Speckwürfeln kurz anbraten. Alle Zutaten in eine Gratinform geben und den gerieben Käse oben darauf verteilen.
 
-Vollrahm würzen mit Pfeffer, Paprika, Muskatnuss und darüber geben.
+Eier und Vollrahm mischen, mit Pfeffer, Paprika, Muskatnuss würzen und darüber geben.
 
 Backofen auf 200°C vorheizen.
 
