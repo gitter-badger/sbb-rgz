@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Zigersalat
-kategorie: 1. Suppen und Salate
+kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Zigersalat. Ein eigenes Rezept von Klaus Marthy.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

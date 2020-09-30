@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Bündner Gerstensuppe
-kategorie: 1. Suppen und Salate
+kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Kochrezept für eine Bündner Gerstensuppe von Cecilia Rey-Lutz.
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

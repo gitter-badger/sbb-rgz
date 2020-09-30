@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Ungarische Gulaschsuppe
-kategorie: 1. Suppen und Salate
+kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Ungarische Gulaschsuppe
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"

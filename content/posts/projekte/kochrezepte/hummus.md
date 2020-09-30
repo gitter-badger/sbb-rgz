@@ -1,7 +1,7 @@
 ---
 templateKey: kochrezept-item
 title: Hummus
-kategorie: 1. Suppen und Salate
+kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Hummus
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
