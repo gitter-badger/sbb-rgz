@@ -44,7 +44,7 @@ Katharina Stockmann
 
 Apfel, Banane und Zwiebel in Stücke schneiden und mit dem Currypulver und der Zimtstange zusammen anbraten.
 
-Mit der Bouillon ablöschen und ca. 30 Minuten kochen lassen. Danach die Zimtstange entfernen und alles zusammen pürieren.  
+Mit der Bouillon ablöschen und ca. 15 Minuten kochen lassen. Danach die Zimtstange entfernen und alles zusammen pürieren.  
 
 Verfeinern mit Aprikosenkonfitüre und Kokosmilch. 
 
