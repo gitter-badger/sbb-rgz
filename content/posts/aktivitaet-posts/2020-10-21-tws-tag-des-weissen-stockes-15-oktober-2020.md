@@ -1,0 +1,25 @@
+---
+templateKey: aktivitaet-post
+title: TWS - Tag des Weissen Stockes - 15. Oktober 2020
+shortdescription: TWS - Tag des Weissen Stockes - 15. Oktober
+seodescription: RGZ TWS2020
+date: 2020-10-15T19:46:05.920Z
+anmeldeformularanzeigen: false
+---
+# TWS - Tag des Weissen Stockes - 15. Oktober 2020
+
+Jedes Jahr finden rund um den Tag des Weissen Stockes vom 15. Oktober verschiedene Aktionen in der Öffentlichkeit statt. DAmit soll auf die Anliegen blinder und sehbehinderter Menschen aufmerksam gemacht werden. 
+
+Dieses Jahr fanden Aktinen in Schaffhausen, am Bahnhof Oerlikon und in Glarus statt. In Schaffhausen konnte dies im Rahmen der Eröffnung der neuen Beratungsstelle des Schweizerischen Blindenbundes geschehen, die auch am 15. Oktober stattgefunden hat. Eine Aktion in Rapperswil musste aufgrund der aktuellen Situation leider abgesagt werden.
+
+An allen drei Standorten konnten wir auf die Tatkräftige Mithilfe unserer Mitglieder und weiterer Helferinnen und Helfer zählen. Herzlichen Dank dafür!
+
+## Augenblickfenster
+
+In Schaffhausen und in Glarus kamen zum ersten Mal unsere zwei neuen *Augenblickfenster* statt. Diese wurden von unserem kreativen Mitglied Hannelore Wartmann mit viel Leidenschaft, Engagement und Liebe zum Detail gestaltet. 
+
+Die Augenblickfenster sind bemalte Holzplatten von ca. 1 x 1 Meter Grösse. Auf blauem Hintergrund ist jweils ein Blindenstock zu sehen, von welchem  Zweige mit Blättern wie von einem Baumstamm weggehen. Einige dieser Blätter sind als Augen dargestellt. Durch jeweils 2 Augenpaare kann man hindurchschauen. Die Gucklöcher sind auf verschiedener Höhe angebracht, so dass auch Kinder oder Menschen im Rollstuhl durch diese hindurchsehen können. Da Simulationsbrillen dahinter versteckt sind, kann man dadurch sehen, wie die Welt mit einer Sehbehinderung aussieht. 
+
+Damit die Augenblickfenster desinfiziert werden können, wurde eine Plexiglasscheibe davor montiert. 
+
+Die folgenden Bilder zeigen die Augenblickfenster und die Hilfsmittel, mit denen Hannelore Wartmann bei deren Ersetellung gearbeitet hat. 
