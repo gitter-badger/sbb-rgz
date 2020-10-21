@@ -1,12 +1,12 @@
 ---
 templateKey: aktivitaet-post
 title: TWS - Tag des Weissen Stockes
-shortdescription: TWS - Tag des Weissen Stockes - 15. Oktober
+shortdescription: TWS - Tag des Weissen Stockes
 seodescription: RGZ TWS2020
 date: 2020-10-15T19:46:05.920Z
 anmeldeformularanzeigen: false
 ---
-# TWS - Tag des Weissen Stockes - 15. Oktober 2020
+# TWS - Tag des Weissen Stockes
 
 Jedes Jahr finden rund um den Tag des Weissen Stockes vom 15. Oktober verschiedene Aktionen in der Öffentlichkeit statt. DAmit soll auf die Anliegen blinder und sehbehinderter Menschen aufmerksam gemacht werden. 
 
