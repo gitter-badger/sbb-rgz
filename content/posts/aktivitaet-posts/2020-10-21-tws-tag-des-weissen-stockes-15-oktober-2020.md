@@ -1,6 +1,6 @@
 ---
 templateKey: aktivitaet-post
-title: TWS - Tag des Weissen Stockes - 15. Oktober 2020
+title: TWS - Tag des Weissen Stockes
 shortdescription: TWS - Tag des Weissen Stockes - 15. Oktober
 seodescription: RGZ TWS2020
 date: 2020-10-15T19:46:05.920Z
