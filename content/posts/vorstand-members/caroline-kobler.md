@@ -2,8 +2,9 @@
 templateKey: vorstand
 portrait:
   image: /uploads/portrait_caroline_kobler.jpg
-  alt: Caroline Kobler
+  alt: "Foto von Caroline Kobler "
 title: Caroline Kobler
+seodescription: Caroline Kobler
 funktion: Vorstandsmitglied
 telefon: 044 389 21 45
 email: caroline.kobler@rgz-blind.ch
