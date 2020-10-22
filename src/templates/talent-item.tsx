@@ -2,8 +2,8 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Img from 'gatsby-image'
 import Content, { HTMLContent } from '../components/Content'
+import { PhotoGallery } from '../components/PhotoGallery'
 
 export const TalentItemTemplate = ({
   content,
@@ -24,28 +24,7 @@ export const TalentItemTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <PageContent className="content" content={content} />
-            {photogallery && photogallery.length > 0 &&
-              <div>
-                <h2>Fotogallerie</h2>
-                <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{
-                  photogallery.map((photogalleryImage: any) => (
-                    <div className="tile is-6 is-parent" >
-                      <div className="tile is-child">
-                        <div className="card">
-                          <div className="card-image">
-                            <figure className="image mx-0">
-                              <Img fluid={photogalleryImage.bild.image.childImageSharp.fluid} alt={photogalleryImage.bild.alt} />
-                            </figure>
-                          </div>
-                          <div className="card-content">
-                            <div className="content">
-                              {photogalleryImage.bild.alt}
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  ))}</div></div>}
+            <PhotoGallery photogallery={photogallery}/>
           </div>
         </div>
       </div>

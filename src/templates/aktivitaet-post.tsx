@@ -5,6 +5,7 @@ import { navigate } from 'gatsby-link'
 import Layout from '../components/Layout'
 import { useState } from 'react';
 import Content, { HTMLContent } from '../components/Content'
+import { PhotoGallery } from '../components/PhotoGallery'
 
 function encode(data: any) {
   return Object.keys(data)
@@ -18,6 +19,7 @@ export const AktivitaetPostTemplate = ({
   title,
   date,
   anmeldeformularanzeigen,
+  photogallery,
   helmet,
 }: {
   content: any,
@@ -25,6 +27,7 @@ export const AktivitaetPostTemplate = ({
   title: any,
   date: any,
   anmeldeformularanzeigen: any,
+  photogallery?: any,
   helmet?: any,
 }) => {
   const PostContent = contentComponent || Content
@@ -55,7 +58,8 @@ export const AktivitaetPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <PostContent content={content} />
+            <PostContent content={content} />            
+            <PhotoGallery photogallery={photogallery}/>
             {anmeldeformularanzeigen &&
               <div>
                 <br />
@@ -159,6 +163,7 @@ const AktivitaetPost = ({ data }: { data: any }) => {
         }
         title={post.frontmatter.title}
         date={post.frontmatter.date}
+        photogallery={post.frontmatter.photogallery}
         anmeldeformularanzeigen={post.frontmatter.anmeldeformularanzeigen}
       />
     </Layout>
@@ -180,6 +185,18 @@ export const pageQuery = graphql`
         title
         seodescription
         anmeldeformularanzeigen
+        photogallery {
+          bild {
+            alt
+            image {
+              childImageSharp {
+                fluid(maxWidth: 400, quality: 92) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                }
+              }
+            }
+          }
+        }
       }
     }
   }
