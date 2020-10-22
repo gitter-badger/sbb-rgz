@@ -21,7 +21,7 @@ import { PlayButton } from "../PlayButton"
 
 ## Bild
 
-![Bild von Helen Zimmermann](/uploads/portrait_helen_zimmermann.jpg "Bild von Helen Zimmermann")
+![Foto von Helen Zimmermann mit Führhund Aiko auf dem Dach des Bundestags-Gebäudes in Berlin. Aiko schaut interessiert über die Brüstung um sich einen Überblick über Berlin zu verschaffen.](/uploads/portrait_helen_zimmermann.jpg "Bild von Helen Zimmermann")
 
 ## Funktion
 
