@@ -2,9 +2,9 @@
 templateKey: vorstand
 portrait:
   image: /uploads/portrait_helen_zimmermann.jpg
-  alt: "Helen Zimmermann mit Führhund Aiko auf dem Dach des Bundestags-Gebäudes in
-    Berlin. Aiko schaut interessiert über die Brüstung um sich einen Überblick
-    über Berlin zu verschaffen. "
+  alt: "Foto von Helen Zimmermann mit Führhund Aiko auf dem Dach des
+    Bundestags-Gebäudes in Berlin. Aiko schaut interessiert über die Brüstung um
+    sich einen Überblick über Berlin zu verschaffen. "
 title: Helen Zimmermann
 seodescription: Vorstellung der Präsidentin des RGZ, Helen Zimmermann.
 funktion: Präsidentin
