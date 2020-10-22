@@ -2,7 +2,7 @@
 templateKey: vorstand
 portrait:
   image: /uploads/portrait_martina_schweizer.jpg
-  alt: "Martina Schweizer beim Wandern im Engadin. "
+  alt: "Foto von Martina Schweizer beim Wandern im Engadin. "
 title: Martina Schweizer
 seodescription: Vorstellung von Martina Schweizer, Vizepräsidentin der Regionalgruppe Zürich.
 funktion: Vizepräsidentin
