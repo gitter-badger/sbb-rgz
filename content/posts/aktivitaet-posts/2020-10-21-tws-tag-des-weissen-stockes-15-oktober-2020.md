@@ -21,7 +21,7 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-tws-2020" customPlayButton={PlayButton}>
 
-# TWS - Tag des Weissen Stockes
+# 15.10.2020 - TWS - Tag des Weissen Stockes
 
 Jedes Jahr finden rund um den Tag des Weissen Stockes vom 15. Oktober verschiedene Aktionen in der Öffentlichkeit statt. Damit soll auf die Anliegen blinder und sehbehinderter Menschen aufmerksam gemacht werden. 
 
