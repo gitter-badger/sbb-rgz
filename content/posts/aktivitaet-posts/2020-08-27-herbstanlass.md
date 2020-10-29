@@ -40,7 +40,6 @@ Tram Nr. 14 bis Endstation Seebach
 
 ### Anmeldung
 
-Bis spätestens **Montag, 28. Oktober 2020** mit untenstehendem Formular.  
-Bitte gebt im Feld 'Bemerkung' auch den **Namen, die Adresse und das Geburtsdatum eurer Begleitperson** an und ob ihr das **Menü mit Fleisch oder Vegetarisch** möchtet. 
+Leider sind zurzeit keine Anmeldungen mehr möglich. Bei Fragen wenden Sie sich bitte an: [martina.schweizer@rgz-blind.ch](mailto:martina.schweizer@rgz-blind.ch)
 
 </SpeechOutput>
