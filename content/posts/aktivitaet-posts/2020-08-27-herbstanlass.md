@@ -4,7 +4,7 @@ title: Herbstanlass
 shortdescription: "Der traditionelle Herbstanlass im Landhus zusammen mit dem SBV. "
 seodescription: Der traditionelle Herbstanlass im Landhus zusammen mit dem SBV.
 date: 2020-11-07T21:24:02.643Z
-anmeldeformularanzeigen: true
+anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
