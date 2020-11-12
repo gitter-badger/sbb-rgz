@@ -46,6 +46,7 @@ Zu der Buttercreme die Mehlmischung und die Milch zugeben und den Teig glattrüh
 
 Nun den Teig gleichmässig in die einzelnen Muffinförmchen füllen, für jede Form braucht es ca. 2 Esslöffel Teig. 
 
+### Backen
 Im vorgeheizten Ofen mit Umluft ca. 20-25 Minuten backen.
 
 Die fertigen Muffins aus der Form nehmen und auf einem Kuchengitter abkühlen lassen. 
