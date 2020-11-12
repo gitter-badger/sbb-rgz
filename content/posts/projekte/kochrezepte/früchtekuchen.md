@@ -44,7 +44,8 @@ Kuchenform gut einfetten oder mit Backpapier auslegen. Das Rezept ist für eine 
 
 Früchte klein schneiden, unter den Teig mischen, in die vorbereitete Form füllen. 
 
-Backen: ca. 1 Std. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens. 
+### Backen
+ca. 1 Std. auf der untersten Rille des auf 180 Grad vorgeheizten Ofens. 
 
 ## Tipps
 Es können auch tiefgefrorene Früchte verwendet werden, der Kuchen wird dann schön feucht. 
