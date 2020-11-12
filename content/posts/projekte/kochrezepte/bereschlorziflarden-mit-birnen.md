@@ -62,6 +62,7 @@ Mit den übrigen Zutaten mischen, auf den Teigboden verteilen.
 
 Alles mischen und auf der Bereschlorzi verteilen.
 
+### Backen
 Ungefähr 25 bis 30 Minuten bei etwa 200 Grad auf der untersten Rille des Backofens backen.
 
 ## Quelle
