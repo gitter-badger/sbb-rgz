@@ -51,7 +51,12 @@ Die Nüsse hacken und gut mit der Masse vermischen.
 
 Danach das Mehl daruntermischen.
  
-Ein grosses rechteckiges Backblech mit Backpapier auslegen, die Brownies-Masse gleichmässig darauf verteilen und im unteren Drittel des Ofens ca. 18 Minuten backen. Nach dem Abkühlen in Würfel schneiden.
+Ein grosses rechteckiges Backblech mit Backpapier auslegen, die Brownies-Masse gleichmässig darauf verteilen.
+
+### Backen
+Im unteren Drittel des Ofens ca. 18 Minuten backen. 
+
+Nach dem Abkühlen in Würfel schneiden.
 
 ## Tipps
 
