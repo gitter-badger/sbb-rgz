@@ -21,7 +21,7 @@ Rita Graf
 40 Minuten
 
 ## Zutaten
-- 200 g geriebene Zucchini 2 mittelgrosse Zucchini 
+- 200 g geriebene Zucchini (2 mittelgrosse Zucchini) 
 - 3 grosse Eier 
 - 100 g Butter 
 - 100 g Xylit Birkenzucker 
