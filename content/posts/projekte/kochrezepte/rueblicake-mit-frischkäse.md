@@ -7,7 +7,7 @@ seodescription: Rueblicake mit Frischkäse
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-martina-schweizer" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-rueblicake-mit-frischkaese" customPlayButton={PlayButton}>
 
 # Rueblicake mit Frischkäse
 
