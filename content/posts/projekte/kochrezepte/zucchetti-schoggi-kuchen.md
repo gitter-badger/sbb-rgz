@@ -9,7 +9,7 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-rita-graf-zucchetti-schoggi-kuchen" customPlayButton={PlayButton}>
 
-# Zucchetti-Schoggi-Kuchen (low carb)
+# Zucchetti-Schoggi-Kuchen (glutenfrei und low carb)
 
 ## Rezept von
 Rita Graf
