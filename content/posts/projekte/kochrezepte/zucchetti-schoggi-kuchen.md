@@ -47,7 +47,10 @@ Eier mit dem Xylit und einer Prise Salz cremig aufschlagen. Die flüssige Butter
 
 Gemahlene  Mandelmehl, Kakaopulver und Guarkernmehl mischen. Die trockenen Zutaten und die geriebene Zucchini vorsichtig unter die aufgeschlagene Eiermasse heben.  
 
-Teig in die vorbereitete Springform füllen und auf der mittleren Schiene des Backofens für ca. 40 Minuten backen. Vor dem Herausnehmen die Stäbchenprobe machen.
+Teig in die vorbereitete Springform füllen.
+
+### Backen
+Auf der mittleren Schiene des Backofens für ca. 40 Minuten backen. Vor dem Herausnehmen die Stäbchenprobe machen.
 
 Kuchen herausnehmen und ca. 15 Minuten in der Form auskühlen lassen. Anschliessend vorsichtig aus der Form lösen und auf dem Kuchengitter vollständig auskühlen lassen.
 Glasur
