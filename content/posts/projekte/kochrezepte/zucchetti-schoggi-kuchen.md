@@ -28,7 +28,7 @@ Rita Graf
 - 100  gemahlene Mandeln 
 - 35 g Mandelmehl 
 - 30 g Kakaopulver ungezuckert 
-- 1/2 TL Guarkernmehl * oder Flohsamen 
+- 1/2 TL Guarkernmehl * oder Flohsamen (siehe Tipps)
 - 1 Prise Salz 
 
 ### Glasur
