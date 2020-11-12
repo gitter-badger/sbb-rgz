@@ -35,7 +35,10 @@ Eigelb und die abgeriebene Schale der Zitrone sowie deren Saft mit 2 EL Kirsch, 
 
 Alles zusammen 30-40 Minuten rühren und zum Schluss das geschlagene Eiweiss leicht darunterziehen.
 
-Die Masse in die mit Butter ausgestrichene und mit Mehl ausgestreute Springform von 25 cm Durchmesser füllen und bei 180°C ca. 50-60 Minuten backen.
+Die Masse in die mit Butter ausgestrichene und mit Mehl ausgestreute Springform von 25 cm Durchmesser füllen.
+
+### Backen
+Bei 180°C ca. 50-60 Minuten backen.
 
 Nach dem Auskühlen mit einer Glasur oder sonstiger Dekoration verzieren.
 
