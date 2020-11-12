@@ -7,7 +7,7 @@ seodescription: Grundrezept für einen saisonalen Früchtekuchen
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-martina-schweizer" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-fruechtekuchen-martina-schweizer" customPlayButton={PlayButton}>
 
 # Früchtekuchen
 
