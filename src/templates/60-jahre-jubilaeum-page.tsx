@@ -11,7 +11,7 @@ export const JubilaeumPageTemplate = ({ title, content, contentComponent,
 
   return (
     <section className="section">
-      <div className="container">
+      <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <PageContent className="content" content={content} />
