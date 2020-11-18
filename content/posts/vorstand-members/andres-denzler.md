@@ -2,7 +2,7 @@
 templateKey: vorstand
 portrait:
   alt: Andres Denzler
-  image: /uploads/portrait_placeholder.jpg
+  image: /uploads/porträt_ad.jpg
 title: Andres Denzler
 seodescription: Andres Denzler
 funktion: Kassier
