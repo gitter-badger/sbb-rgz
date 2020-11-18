@@ -15,7 +15,7 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="vorstand-andres-denzler" customPlayButton={PlayButton}>
 
-# Martina Schweizer
+# Andres Denzler
 
 ## Bild
 
