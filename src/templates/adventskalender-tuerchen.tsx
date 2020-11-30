@@ -46,7 +46,7 @@ const AdventskalenderTuerchenPage = ({ data }: { data: any }) => {
         <meta name="description" content={`Tag ${post.frontmatter.tag} im Adventskalender`} />
         <meta property="og:title" content={`Tag ${post.frontmatter.tag} im Adventskalender`} />
         <meta property="og:description" content={`Tag ${post.frontmatter.tag} im Adventskalender`} />
-        <meta property="og:url" content='https://www.rgz-blind.ch/projekte/adventskalender-tuerchen/' />
+        <meta property="og:url" content={`https://www.rgz-blind.ch/projekte/adventskalender-tuerchen/tag-${post.frontmatter.tag}/`} />
       </Helmet>
       <AdventskalenderTuerchenPageTemplate
         tag={post.frontmatter.tag}

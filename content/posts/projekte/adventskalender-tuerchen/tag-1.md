@@ -41,4 +41,6 @@ das ist fein!
 
 Von James Krüss.
 
+Quelle: [Weihnachtsgedichte 24](https://www.weihnachtsgedichte24.de/weihnachtsgedicht-24-lange-tag.html)
+
 </SpeechOutput>
