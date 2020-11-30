@@ -1,6 +1,8 @@
+const moment = require('moment-timezone');
+
 export function handler(event, context, callback) {
   const days = [];
-  const now = new Date();
+  const now = moment().tz("Europe/Zurich").toDate();
   for (let i = 1; i <= 24; i++) {
     if (
       now.getFullYear() === 2020 &&
