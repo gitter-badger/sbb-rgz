@@ -2,7 +2,20 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`
 })
 
+const { createProxyMiddleware } = require("http-proxy-middleware")
+
 module.exports = {
+  developMiddleware: app => {
+    app.use(
+      "/.netlify/functions/",
+      createProxyMiddleware({
+        target: "http://localhost:9000",
+        pathRewrite: {
+          "/.netlify/functions/": "",
+        },
+      })
+    )
+  },
   siteMetadata: {
     title: 'Schweizerischer Blindenbund RGZ',
     description:
@@ -62,7 +75,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
-        plugins: ['gatsby-mdx-tts', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', `gatsby-remark-responsive-iframe`, 'gatsby-remark-copy-linked-files'],
+        plugins: ['gatsby-mdx-tts', 'gatsby-remark-audio', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', `gatsby-remark-responsive-iframe`, 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
           {
             resolve: "gatsby-mdx-tts",
@@ -74,6 +87,16 @@ module.exports = {
                 secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
               }
             },
+          },
+          {
+            resolve: 'gatsby-remark-audio',
+            options: {
+              preload: 'auto',
+              loop: false,
+              controls: true,
+              muted: false,
+              autoplay: false
+            }
           },
           {
             resolve: "gatsby-remark-embed-video",

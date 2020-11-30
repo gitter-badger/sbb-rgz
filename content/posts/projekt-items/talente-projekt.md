@@ -9,5 +9,5 @@ beschreibung: Die Mitglieder der RGZ haben vielfältige Talente oder gehen
   besonderen Aktivitäten nach. Anlässlich des 60-jährigen Jubiläums der RGZ
   haben wir die Mitglieder gebeten, ihre Talente und besonderen Aktivitäten
   vorzustellen.
-reihenfolge: 2
+reihenfolge: 3
 ---
