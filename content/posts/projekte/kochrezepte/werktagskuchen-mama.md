@@ -4,7 +4,7 @@ title: Werktagskuchen "Mama"
 kategorie: 3. Dessert
 seodescription: Werktagskuchen "Mama" von Katharina Stockmann.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-katharina-stockmann-werktagskuchen-mama" customPlayButton={PlayButton}>
@@ -48,7 +48,8 @@ ca. 40 Min. bei 180°C
 ## Tipps
 
 * Satt Mandeln, Haselnüsse
-* Flüssige Schoggi statt Schoggimöckli
+* Flüssige Schoggi 
+statt Schoggimöckli
 * Oder Früchte satt Schoggi verwenden.
 
 ## Quelle

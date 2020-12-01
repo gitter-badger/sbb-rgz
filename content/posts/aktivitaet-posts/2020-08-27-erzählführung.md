@@ -7,7 +7,7 @@ seodescription: Erzählführung durch die Stadt Zürich mit Erzählungen, Geräu
 date: 2020-09-20T11:44:01.058Z
 anmeldeformularanzeigen: false
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-erzaehlfuehrung" customPlayButton={PlayButton}>

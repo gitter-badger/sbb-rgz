@@ -4,7 +4,7 @@ title: Puschlaver Pizzoccheri
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für ein Puschlaver Pizzoccheri von Klaus Marthy.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-puschlaver-pizzoccheri" customPlayButton={PlayButton}>

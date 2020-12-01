@@ -4,7 +4,7 @@ title: Glarner Zigerhörnli
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Glarner Zigerhörnli eingereicht von Nicola Tragni
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-nicola-tragni" customPlayButton={PlayButton}>

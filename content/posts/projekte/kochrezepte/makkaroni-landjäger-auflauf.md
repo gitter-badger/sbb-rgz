@@ -4,7 +4,7 @@ title: Makkaroni-Landjäger Auflauf
 kategorie: 2. Hauptspeisen
 seodescription: Ein Makkaroni-Landjäger Auflauf Rezept von Margrit Vollenweider.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-margrit-vollenweider-makkaroni-landjaeger-auflauf" customPlayButton={PlayButton}>
@@ -42,7 +42,8 @@ Margrit Vollenweider
 
 ## Zubereitung
 
-* Ofen auf 200°C vorheizen
+* Ofen auf 200°C vorheizen
+
 * Auflaufform ausbuttern und bereitstellen.
 * Landjäger evtl. schälen und der Länge nach halbieren. Quer in feine Streifen schneiden.
 * Eiermilch vorbereiten mit 3 Eier und 1.5 – 2 dl Milch, würzen mit Salz und Pfeffer

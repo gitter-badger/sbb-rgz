@@ -4,7 +4,7 @@ title: Martinas Brownies
 kategorie: 3. Dessert
 seodescription: Martinas zartschmelzende, schokoladige Brownies
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-martina-schweizer-brownies" customPlayButton={PlayButton}>

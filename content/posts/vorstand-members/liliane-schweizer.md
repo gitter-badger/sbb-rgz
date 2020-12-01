@@ -10,7 +10,7 @@ telefon: 044 750 26 35
 email: liliane.schweizer@rgz-blind.ch
 reihenfolge: 3
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="vorstand-liliane-schweizer" customPlayButton={PlayButton}>

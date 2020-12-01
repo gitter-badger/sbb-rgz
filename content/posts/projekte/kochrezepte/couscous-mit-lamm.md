@@ -4,7 +4,7 @@ title: Couscous mit Lamm
 kategorie: 2. Hauptspeisen
 seodescription: Ein Originalrezept für Couscous mit Lamm von Walter Schmutz.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-walter-schmutz-couscous-lamm" customPlayButton={PlayButton}>

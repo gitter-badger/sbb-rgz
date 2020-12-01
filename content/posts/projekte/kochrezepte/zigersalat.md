@@ -4,7 +4,7 @@ title: Zigersalat
 kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Zigersalat. Ein eigenes Rezept von Klaus Marthy.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-zigersalat" customPlayButton={PlayButton}>

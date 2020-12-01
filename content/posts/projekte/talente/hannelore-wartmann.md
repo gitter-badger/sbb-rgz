@@ -33,7 +33,7 @@ photogallery:
       alt: Eine Kerze umwickelt von einer dschungelartigen, silbrigen Wand.
         Hergestellt aus Gips und Stoff.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="talent-hannelore-wartmann" customPlayButton={PlayButton}>

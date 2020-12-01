@@ -4,7 +4,7 @@ title: Risotto Marco
 kategorie: 2. Hauptspeisen
 seodescription: Risotto Marco von  Marco Melchior.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-marco-melchior-risotto-marco" customPlayButton={PlayButton}>

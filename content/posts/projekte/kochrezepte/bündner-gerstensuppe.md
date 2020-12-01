@@ -4,7 +4,7 @@ title: Bündner Gerstensuppe
 kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Kochrezept für eine Bündner Gerstensuppe von Cecilia Rey-Lutz.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-gerstensuppe" customPlayButton={PlayButton}>

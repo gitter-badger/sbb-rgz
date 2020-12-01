@@ -5,7 +5,7 @@ kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für Bündner Maluns aus Mutter's Hand (Surselva) von
   Cecilia Rey-Lutz.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-cecilia-rey-lutz-buendner-maluns" customPlayButton={PlayButton}>

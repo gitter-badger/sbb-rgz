@@ -4,7 +4,7 @@ title: Älplermacaronen
 kategorie: 2. Hauptspeisen
 seodescription: Älplermacaronen
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-hannelore-wartmann-älplermacaronen" customPlayButton={PlayButton}>

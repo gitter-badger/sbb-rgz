@@ -12,7 +12,7 @@ telefon: 079 512 06 79
 email: helene.zimmermann@rgz-blind.ch
 reihenfolge: 1
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="vorstand-helen-zimmermann" customPlayButton={PlayButton}>

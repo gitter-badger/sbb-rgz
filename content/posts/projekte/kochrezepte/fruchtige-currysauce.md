@@ -4,7 +4,7 @@ title: Fruchtige Currysauce
 kategorie: 2. Hauptspeisen
 seodescription: Eine fruchtige Currysauce von Katharina Stockmann.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-katharina-stockmann-fruchtige-currysauce" customPlayButton={PlayButton}>
@@ -38,7 +38,8 @@ Katharina Stockmann
 * 1 EL Aprikosenkonfitüre
 * 2 dl Kokosmilch 
 * Pfeffer 
-* Curry  
+* Curry 
+ 
 
 ## Zubereitung
 
@@ -48,7 +49,9 @@ Mit der Bouillon ablöschen und ca. 15 Minuten kochen lassen. Danach die Zimtsta
 
 Verfeinern mit Aprikosenkonfitüre und Kokosmilch. 
 
-Nach Belieben mit Pfeffer und Curry würzen.
+Nach Belieben mit Pfeffer und Curry 
+würzen
+.
 
 ## Tipps
 

@@ -10,7 +10,7 @@ photogallery:
       image: /uploads/maria_navarro_auszug_2.jpg
       alt: Geschichte, welche Maria Navarro vom Spanischen übersetzt hat.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="talent-maria-navarro" customPlayButton={PlayButton}>

@@ -4,7 +4,7 @@ title: Erfrischender Beeren-Shake mit Vanilleglacé
 kategorie: 3. Dessert
 seodescription: Erfrischender Beeren-Shake mit Vanilleglacé
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-brigitte-marthy-beeren-shake-vanilleglace" customPlayButton={PlayButton}>

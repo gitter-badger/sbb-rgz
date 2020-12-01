@@ -4,7 +4,7 @@ title: Milchreis
 kategorie: 3. Dessert
 seodescription: Ein Rezept für Milchreis von Karin Rüedi
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-karin-ruedi-milchreis" customPlayButton={PlayButton}>

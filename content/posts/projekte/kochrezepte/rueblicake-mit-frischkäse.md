@@ -4,7 +4,7 @@ title: Rueblicake mit Frischkäse
 kategorie: 3. Dessert
 seodescription: Rueblicake mit Frischkäse
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-helen-zimmermann-rueblicake-mit-frischkaese" customPlayButton={PlayButton}>

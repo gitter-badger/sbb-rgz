@@ -13,7 +13,6 @@
     "eslint": "^7.13.0",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
-    "gatsby-mdx-tts": "0.0.12",
     "gatsby-plugin-canonical-urls": "^2.4.0",
     "gatsby-plugin-catch-links": "^2.4.0",
     "gatsby-plugin-mdx": "^1.4.0",

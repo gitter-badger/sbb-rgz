@@ -4,7 +4,7 @@ title: Irenes Zitronencreme
 kategorie: 3. Dessert
 seodescription: Zitronencreme
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-annemarie-heinze-irenes-zitronencreme" customPlayButton={PlayButton}>

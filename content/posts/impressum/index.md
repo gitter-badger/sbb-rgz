@@ -3,7 +3,7 @@ templateKey: impressum-page
 path: /impressum
 title: Impressum
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="impressum-page" customPlayButton={PlayButton}>

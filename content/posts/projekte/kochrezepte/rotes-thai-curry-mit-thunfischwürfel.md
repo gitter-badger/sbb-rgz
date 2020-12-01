@@ -4,7 +4,7 @@ title: Rotes Thai Curry mit Thunfischwürfel
 kategorie: 2. Hauptspeisen
 seodescription: Rotes Thai Curry mit Thunfischwürfel. Ein Originalrezept Patrick Helbling.
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-patrick-helbling-rotes-thai-curry-thunfischwuerfel" customPlayButton={PlayButton}>
@@ -76,7 +76,8 @@ Abänderbar durch andere Gemüsesorten und Currypasten. Ist auch mit Fleisch, an
 
 Am schönsten in einem grossen Suppenteller oder einer schönen Schale mit Unterteller servieren. 
 
-## Quelle
+
+## Quelle
 
 Eigenes Rezept. Deshalb auch beim Gemüse keine allzu genaue Mengenangabe da dies nach Lust und Laune abwandelbar ist.
 

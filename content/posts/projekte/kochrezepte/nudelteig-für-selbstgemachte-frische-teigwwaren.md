@@ -4,7 +4,7 @@ title: Nudelteig für selbstgemachte frische Teigwaren
 kategorie: 2. Hauptspeisen
 seodescription: Nudelteig für selbstgemachte frische Teigwaren
 ---
-import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-bettina-prigge-nudelteig" customPlayButton={PlayButton}>
