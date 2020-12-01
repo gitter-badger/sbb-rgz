@@ -5,7 +5,7 @@ kategorie: 3. Dessert
 seodescription: Ein herrlicher feuchter Zitronenkuchen - Rezept aus der
   Kochschule von Jeannine Ulrich
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-jeannine-ulrich-zitronencake" customPlayButton={PlayButton}>

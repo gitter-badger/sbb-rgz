@@ -4,7 +4,7 @@ title: Rüeblitorte
 kategorie: 3. Dessert
 seodescription: Rüeblitorte
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-verena-van-voornveld-rüeblitorte" customPlayButton={PlayButton}>

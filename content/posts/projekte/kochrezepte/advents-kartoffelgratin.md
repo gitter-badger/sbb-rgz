@@ -4,7 +4,7 @@ title: Advents-Kartoffelgratin
 kategorie: 2. Hauptspeisen
 seodescription: Ein Rezept für einen Advents-Kartoffelgratin von Klaus Marthy.
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-advents-kartoffelgratin" customPlayButton={PlayButton}>

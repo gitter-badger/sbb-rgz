@@ -4,7 +4,7 @@ title: Hummus
 kategorie: 1. Vorspeisen, Suppen und Salate
 seodescription: Hummus
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-reini-anliker-rita-graf-hummus" customPlayButton={PlayButton}>

@@ -16,7 +16,7 @@ photogallery:
 date: 2020-10-15T19:46:05.920Z
 anmeldeformularanzeigen: false
 ---
-import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-tws-2020" customPlayButton={PlayButton}>

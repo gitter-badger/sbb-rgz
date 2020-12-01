@@ -4,7 +4,7 @@ title: Give me Five - Spätzli in verschiedenen Variationen
 kategorie: 2. Hauptspeisen
 seodescription: 5 Spätzlirezepte, vorgestellt von Klaus Marthy.
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-5-spaetzli-teil-1" customPlayButton={PlayButton}>

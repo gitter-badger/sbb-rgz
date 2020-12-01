@@ -3,7 +3,7 @@ templateKey: spenden-page
 path: /spenden
 title: Spenden
 ---
-import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="spenden" customPlayButton={PlayButton}>

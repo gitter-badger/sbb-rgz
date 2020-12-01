@@ -4,7 +4,7 @@ title: Drei Saucen für hausgemachte Pasta
 kategorie: 2. Hauptspeisen
 seodescription: Drei Saucen für hausgemachte Pasta
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-bettina-prigge-rote-sauce" customPlayButton={PlayButton}>

@@ -10,7 +10,7 @@ telefon: 043 499 08 38
 email: andres.denzler@rgz-blind.ch
 reihenfolge: 4
 ---
-import SpeechOutput from "../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="vorstand-andres-denzler" customPlayButton={PlayButton}>

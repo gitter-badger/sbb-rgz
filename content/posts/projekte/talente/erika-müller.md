@@ -24,7 +24,7 @@ photogallery:
       image: /uploads/erika_müller_monotype_002.jpg
       alt: Monotype 2, Gelplattenabdruck mit Acrylfarbe. Aussenmass 21x30cm.
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="talent-erika-mueller" customPlayButton={PlayButton}>

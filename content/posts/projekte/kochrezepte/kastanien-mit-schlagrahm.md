@@ -4,7 +4,7 @@ title: Castagne con panna montata - Kastanien mit Schlagrahm
 kategorie: 3. Dessert
 seodescription: Kastanien mit Schlagrahm - Ein Tessiner Rezept
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-irma-roesch-castagne-con-panna-montata" customPlayButton={PlayButton}>

@@ -4,7 +4,7 @@ title: Schoko-Sauerkirsch Muffins
 kategorie: 3. Dessert
 seodescription: Schoko-Sauerkirsch Muffins
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-adrienn-seifert-muffins" customPlayButton={PlayButton}>

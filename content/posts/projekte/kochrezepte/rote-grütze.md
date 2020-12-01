@@ -4,7 +4,7 @@ title: Rote Grütze
 kategorie: 3. Dessert
 seodescription: Ein Rezept für Rote Grütze, eingereicht von Karin Rüedi.
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-karin-ruedi-rote-gruetze" customPlayButton={PlayButton}>

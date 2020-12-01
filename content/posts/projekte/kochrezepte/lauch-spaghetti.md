@@ -4,7 +4,7 @@ title: Lauch-Spaghetti
 kategorie: 2. Hauptspeisen
 seodescription: Lauch-Spaghetti
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-annemarie-heinze-lauch-spaghetti" customPlayButton={PlayButton}>

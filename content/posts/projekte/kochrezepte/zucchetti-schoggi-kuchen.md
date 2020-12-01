@@ -4,7 +4,7 @@ title: Zucchetti-Schoggi-Kuchen
 kategorie: 3. Dessert
 seodescription: Zucchetti-Schoggi-Kuchen
 ---
-import SpeechOutput from "../../../../plugins/gatsby-mdx-tts/SpeechOutput"
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-rita-graf-zucchetti-schoggi-kuchen" customPlayButton={PlayButton}>
