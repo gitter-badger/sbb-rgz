@@ -57,7 +57,7 @@
     "start": "run-p start:**",
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/functions",
-    "build": "gatsby build && netlify-lambda build src/functions",
+    "build": "netlify-lambda build src/functions && gatsby build",
     "build:app": "gatsby build",
     "build:lambda": "netlify-lambda build src/functions",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
