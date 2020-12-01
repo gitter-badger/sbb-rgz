@@ -14,5 +14,28 @@ import { PlayButton } from "../../PlayButton"
 
 # Adventskalender Tag 10
 
+## Winterspaziergang
+
+Leise stapf‘ ich durch den Schnee,  
+vorbei am zugefror’nen See.  
+ Sonne blitzt durch kahle Zweige,  
+Langsam geht der Tag zu neige.  
+ In den Häusern strahlen Lichter,  
+in gar friedvolle Gesichter.  
+ Ja, jetzt werden Herzen weit,  
+denn Licht erhellt die Dunkelheit.  
+ Sanft streift Kälte meine Wagen.  
+Kinder hab’n schon angefangen,  
+einen Schneemann aufzubau’n.  
+ Es macht Freude zuzuschau’n.  
+ Weiter geh‘ ich, bleib nicht stehen,  
+gibt’s doch noch so viel zusehen  
+in der Winterwunderwelt –  
+unterm klaren Himmelszelt.
+
+Von Annika Schneider.
+
+Quelle: [Winterspaziergang](https://mal-alt-werden.de/winterspaziergang-ein-mitsprechgedicht-fuer-den-winter/)
+
 </SpeechOutput>
 

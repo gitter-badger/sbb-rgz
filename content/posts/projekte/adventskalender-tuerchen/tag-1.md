@@ -14,7 +14,7 @@ import { PlayButton } from "../../PlayButton"
 
 # Adventskalender Tag 1
 
-## Gedicht 24 lange Tage
+## 24 lange Tage
 
 Wenn die ersten Fröste knistern,  
 in dem Wald bei Bayrisch-Moos,  

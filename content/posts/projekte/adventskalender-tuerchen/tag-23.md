@@ -14,7 +14,11 @@ import { PlayButton } from "../../PlayButton"
 
 # Adventskalender Tag 23
 
+## Zauberhöhle Teil 2
+
 `audio: /uploads/zauberhoehle_teil_2.mp3`
+
+Quelle: [Baeschlin Verlag](https://baeschlinverlag.lesestoff.ch/detail/ISBN-9783855463558/Kammerecker-Swantje/Die-Zauberh%C3%B6hle?bpmctrl=bpmrownr.1%7Cforeign.338921-1-0-0)
 
 </SpeechOutput>
 
