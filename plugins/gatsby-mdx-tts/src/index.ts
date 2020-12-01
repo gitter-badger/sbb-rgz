@@ -176,7 +176,7 @@ const generateFiles = async (
         speechMarks = JSON.parse(s3speechmarks.Body!.toString());
         cache.cache.set(getSpeechMarksCacheKey(speechOutputBlock.id), speechMarks);
       } catch (e) {
-        reporter.info(e);asdasd
+        reporter.info(e);
       }
     }
 
