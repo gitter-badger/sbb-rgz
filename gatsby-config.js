@@ -75,9 +75,19 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
-        plugins: ['gatsby-remark-audio', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', `gatsby-remark-responsive-iframe`, 'gatsby-remark-copy-linked-files'],
+        plugins: [{ resolve: require.resolve('./plugins/gatsby-mdx-tts') }, 'gatsby-remark-audio', 'gatsby-remark-embed-video', 'gatsby-remark-relative-images', 'gatsby-remark-images', `gatsby-remark-responsive-iframe`, 'gatsby-remark-copy-linked-files'],
         gatsbyRemarkPlugins: [
-
+          {
+            resolve: require.resolve('./plugins/gatsby-mdx-tts'),
+            options: {
+              awsRegion: "eu-central-1",
+              defaultVoiceId: "Vicki",
+              awsCredentials: {
+                accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
+                secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,
+              }
+            },
+          },
           {
             resolve: 'gatsby-remark-audio',
             options: {

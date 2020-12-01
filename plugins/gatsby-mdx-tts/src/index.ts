@@ -150,11 +150,7 @@ const generateFiles = async (
     const audio = await cache.cache.get(getAudioCacheKey(speechOutputBlock.id));
 
     let filesAlreadyExist = speechMarks && audio;
-    if (
-      !filesAlreadyExist ||
-      hasTextChanged(speechMarks, speechOutputBlock.text)
-      // TODO: also check if SpeechOutput props have changed!
-    ) {
+    if (!filesAlreadyExist) {
       try {
         const s3audio = await s3
           .getObject({

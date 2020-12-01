@@ -56,7 +56,7 @@
     "start": "run-p start:**",
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/functions",
-    "build": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && netlify-lambda build src/functions && gatsby build",
+    "build": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && gatsby build && netlify-lambda build src/functions",
     "build:app": "gatsby build",
     "build:lambda": "netlify-lambda build src/functions",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
