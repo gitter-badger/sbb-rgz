@@ -9,7 +9,7 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-klaus-marthy-advents-kartoffelgratin" customPlayButton={PlayButton}>
 
-# Advents-Kartoffelgratin test
+# Advents-Kartoffelgratin
 
 ## Rezept von
 
