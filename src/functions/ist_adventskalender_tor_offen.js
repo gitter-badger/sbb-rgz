@@ -10,6 +10,9 @@ export function handler(event, context, callback) {
   else isOpen = true;
   callback(null, {
     statusCode: 200,
+    headers: {
+      'Cache-Control': 'no-cache no-store max-age=0 must-revalidate',
+    },
     body: JSON.stringify({
       isOpen: isOpen,
     }),
