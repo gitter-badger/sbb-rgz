@@ -1,8 +1,9 @@
-const moment = require('moment-timezone');
-
 export function handler(event, context, callback) {
   const day = event.queryStringParameters.day;
-  const now = moment().tz("Europe/Zurich").toDate();
+  const zurichTimeStr = new Date().toLocaleString("en-US", {
+    timeZone: "Europe/Zurich",
+  });
+  const now = new Date(zurichTimeStr);
   let isOpen;
   if (now.getFullYear() !== 2020) isOpen = false;
   else if (now.getMonth() !== 11) isOpen = false;
