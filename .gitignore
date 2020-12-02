@@ -9,4 +9,4 @@ static/admin/*.bundle.*
 yarn-error.log
 .env.development
 .env.production
-functions/
+/functions/
