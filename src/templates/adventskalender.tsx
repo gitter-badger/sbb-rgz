@@ -10,8 +10,6 @@ export const Adventskalender2020PageTemplate = ({ tuerchen }: { tuerchen: any })
   useEffect(() => {
       async function getOpenDays() {
           const response = await fetch('/.netlify/functions/welche_adventskalender_tore_sind_offen');
-          const response2 = await fetch('/.netlify/functions/servertime');
-          console.log(response2.json());
           const json = await response.json();
           setOpenDays(json.openDays);
       }
