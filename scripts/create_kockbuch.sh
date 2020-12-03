@@ -1,0 +1,1 @@
+pandoc -V toc-title="Inhaltsverzeichnis" advents-kartoffelgratin.md appenzeller-cordon-bleu.md --pdf-engine=xelatex --toc -o output/kochbuch.pdf --toc-depth=1
