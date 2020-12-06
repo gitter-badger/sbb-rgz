@@ -82,6 +82,7 @@ module.exports = {
             options: {
               awsRegion: "eu-central-1",
               defaultVoiceId: "Vicki",
+              defaultLexiconNames: ["rgzlexicon"],
               awsCredentials: {
                 accessKeyId: process.env.GATSBY_AWS_ACCESS_KEY_ID,
                 secretAccessKey: process.env.GATSBY_AWS_SECRET_ACCESS_KEY,

@@ -18,7 +18,7 @@ Die Regionalgruppe Zürich steht in enger Zusammenarbeit mit verschiedenen Organ
 
 ## Medienecho
 
-Die RGZ hat mit Janka Reimmann ein engagiertes Mitglied als Medienverantwortliche. Sie hat verschiedene Auftritte in lokalen Medien, im Radio oder im Fernsehen und macht dadurch auf die Anliegen von sehbehinderten und blinden Menschen aufmerksam. 
+Die RGZ hat mit Janka Reimmann ein engagiertes Mitglied als Medienverantwortliche. Sie hat verschiedene Auftritte in lokalen Medien, im Radio oder im Fernsehen und macht dadurch auf die Anliegen von sehbehinderten und blinden Menschen aufmerksam.
 
 Medienberichte und Links in Zusammenhang mit der RGZ und dem Schweizerischen Blindenbund finden Sie auf der Internetseite des Schweizerischen Blindenbundes unter **[Medienecho](https://blind.ch/medienecho.html)**.
 
