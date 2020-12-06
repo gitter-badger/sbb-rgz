@@ -52,13 +52,16 @@
   "main": "n/a",
   "scripts": {
     "clean": "gatsby clean",
-    "develop": "gatsby develop",
+    "develop": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && gatsby develop",
     "start": "run-p start:**",
     "start:app": "npm run develop",
     "start:lambda": "netlify-lambda serve src/functions",
-    "build": "netlify-lambda build src/functions && gatsby build",
+    "build": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && netlify-lambda build src/functions && gatsby build",
     "build:app": "gatsby build",
     "build:lambda": "netlify-lambda build src/functions",
+    "serve": "run-p serve:**",
+    "serve:app": "gatsby serve",
+    "serve:lambda": "netlify-lambda serve src/functions",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "type-check": "tsc --noEmit"
