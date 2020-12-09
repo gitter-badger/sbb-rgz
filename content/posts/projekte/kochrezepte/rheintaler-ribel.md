@@ -9,7 +9,7 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-caroline-kobler-rheintaler-ribel" customPlayButton={PlayButton}>
 
-# Rheintaler Ribel
+# Rheintaler Ribel original
 
 ## Rezept von
 
