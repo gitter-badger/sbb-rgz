@@ -43,6 +43,7 @@ Ribelmais war einst Hauptnahrungsmittel der Rheintaler. Fast vergessen, wurde de
 
 
 ## Quelle
-https://ribelmais.ch/rezept/original-rheintaler-ribelmais-3/
+[Ribelmais.ch](https://ribelmais.ch/rezept/original-rheintaler-ribelmais-3/)
+
 
 </SpeechOutput>
