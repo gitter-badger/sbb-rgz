@@ -1,10 +1,10 @@
 ---
 templateKey: adventskalender-tuerchen
+title: Tag 8
+tag: 8
 bild:
   image: /uploads/tuerchen_8.jpg
   alt: Adventskalender Türchen 8
-title: Tag 8
-tag: 8
 ---
 
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
@@ -23,7 +23,7 @@ Entdeckt man ihre Fährten.
 
 Mit Fallen oder Rattengift,  
 Kann man die Maus nicht fangen,  
-Sie ist , was diesen Punkt betrifft,  
+Sie ist, was diesen Punkt betrifft,  
 Noch nie ins Garn gegangen.  
 
 Das ganze Jahr macht diese Maus,  
