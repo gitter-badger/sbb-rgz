@@ -1,10 +1,10 @@
 ---
 templateKey: adventskalender-tuerchen
+title: Tag 10
+tag: 10
 bild:
   image: /uploads/tuerchen_10.jpg
   alt: Adventskalender Türchen 10
-title: Tag 10
-tag: 10
 ---
 
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
@@ -24,7 +24,7 @@ Langsam geht der Tag zu neige.
 in gar friedvolle Gesichter.  
  Ja, jetzt werden Herzen weit,  
 denn Licht erhellt die Dunkelheit.  
- Sanft streift Kälte meine Wagen.  
+ Sanft streift Kälte meine Wangen.  
 Kinder hab’n schon angefangen,  
 einen Schneemann aufzubau’n.  
  Es macht Freude zuzuschau’n.  
