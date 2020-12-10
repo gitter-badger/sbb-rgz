@@ -12,15 +12,7 @@
     <alias>Generalversammlung</alias>
   </lexeme>
   <lexeme>
-    <grapheme>Rezept</grapheme>
-    <phoneme>ʁeˈt͡sɛpt</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Anstoss</grapheme>
     <phoneme>ˈanˌʃtoːs</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Zutaten</grapheme>
-    <phoneme>ˈt͡suːtaːtn̩</phoneme>
   </lexeme>
 </lexicon>

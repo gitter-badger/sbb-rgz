@@ -15,5 +15,4 @@ import { PlayButton } from "./PlayButton"
 
 Geselligkeit und Erfahrungsaustausch sollen Motivation und Anstoss bei der Bewältigung der alltäglichen Schwierigkeiten sein.
 
-
 </SpeechOutput>
