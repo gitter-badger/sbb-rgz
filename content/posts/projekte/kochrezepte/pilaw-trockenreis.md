@@ -27,7 +27,7 @@ Helene Zimmermann
 
 ## Zubereitung
 
-Butter zerlassen, gehackte Zwiebel und Knoblauch beigeben und kurz andünsten. Langkorngreis beigeben und alles zusammen glasig dünsten, mit Weisswein ablöschen und mit Wasser oder Bouillon aufgiessen. Einmal aufkochen und auf kleiner Hitze (Stufe 2) einkochen. Nach ca. 20 min. mit Salz und Pfeffer abschmecken und servieren.
+Butter zerlassen, gehackte Zwiebel und Knoblauch beigeben und kurz andünsten. Langkorngreis beigeben und alles zusammen glasig dünsten, mit Weisswein ablöschen und mit Wasser oder Bouillon aufgiessen. Einmal aufkochen und auf kleiner Hitze (Stufe 2) einkochen. Nach ca. 20 min mit Salz und Pfeffer abschmecken und servieren.
 
 Ä guätä 😋
 
