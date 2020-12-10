@@ -11,6 +11,9 @@ import { PlayButton } from "./PlayButton"
 
 ## Aktuelles
 
-Die Seite befindet sich noch in Arbeit.
+**Motto des Schweizerischen Blindenbundes 2020:**
+
+Geselligkeit und Erfahrungsaustausch sollen Motivation und Anstoss bei der Bewältigung der alltäglichen Schwierigkeiten sein.
+
 
 </SpeechOutput>
