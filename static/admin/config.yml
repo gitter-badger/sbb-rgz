@@ -164,6 +164,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "content/posts/projekte/adventskalender-2021/index.md"
+        label: "Adventskalender 2021"
+        name: "adventskalender-2021"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "adventskalender-2021"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/posts/impressum/index.md"
         label: "Impressum"
         name: "impressum"
