@@ -14,7 +14,7 @@ import { PlayButton } from "../../PlayButton"
 
 # Adventskalender Tag 22
 
-## Zauberhöhle Teil 1
+## Die Zauberhöhle Teil 1
 Die Adventszeit ist da! 
 In einem Kaufhaus lassen sich Niklas und Nora von einer zauberhaften Melodie
 zu einer geheimnisvollen Höhle führen. In glitzerndes Eis gegossen, liegt
