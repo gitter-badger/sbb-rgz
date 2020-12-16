@@ -45,6 +45,7 @@ Anschliessend Rahm- oder Bratensauce dazugeben.
 ## Tipps
 Dazu passt eine Rahm- oder Bratensauce und als Gemüse Blumenkohl, Broccoli, Rüebli, Lauch.
 
-
+## Quelle
+Ein Rezept der Mutter von Caroline Kobler.
 
 </SpeechOutput>
