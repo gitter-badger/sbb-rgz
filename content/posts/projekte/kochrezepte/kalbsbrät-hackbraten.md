@@ -17,7 +17,7 @@ Caroline Kobler
 
 ## Menge
 
-4 Protionen
+4 Portionen
 
 ## Vorbereitungszeit
 30 Minuten
