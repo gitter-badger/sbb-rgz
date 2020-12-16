@@ -1,10 +1,10 @@
 ---
 templateKey: adventskalender-tuerchen
+title: Tag 23
+tag: 23
 bild:
   image: /uploads/tuerchen_23.jpg
   alt: Adventskalender Türchen 23
-title: Tag 23
-tag: 23
 ---
 
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
@@ -14,7 +14,8 @@ import { PlayButton } from "../../PlayButton"
 
 # Adventskalender Tag 23
 
-## Zauberhöhle Teil 2
+## Die Zauberhöhle Teil 2
+Die Geschichte von Niklas und Nora geht weiter...
 
 `audio: /uploads/zauberhoehle_teil_2.mp3`
 
