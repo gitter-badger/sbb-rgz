@@ -4,10 +4,16 @@ title: Spaghetti alla Rudolfo
 kategorie: 2. Hauptspeisen
 seodescription: Spaghetti alla Rudolfo
 ---
+import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
+import { PlayButton } from "../../PlayButton"
+
+<SpeechOutput id="kochrezept-helene-zimmermann-spaghetti-alla-rodolpho" customPlayButton={PlayButton}>
+
+# Spaghetti alla Rudolfo
 
 ## Rezept von
 
-Priska Möschler
+Helene Zimmermann
 
 ## Menge
 
@@ -50,5 +56,7 @@ Priska Möschler
 •	Die rohen Spaghetti in den Sud geben.  
 •	Unter stetigem Umrühren bei mittlerer Hitze 25 Minuten kochen lassen, bis der Sud eingekocht ist.
 
+## Quelle
+Ein Rezept von Priska Möschler
 
 </SpeechOutput>
