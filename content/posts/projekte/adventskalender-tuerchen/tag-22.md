@@ -19,7 +19,7 @@ Die Adventszeit ist da!
 In einem Kaufhaus lassen sich Niklas und Nora von einer zauberhaften Melodie
 zu einer geheimnisvollen Höhle führen. In glitzerndes Eis gegossen, liegt
 alles vor ihnen, was sie sich je gewünscht haben. Ein Zauberer herrscht über
-diese Schätze und verspricht sie ihnen – doch zu welchem Preis? Werden Niklas und Nora den Weihnachtsaben zu Hause verpassen? Können sie sich der Macht der tollen Geschenke, die sie haben möchten, entziehen? Und was ist eigentlich das kostbare an Weihnachten?
+diese Schätze und verspricht sie ihnen – doch zu welchem Preis? Werden Niklas und Nora den Weihnachtsabend zu Hause verpassen? Können sie sich der Macht der tollen Geschenke, die sie haben möchten, entziehen? Und was ist eigentlich das Kostbare an Weihnachten?
 
 Wie es Niklas und Nora ergeht, erfahrt ihr hinter den besonderen Adventstürchen vom 22. bis 24. Dezember. Der [Baeschlin Verlag](https://baeschlinverlag.lesestoff.ch/detail/ISBN-9783855463558/Kammerecker-Swantje/Die-Zauberh%C3%B6hle?bpmctrl=bpmrownr.1%7Cforeign.338921-1-0-0) hat uns ermöglicht, die Geschichte der Zauberhöhle von Swantje Kammerecker in unseren Adventskalender aufzunehmen. 
 
