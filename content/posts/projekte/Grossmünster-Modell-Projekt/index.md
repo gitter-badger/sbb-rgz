@@ -11,6 +11,14 @@ import { PlayButton } from "../../PlayButton"
 
 Zum 50-jährigen Jubiläum der RGZ im Jahr 2010 hat der Schweizerische Blindenbund der Stadt Zürich ein tastbares Modell des Grossmünsters geschenkt. 
 
-Leider wurde das Modell vor einiger Zeit beschädigt und ist deshalb nicht mehr auf dem Sockel vor dem Grossmünster sicht- und tastbar. Die RGZ setzt sich dafür ein, dass das Modell repariert und der Öffentlichkeit wieder zugänglich gemacht werden kann. Dafür ist der Vorstand mit dem Sigrist des Grossmünsters, der Stadt Zürich sowie einem Architekten in Kontakt. Wir hoffen, dass das Modell möglichst bald wieder an seinem angestammten Platz aufgestellt werden kann. 
+Leider wurde das Modell vor einiger Zeit beschädigt und ist deshalb nicht mehr auf dem Sockel vor dem Grossmünster sicht- und tastbar. Die RGZ hat sich dafür eingesetzt, dass das Modell repariert wird. Dies war nicht ganz einfach, da zuerst die Zuständigkeiten bei der Stadt Zürich geklärt werden musste. Zudem war das Modell bisher nicht im Invetar der Stadt aufgeführt. 
+
+Dies ändert sich nun jedoch. Das Modell wurde nun einer Kunstschlosserei in St. Gallen zur Reparatur übergeben. Danach wird das Tastmodell wieder am angestammten Platz vor dem Grossmünster aufgestellt und regelmässig auf seinen Zustand kontrolliert und bei Bedarf gereinigt. 
+ 
+Der genaue Termin, an dem das Modell wieder am alten Standort stehen wird ist zwar noch nicht bekannt. Wir freuen uns aber sehr, dass das Modell nun repariert uns wieder aufgestellt wird. Sobald wir mehr wissen, informieren wir an dieser Stelle wieder. 
+
+Herzlichen Dank an alle Beteiligten!
+
+
 
 </SpeechOutput>
