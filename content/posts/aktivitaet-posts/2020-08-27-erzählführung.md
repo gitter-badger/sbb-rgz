@@ -1,6 +1,7 @@
 ---
 templateKey: aktivitaet-post
 title: Erzählführung
+istArchiviert: true
 shortdescription: Führung durch die Stadt Zürich mit Erzählungen, Geräuschen und
   Düften. Sonntag, 20.9.2020, 15.30 Uhr
 seodescription: Erzählführung durch die Stadt Zürich mit Erzählungen, Geräuschen und Düften.

@@ -117,6 +117,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Ist archiviert", name: "istArchiviert", widget: "boolean", default: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/posts/vorstand/index.md"
         label: "Vorstand"

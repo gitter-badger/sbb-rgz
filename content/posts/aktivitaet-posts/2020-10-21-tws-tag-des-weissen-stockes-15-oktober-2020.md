@@ -1,6 +1,7 @@
 ---
 templateKey: aktivitaet-post
 title: TWS - Tag des Weissen Stockes
+istArchiviert: false
 shortdescription: TWS - Tag des Weissen Stockes
 seodescription: RGZ TWS2020
 photogallery:

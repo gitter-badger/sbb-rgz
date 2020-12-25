@@ -128,7 +128,7 @@ export const pageQuery = graphql`
     }
     activities: allMdx(
       sort: { order: ASC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, date: { gte: $currentDate } } }
+      filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, date: { gte: $currentDate }, istArchiviert: { eq: false } } }
       limit: 3
     ) {
       edges {

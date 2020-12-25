@@ -77,7 +77,7 @@ export default () => (
       query AktivitaetListQuery {
         aktivitaeten: allMdx(
           sort: { order: ASC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" } } }
+          filter: { frontmatter: { templateKey: { eq: "aktivitaet-post" }, istArchiviert: { eq: false } } }
         ) {
           edges {
             node {
