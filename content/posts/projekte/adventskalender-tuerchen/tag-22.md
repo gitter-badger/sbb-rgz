@@ -31,7 +31,7 @@ Musik gespielt vom: Vororchester des Bredeneyer Schulorchesters Essen
 
 In den nächsten drei Tagen könnt ihr über folgenden Link jeweils einen Teil dieser schönen Weihnachtsgeschichte hören: 
 
-`audio: /uploads/zauberhoehle_teil_1.mp3`
+Das Hörbuch wurde aus urheberrechtlichen Gründen entfernt.
 
 Quelle: [Baeschlin Verlag](https://baeschlinverlag.lesestoff.ch/detail/ISBN-9783855463558/Kammerecker-Swantje/Die-Zauberh%C3%B6hle?bpmctrl=bpmrownr.1%7Cforeign.338921-1-0-0)
 
