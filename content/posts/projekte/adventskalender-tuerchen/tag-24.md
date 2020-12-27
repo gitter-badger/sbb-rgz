@@ -35,7 +35,7 @@ Quelle: [Nun leuchten wieder die Weihnachtskerzen](https://weihnachten.tagesspie
 ## Die Zauberhöhle Teil 3
 Wie geht die Geschichte von Nora und Niklas wohl aus?
 
-`audio: /uploads/zauberhoehle_teil_3.mp3`
+Das Hörbuch wurde aus urheberrechtlichen Gründen entfernt.
 
 Quelle: [Baeschlin Verlag](https://baeschlinverlag.lesestoff.ch/detail/ISBN-9783855463558/Kammerecker-Swantje/Die-Zauberh%C3%B6hle?bpmctrl=bpmrownr.1%7Cforeign.338921-1-0-0)
 
