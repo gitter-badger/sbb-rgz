@@ -6,5 +6,5 @@ bild:
 title: Adventskalender 2020
 link: adventskalender
 beschreibung: Adventskalender 2020 der RGZ
-reihenfolge: 1
+reihenfolge: 6
 ---
