@@ -8,5 +8,5 @@ link: adventskalender-2021
 beschreibung: Auch nächstes Jahr möchten wir wieder einen Adventskalender
   anbieten. Wir bitten euch, eure Beiträge für den Adventskalender 2021
   einzureichen.
-reihenfolge: 6
+reihenfolge: 5
 ---
