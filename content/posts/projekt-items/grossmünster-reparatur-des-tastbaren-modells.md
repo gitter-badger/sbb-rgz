@@ -7,5 +7,5 @@ title: Grossmünster - Reparatur des tastbaren Modells
 link: Grossmünster-Modell-Projekt
 beschreibung: "Das Tastbare Modell des Grossmünsters in Zürich wurde leider
   beschädigt. Die RGZ setzt sich dafür ein, dass es geflickt wird. "
-reihenfolge: 5
+reihenfolge: 3
 ---
