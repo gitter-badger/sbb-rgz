@@ -11,7 +11,7 @@ import { PlayButton } from "./PlayButton"
 
 ## Aktuelles
 
-**Motto des Schweizerischen Blindenbundes 2020:**
+**Motto des Schweizerischen Blindenbundes 2021:**
 
 Geselligkeit und Erfahrungsaustausch sollen Motivation und Anstoss bei der Bewältigung der alltäglichen Schwierigkeiten sein.
 
