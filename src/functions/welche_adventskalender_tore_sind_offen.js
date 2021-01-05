@@ -6,7 +6,7 @@ export function handler(event, context, callback) {
   const now = new Date(zurichTimeStr);
   for (let i = 1; i <= 24; i++) {
     if (
-      now.getFullYear() === 2020 &&
+      now.getFullYear() >= 2020 &&
       now.getMonth() === 11 &&
       i <= now.getDate()
     )
