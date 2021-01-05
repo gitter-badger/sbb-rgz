@@ -1,20 +1,10 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet'
 import { AdventskalenderTuerchen } from '../components/AdventskalenderTuerchen'
 
 export const Adventskalender2020PageTemplate = ({ tuerchen }: { tuerchen: any }) => {
-  const [openDays, setOpenDays] = useState([]);
-
-  useEffect(() => {
-      async function getOpenDays() {
-          const response = await fetch('/.netlify/functions/welche_adventskalender_tore_sind_offen');
-          const json = await response.json();
-          setOpenDays(json.openDays);
-      }
-      getOpenDays();
-  }, []);
 
   return (
     <section className="section">
@@ -24,12 +14,10 @@ export const Adventskalender2020PageTemplate = ({ tuerchen }: { tuerchen: any })
             <h1>Adventskalender 2020</h1>
             <div className="tile is-ancestor" style={{ flexWrap: 'wrap' }}>{
               tuerchen.map(({ node: tor }: { node: any }) => (
-                <AdventskalenderTuerchen 
-                key={tor.frontmatter.tag} 
-                day={tor.frontmatter.tag} 
-                bild={tor.frontmatter.bild} 
-                link={tor.fields.slug}
-                isOpen={openDays[tor.frontmatter.tag - 1] !== undefined ? openDays[tor.frontmatter.tag - 1] : false}/>
+                <AdventskalenderTuerchen
+                  key={tor.frontmatter.tag}
+                  bild={tor.frontmatter.bild}
+                  link={tor.fields.slug} />
               ))}</div>
           </div>
         </div>
