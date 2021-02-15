@@ -150,10 +150,7 @@ module.exports = {
     },
     "gatsby-plugin-catch-links",
     {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.tsx`,
-      },
+      resolve: 'gatsby-plugin-netlify-cms'
     },
     {
       resolve: `gatsby-plugin-canonical-urls`,
