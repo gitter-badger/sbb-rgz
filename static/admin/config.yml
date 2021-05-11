@@ -26,6 +26,7 @@ collections:
       - {label: "Suchmaschine Beschreibung", name: "seodescription", widget: "string"}
       - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
       - {label: "Veranstaltungsdatum", name: "date", widget: "datetime",  timeFormat: false, dateFormat: "DD.MM.YYYY"}
+      - {label: "Ist archiviert", name: "istArchiviert", widget: "boolean", default: false}
       - {label: "Anmeldeformular anzeigen", name: "anmeldeformularanzeigen", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
@@ -117,7 +118,6 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "aktivitaeten-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Ist archiviert", name: "istArchiviert", widget: "boolean", default: false}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/posts/vorstand/index.md"
         label: "Vorstand"
