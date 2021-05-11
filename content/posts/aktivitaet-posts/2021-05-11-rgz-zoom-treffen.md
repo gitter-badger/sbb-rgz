@@ -1,6 +1,6 @@
 ---
 templateKey: aktivitaet-post
-title: RGZ-Zoom-Treffen
+title: RGZ-Zoom-Treffen vom 23.6.2021
 istArchiviert: true
 shortdescription: "Die RGZ führt am 23. Juni 2021 ihr drittes Zoom-Treffen durch. "
 seodescription: Zoom-Treffen der RGZ vom 23.6.2021
