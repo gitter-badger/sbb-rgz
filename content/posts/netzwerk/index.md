@@ -1,20 +1,24 @@
 ---
 templateKey: netzwerk-page
 path: /netzwerk
-title: Netzwerk
+title: Hilfreiches
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
-<SpeechOutput id="netzwerk-page" customPlayButton={PlayButton}>
+<SpeechOutput id="hilfreiches-page" customPlayButton={PlayButton}>
 
-# Netzwerk
+# Hilfreiches
 
 ## Partner
 
 Die Regionalgruppe Zürich steht in enger Zusammenarbeit mit verschiedenen Organisationen. Auf dieser Seite sind einige davon aufgelistet.
 
 * **[Schweizerischer Blindenbund](https://blind.ch/)**. Der Schweizerische Blindenbund, zu dem auch die Regionalgruppe Zürich gehört.
+
+* **[Bahnhofhilfe Zürich](https://www.bahnhofhilfe.ch/de/Hauptbahnhof_Zuerich.php)**. 
+
+* **[Beauftragte für Gleichstellung der Stadt Zürich](https://www.stadt-zuerich.ch/barrierefrei )**. 
 
 ## Medienecho
 
