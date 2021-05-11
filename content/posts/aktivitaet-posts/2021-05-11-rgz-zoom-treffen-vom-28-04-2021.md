@@ -1,8 +1,12 @@
 ---
 templateKey: aktivitaet-post
-title: RGZ-Zoom-Treffen vom 28.04.2021
-istArchiviert: true
 shortdescription: Die RGZ führte am 28. April 2021 ein Zoom-Treffen durch.
+photogallery:
+  - bild:
+      image: /uploads/leben.jpg
+      alt: Acrylbild "Leben" von Hannelore Wartmann.
+istArchiviert: true
+title: RGZ-Zoom-Treffen vom 28.04.2021
 seodescription: Zoom-Treffen der RGZ vom 28.04.2021
 date: 2021-04-28T18:15:02.048Z
 anmeldeformularanzeigen: false
