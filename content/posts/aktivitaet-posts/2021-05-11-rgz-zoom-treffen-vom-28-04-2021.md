@@ -24,5 +24,6 @@ Um endlich mal wieder aus unseren vier Wänden herauszukommen, nahm uns der erfa
  
 Während rund 90 Minuten hörten 22 Mitglieder Hannelore und Pedro gespannt zu. Die positiven und wertschätzenden Rückmeldungen bestätigen, dass die gewählten Themen in dieser Kombination gefallen haben und uns die Alltagssorgen für kurze Zeit etwas vergessen liessen. Hannelore und Pedro danken wir im Namen des RGZ-Vorstands ganz herzlich für den interessanten Abend.
 
+`youtube: [Video von Hannelore Wartmann, wie sie das Bild gestaltet](PW-Jr6wkyK8)`
 
 </SpeechOutput>
