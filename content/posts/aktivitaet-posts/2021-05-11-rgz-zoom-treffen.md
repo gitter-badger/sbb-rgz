@@ -1,10 +1,10 @@
 ---
 templateKey: aktivitaet-post
 title: RGZ-Zoom-Treffen vom 23.6.2021
-istArchiviert: true
 shortdescription: "Die RGZ führt am 23. Juni 2021 ihr drittes Zoom-Treffen durch. "
 seodescription: Zoom-Treffen der RGZ vom 23.6.2021
 date: 2021-06-23T18:03:26.104Z
+istArchiviert: false
 anmeldeformularanzeigen: false
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
