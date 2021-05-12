@@ -1,11 +1,11 @@
 ---
 templateKey: grossmuenster-modell-projekt-page
-title: Grossmünster Modell Reparatur
+title: Grossmünster Modell repariert!
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="projekt-grossmuenster-modell-reparatur" customPlayButton={PlayButton}>
+<SpeechOutput id="projekt-grossmuenster-modell-reparatriert" customPlayButton={PlayButton}>
 
 # Grossmünster Modell repariert!
 
