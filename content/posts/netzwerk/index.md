@@ -10,6 +10,8 @@ import { PlayButton } from "../PlayButton"
 
 # Hilfreiches
 
+* **[Pinnwand des Schweizerischen Blindenbundes](https://www.blind.ch/aktuelles/pinnwand.html)** Hier können aktive Mitglieder Inserate, Aufrufe und Hilfeleistungen zu verschiedenen Themen publizieren. Schauen Sie es sich an. Interessiert Sie etwas davon oder können Sie auch selbst etwas anbieten? Dann melden Sie sich und machen Sie mit, denn dafür ist diese Pinnwand da!
+
 ## Partner
 
 Die Regionalgruppe Zürich steht in enger Zusammenarbeit mit verschiedenen Organisationen. Auf dieser Seite sind einige davon aufgelistet.
