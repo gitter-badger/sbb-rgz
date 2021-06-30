@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: [`/kontakt/danke/`, `/projekt-items/*`],
+        excludes: [`/kontakt/danke/`, `/projekt-items/*`],
       }
     },
     'gatsby-plugin-react-helmet',
