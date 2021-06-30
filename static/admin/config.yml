@@ -149,6 +149,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "grossmuenster-modell-projekt-page"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Fotogallerie", name: "photogallery", widget: "list", field: {label: "Bild", name: "bild", widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}}
           - {label: "Body", name: "body", widget: "markdown"}      
       - file: "content/posts/projekte/60-jahre-jubilaeum-projekt/index.md"
         label: "60-Jahre RGZ Jubiläum"

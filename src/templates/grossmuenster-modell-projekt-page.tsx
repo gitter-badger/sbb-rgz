@@ -3,8 +3,9 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import { Helmet } from 'react-helmet'
+import { PhotoGallery } from '../components/PhotoGallery'
 
-export const GrossmuensterModellPageTemplate = ({ title, content, contentComponent }: { title: any, content: any, contentComponent: any }) => {
+export const GrossmuensterModellPageTemplate = ({ title, content, contentComponent, photogallery }: { title: any, content: any, contentComponent: any, photogallery: any }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -13,6 +14,7 @@ export const GrossmuensterModellPageTemplate = ({ title, content, contentCompone
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <PageContent className="content" content={content} />
+            <PhotoGallery photogallery={photogallery}/>
           </div>
         </div>
       </div>
@@ -37,6 +39,7 @@ const GrossmuensterModellPage = ({ data }: { data: any }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.body}
+        photogallery={post.frontmatter.photogallery}
       />
     </Layout>
   )
