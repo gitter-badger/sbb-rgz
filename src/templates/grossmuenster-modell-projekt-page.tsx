@@ -52,7 +52,17 @@ export const GrossmuensterModellPageQuery = graphql`
     mdx(id: { eq: $id }) {
       body
       frontmatter {
-        title
+        title        
+        photogallery {
+          bild {
+            alt
+            image {
+              childImageSharp {
+                gatsbyImageData(width: 600, quality: 92, formats: [AUTO, WEBP, AVIF], placeholder: TRACED_SVG)
+              }
+            }
+          }
+        }
       }
     }
   }
