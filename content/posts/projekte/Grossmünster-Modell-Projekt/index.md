@@ -1,6 +1,10 @@
 ---
 templateKey: grossmuenster-modell-projekt-page
 title: Grossmünster Modell repariert!
+photogallery:
+  - bild:
+      image: /uploads/christina_rösli_3.jpg
+      alt: Testbild
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
