@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 import { Link } from 'gatsby'
 
 const VorstandMember = ({
@@ -21,7 +21,7 @@ const VorstandMember = ({
     <div className="card">
       <div className="card-image">
         <figure className="image mx-0">
-          <Link to={slug}><Img fluid={portrait.image.childImageSharp.fluid} alt={portrait.alt} /></Link>
+          <Link to={slug}><GatsbyImage image={portrait.image.childImageSharp.gatsbyImageData} alt={portrait.alt} /></Link>
         </figure>
       </div>
       <div className="card-content">

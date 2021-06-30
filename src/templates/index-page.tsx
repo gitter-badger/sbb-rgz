@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby'
 import Content, { HTMLContent } from '../components/Content'
 import Layout from '../components/Layout'
 import { Helmet } from 'react-helmet'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 export const IndexPageTemplate = ({
   content,
@@ -70,7 +70,7 @@ export const IndexPageTemplate = ({
                       <div className="card">
                         <div className="card-image">
                           <figure className="image mx-0">
-                            <Link to={`/projekte/` + `${projekt.frontmatter.link}` + '/'}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
+                            <Link to={`/projekte/` + `${projekt.frontmatter.link}` + '/'}><GatsbyImage image={projekt.frontmatter.bild.image.childImageSharp.gatsbyImageData} alt={projekt.frontmatter.bild.alt} /></Link>
                           </figure>
                         </div>
                         <div className="card-content">
@@ -162,10 +162,8 @@ export const pageQuery = graphql`
             bild {
               alt
               image {
-                childImageSharp {
-                  fluid(maxWidth: 200, quality: 92) {
-                    ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                  }
+                childImageSharp {                  
+                  gatsbyImageData(width: 600, quality: 92, formats: [AUTO, WEBP, AVIF], placeholder: TRACED_SVG)
                 }
               }
             }

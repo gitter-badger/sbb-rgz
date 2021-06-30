@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 import { Helmet } from 'react-helmet'
 
 const ProjektePage = ({ data }: { data: any }) => {
@@ -28,7 +28,7 @@ const ProjektePage = ({ data }: { data: any }) => {
                       <div className="card">
                         <div className="card-image">
                           <figure className="image mx-0">
-                            <Link to={"/projekte/" + projekt.frontmatter.link + "/"}><Img fluid={projekt.frontmatter.bild.image.childImageSharp.fluid} alt={projekt.frontmatter.bild.alt} /></Link>
+                            <Link to={"/projekte/" + projekt.frontmatter.link + "/"}><GatsbyImage image={projekt.frontmatter.bild.image.childImageSharp.gatsbyImageData} alt={projekt.frontmatter.bild.alt} /></Link>
                           </figure>
                         </div>
                         <div className="card-content">
@@ -73,9 +73,7 @@ export const projekteQuery = graphql`
                   alt
                   image {
                     childImageSharp {
-                      fluid(maxWidth: 400, quality: 92) {
-                        ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                      }
+                      gatsbyImageData(width: 600, quality: 92, formats: [AUTO, WEBP, AVIF], placeholder: TRACED_SVG)
                     }
                   }
                 }

@@ -23,6 +23,7 @@ module.exports = {
     siteUrl: `https://www.rgz-blind.ch`
   },
   plugins: [    
+    `gatsby-plugin-image`,
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     'gatsby-plugin-robots-txt',

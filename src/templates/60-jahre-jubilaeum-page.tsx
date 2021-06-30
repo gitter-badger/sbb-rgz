@@ -59,9 +59,7 @@ export const JubiluaeumPageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 400, quality: 92) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
+                gatsbyImageData(width: 600, quality: 92, formats: [AUTO, WEBP, AVIF], placeholder: TRACED_SVG)
               }
             }
           }

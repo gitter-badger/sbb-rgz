@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 
 export const PhotoGallery = ({
     photogallery,
@@ -16,7 +16,7 @@ export const PhotoGallery = ({
                             <div className="card">
                                 <div className="card-image">
                                     <figure className="image mx-0">
-                                        <Img fluid={photogalleryImage.bild.image.childImageSharp.fluid} alt={photogalleryImage.bild.alt} />
+                                        <GatsbyImage image={photogalleryImage.bild.image.childImageSharp.gatsbyImageData} alt={photogalleryImage.bild.alt} />
                                     </figure>
                                 </div>
                                 <div className="card-content">

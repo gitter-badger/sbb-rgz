@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image"
 import { Link } from 'gatsby';
 
 export const AdventskalenderTuerchen = ({ bild, link }: { bild: any, link: any }) => {
@@ -9,7 +9,7 @@ export const AdventskalenderTuerchen = ({ bild, link }: { bild: any, link: any }
                 <div className="card">
                     <div className="card-image">
                         <figure className={`image mx-0`}>
-                            <Link to={link}><Img fluid={bild.image.childImageSharp.fluid} alt={bild.alt} /></Link>
+                            <Link to={link}><GatsbyImage image={bild.image.childImageSharp.gatsbyImageData} alt={bild.alt} /></Link>
                         </figure>
                     </div>
                 </div>

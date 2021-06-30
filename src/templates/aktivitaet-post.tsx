@@ -189,10 +189,8 @@ export const pageQuery = graphql`
           bild {
             alt
             image {
-              childImageSharp {
-                fluid(maxWidth: 400, quality: 92) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
+              childImageSharp {                
+                gatsbyImageData(width: 600, quality: 92, formats: [AUTO, WEBP, AVIF], placeholder: TRACED_SVG)
               }
             }
           }
