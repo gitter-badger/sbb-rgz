@@ -8,6 +8,6 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="projekt-60-jahre-jubilaeum" customPlayButton={PlayButton}>
 
-# 60-Jahre RGZ Jubiläum
+# 60-Jahre RGZ Jubiläum 2020/2021
 
 </SpeechOutput>
