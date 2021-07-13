@@ -1,15 +1,15 @@
 ---
 templateKey: kochrezept-item
-title: Teigwarengratin ohne Vorkochen
+title: Teigwaren mit Cherrytomaten in einem Topf
 kategorie: 2. Hauptspeisen
-seodescription: Teigwarengratin ohne Vorkochen von Philippe Berthoud
+seodescription: Teigwaren mit Cherrytomaten in einem Topf von Philippe Berthoud
 ---
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../../PlayButton"
 
-<SpeechOutput id="kochrezept-liliane-schweizer-teigwarengratin-ohne-vorkochen" customPlayButton={PlayButton}>
+<SpeechOutput id="kochrezept-liliane-schweizer-teigwaren-mit-cherrytomaten-in-einem-topf" customPlayButton={PlayButton}>
 
-# Teigwarengratin ohne Vorkochen
+# Teigwaren mit Cherrytomaten in einem Topf
 
 ## Rezept von
 
@@ -18,32 +18,33 @@ Liliane Schweizer
 ## Menge
 4 Personen
 ## Vorbereitungszeit
-etwa 20 Minuten
+etwa 10 Minuten
 ## Koch-/Backzeit
-etwa 45 Minuten
+10-12 Minuten
 
 ## Zutaten
-3 Joghurtbecher ungekochte Teigwaren (z.B. Spiralen oder Penne)
-3 Joghurtbecher Sugo  oder Tomatensauce
-1 Pack getrocknete Pilze (ca. 30 g)
-2 Joghurtbecher Bouillon
-1 Joghurtbecher Halbrahm
-1 Peperoni in Würfel geschnitten
-2 Handvoll Parmesan gerieben
+* 4 Joghurtbecher Teigwaren mit einer Kochzeit von 10 – 12 Minuten
+* 3 Joghurtbecher Cherrytomaten (ca. 250g)
+* 1 Knoblauchzehe grob gehackt
+* 10 Blätter Basilikum, gezupft 
+* 2 Esslöffel Olivenöl
+* 4 Joghurtbecher kaltes Wasser
+* 5 Prisen Salz
+* Pfeffer aus der Mühle
+* 2 Handvoll geriebener Parmesan
 
 
 
 ## Zubereitung
-* Ofen auf 180 Grad vorheizen, Ober- und Unterhitze.
-* Sämtliche Zutaten in eine grosse Gratinform geben, gut mischen und für 45 Minuten im Ofen garen.
-* Nach 45 Minuten den Ofen ausschalten, öffnen und etwas auskühlen lassen.
+* Sämtliche Zutaten in einen grossen Topf geben, auf den Herd stellen, aufkochen lassen und dann 11 Minuten kochen lassen – jede Minute gut umrühren.
+* Zum Schluss 2 gute Handvoll geriebener Parmesan beigen, gut mischen und servieren.
 
 
 
 ## Tipps
 * Der Joghurtbecher wird bei Philipp Berthoud als einfache Masseinheit genutzt. Dazu einfach einen normalen, sauberen Joghurtbecher (180 g) nehmen und füllen.   
 
-* Für dieses Rezept können alle Pastasorten verwendet werden, Philipp findet, Penne passen sehr gut.
+* Den Topf während des Kochens nicht zudecken.
 
 
 ## Quelle
