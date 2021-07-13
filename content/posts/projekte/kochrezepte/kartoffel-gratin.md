@@ -24,11 +24,11 @@ etwa 45 Minuten
 
 ## Zutaten
 
-1 kg Kartoffeln
-2 Joghurtbecher Vollrahm
-3 Handvoll geriebener Parmesan
-4 Prisen Salz
-2 Prisen Muskatnuss
+* 1 kg Kartoffeln
+* 2 Joghurtbecher Vollrahm
+* 3 Handvoll geriebener Parmesan
+* 4 Prisen Salz
+* 2 Prisen Muskatnuss
 
 ## Zubereitung
 * Den Ofen auf 180 Grad vorheizen.
