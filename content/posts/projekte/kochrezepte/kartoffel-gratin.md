@@ -39,8 +39,8 @@ etwa 45 Minuten
 
 
 ## Tipps
-* Der Joghurtbecher wird bei Philipp Berthoud als einfache Masseinheit genutzt. Dazu einfach einen normalen, sauberen Joghurtbecher (180 g) nehmen und füllen. 
-* Tipp von Philipp:  
+* Der Joghurtbecher wird bei Philippe Berthoud als einfache Masseinheit genutzt. Dazu einfach einen normalen, sauberen Joghurtbecher (180 g) nehmen und füllen. 
+* Tipp von Philippe:  
 Für dieses Rezept wird insgesamt etwa 120 g Parmesan gebraucht
 
 * Tipp von Liliane:  
