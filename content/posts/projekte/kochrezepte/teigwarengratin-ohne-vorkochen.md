@@ -42,7 +42,7 @@ etwa 10 Minuten
 
 
 ## Tipps
-* Der Joghurtbecher wird bei Philipp Berthoud als einfache Masseinheit genutzt. Dazu einfach einen normalen, sauberen Joghurtbecher (180 g) nehmen und füllen.   
+* Der Joghurtbecher wird bei Philippe Berthoud als einfache Masseinheit genutzt. Dazu einfach einen normalen, sauberen Joghurtbecher (180 g) nehmen und füllen.   
 
 * Den Topf während des Kochens nicht zudecken.
 
