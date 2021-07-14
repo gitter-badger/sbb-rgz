@@ -47,6 +47,6 @@ In Mehl, Ei und Paniermehl wenden und in Bratbutter 6 bis 8 Minuten goldgelb bra
 
 ## Quelle
 
-Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell A. Rh., Herisau
+Myrta Inauen, Vizepräsidentin der Landfrauenvereinigung Appenzell Ausserrrhoden
 
 </SpeechOutput>
