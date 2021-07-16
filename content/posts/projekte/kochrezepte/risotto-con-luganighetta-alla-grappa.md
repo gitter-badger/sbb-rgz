@@ -73,5 +73,5 @@ Die Luganiga besteht aus Schweinefleisch von Schulter und Bauch, nicht zu mager,
 
 ## Quelle
 
-L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate con Zschinsky.
+L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderata von Zschinsky.
 </SpeechOutput>
