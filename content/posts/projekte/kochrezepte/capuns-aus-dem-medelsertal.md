@@ -30,11 +30,11 @@ Cecilia Rey-Lutz
 ## Zutaten
 
 * 400 g Knöpfli-Teig (siehe unten)
-* 1 Tasse frische Käruter fein geschnitten (Schnittlauch, Peterli,
+* 1 Tasse frische Kräuter fein geschnitten (Schnittlauch, Peterli,
   Lauchspitzen), je 3-4 Blätter Pfefferminze und Salbei
 * 2 Landjäger ganz fein geschnitten
 * 1 halbe Tasse Sultaninen
-* etwa 10-12 Kraustil- oder Mangoldblätter (nur das Grünne verwenden)
+* etwa 10-12 Krautstil- oder Mangoldblätter (nur das Grüne verwenden)
 * etwas Gemüsebouillon
 * 1 dl Rahm oder Kaffeerahm für die Sauce
 * Reibkäse
@@ -53,13 +53,14 @@ Alles mischen und rühren/klopfen bis der Teil Blasen wirft.
 ### Füllung
 Kräuter, Landjäger und Sultaninen zum Knöpfli-Teig geben und gut durchrühren. Der Teig sollte fest sein, damit man ihn gut in die Blätter einwickeln kann. 
 
-Jeweils quadratische Blätter (ca. 6 x 6 cm) gross) aud dem Krautstiel oder Mangold schneiden und die Füllung darin einwickeln. 
+Jeweils quadratische Blätter (ca. 6 x 6 cm) gross) aus dem Krautstiel oder Mangold schneiden und die Füllung darin einwickeln. 
 
 ### Braten
 Die eingewickelten Capuns (ca. 3-5 cm lang) mit etwas Olivenöl in die Bratpfanne geben und rundum anbraten und anschliessend in eine Gratinform geben. 
 
-Den Fond mit Gemüsebouillon kurz aufkochen und etas Rahm oder Kaffeerahm beigeben. Die Sauce so über die Capuns in der Gratinform geben, mit geriebenen Käse bestreuen und in den vorgeheizten Backofen für 30 Min. auf mittlerem Feuer gratinieren.
+Den Fond mit Gemüsebouillon kurz aufkochen und etwas Rahm oder Kaffeerahm beigeben. Die Sauce so über die Capuns in der Gratinform geben, mit geriebenem Käse bestreuen und in den vorgeheizten Backofen für 30 Min. auf mittlerem Feuer gratinieren.
 
+## Tipps 
 Dazu passt - farblich gesehen - ein Tomatensalat.
 
 </SpeechOutput>
