@@ -47,5 +47,5 @@ Heute gehört eine Castagnata — ein gemeinschaftliches Verspeisen gerösteter 
 
 ## Quelle
 
-L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderate con Zschinsky
+L‘arte culinaria nel Ticino. Das Kochbuch aus dem Tessin. Autorin: Desiderata von Zschinsky
 </SpeechOutput>
