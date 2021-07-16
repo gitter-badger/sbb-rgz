@@ -32,7 +32,7 @@ etwa 45 Minuten
 
 ## Zubereitung
 * Den Ofen auf 180 Grad vorheizen.
-* Die Kartoffeln mit einer Bürste gut waschen und in nicht zu dünne scheiben schneiden.
+* Die Kartoffeln mit einer Bürste gut waschen und in nicht zu dünne Scheiben schneiden.
 * In einer grossen Schüssel sämtliche Zutaten – ausser der letzten Handvoll Parmesan – gut mischen.
 * Die Kartoffeln nun in eine Gratinform geben und mit der letzten Handvoll Parmesan mischen
 * Den Gratin in der Ofenmitte für 45 Minuten backen.
@@ -44,7 +44,7 @@ etwa 45 Minuten
 Für dieses Rezept wird insgesamt etwa 120 g Parmesan gebraucht
 
 * Tipp von Liliane:  
-Ich habe die Kartoffen nicht gewaschen sondern geschält.  
+Ich habe die Kartoffeln nicht gewaschen, sondern geschält.  
 Ich habe eine höhere Gratinform gewählt und alle Zutaten direkt in die Gratinform gegeben und gemischt. So brauchte ich keine zusätzliche Schüssel.  
 Mein Gratin hat etwa 55 Minuten gebraucht, bis die Kartoffeln weich waren
 
