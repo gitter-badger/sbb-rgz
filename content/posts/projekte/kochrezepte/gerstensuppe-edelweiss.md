@@ -30,9 +30,9 @@ ca. 50 Minuten
 ## Zutaten
 -	1-2 EL Butter
 -	2 Zwiebeln, fein gehackt 
--	2 Rüebli, geschält und in kleine Würfeli geschitten
+-	2 Rüebli, geschält und in kleine Würfeli geschnitten
 -	1 Lauchstängel, erst in schmale Ringe, dann in kleine Stücke geschnitten
--	1 Knollensellerie, mittel, geschält und in kleine Wüfeli geschnitten 
+-	1 Knollensellerie, mittel, geschält und in kleine Würfeli geschnitten 
 -	130 g Gerste, mittel
 -	75 g Borlotti-Bohnen, übernacht eingeweicht und anschliessend abgetropft
 -	50 g Rohschinkenwürfeli
@@ -44,11 +44,11 @@ ca. 50 Minuten
 
 ## Zubereitung
 
-Sämtliches Frischgemüse in Butter andünsten, Gersten dazugeben, ebenfalls das Trockenfleisch. Alles leicht mitdünsten. Mit Bouillon auffüllen. Ca. 40-50 Min. köcheln lassen, bis Geste und Bohnen weich sind. Abschmecken und mit dem Rahm verfeinern. Anrichten und mit Schnittlauch oder Peterli bestreuen. 
+Sämtliches Frischgemüse in Butter andünsten, Gersten dazugeben, ebenfalls die Rohschinken- und Bündnerfleischwürfeli. Alles leicht mitdünsten. Mit Bouillon auffüllen. Ca. 40-50 Min. köcheln lassen, bis Geste und Bohnen weich sind. Abschmecken und mit dem Rahm verfeinern. Anrichten und mit Schnittlauch oder Peterli bestreuen. 
 
 ## Tipps
 
-Dazu passen feines Bort und ev. ein feiner Schluck Rotwein.
+Dazu passen feines Brot und ev. ein feiner Schluck Rotwein.
 
 ## Quelle
 Ein Rezept der Schwiegermutter von Andres
