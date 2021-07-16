@@ -60,7 +60,7 @@ Walter Schmutz
 * Karotten und Sellerie schälen und in 2 cm grosse Würfel schneiden. 
 
 * Lauch, Kohl und Peperoni rüsten und ebenfalls in 2 cm grosse Stücke schneiden. 
-* Die Butter in einer Pfanne erhitzen. Das Gemüse beigeben, kurz andünsten, mit der Gemüsebouillon ablöschen, mit Salz und pfeffer würzen und zugedeckt knackig weichdämpfen. 
+* Die Butter in einer Pfanne erhitzen. Das Gemüse beigeben, kurz andünsten, mit der Gemüsebouillon ablöschen, mit Salz und Pfeffer würzen und zugedeckt knackig weichdämpfen. 
 * Das Fleisch in 2 cm grosse Würfel schneiden. 
 * Das Olivenöl in einer grossen Pfanne erhitzen, das Fleisch kurz darin anbraten, die Zwiebeln, den Knoblauch, die Zitronenschale, die Chilischoten und den Ingwer beifügen, mit Salz und Pfeffer würzen, kurz mitdünsten, mit dem Rotwein und der Fleischbouillon ablöschen und zugedeckt ca. 40 Minuten köcheln lassen. 
 * 3 dl Wasser aufkochen, leicht salzen, das Couscous einrieseln lassen, vom Feuer nehmen und zugedeckt ca. 5 Minuten ziehen lassen. 
