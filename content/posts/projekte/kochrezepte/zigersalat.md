@@ -29,9 +29,9 @@ Klaus Marthy
 ## Zubereitung
 
 1. Salat in feine Streifen schneiden  
-2. Geriebener Ziger auf den Salat geben 
+2. Geriebenen Ziger auf den Salat geben 
 3. Mit Salatsauce beträufeln und mit gerösteten Speckwürfeln bestreuen. 
-(French- oder italienischer Salatsauce) 
+(French- oder italienische Salatsauce) 
 
 ## Quelle
 
