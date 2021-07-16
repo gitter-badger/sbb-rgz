@@ -17,7 +17,7 @@ Liliane Schweizer
 
 ## Menge
 
-4 Personen
+4 Portionen
 
 ## Vorbereitungszeit
 
