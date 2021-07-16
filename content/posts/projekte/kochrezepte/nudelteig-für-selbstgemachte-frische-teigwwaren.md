@@ -122,7 +122,7 @@ voneinander.
 Mehl vermischen
 und bis zum
 Kochen auf
-Tüchern ausbreiten .
+Tüchern ausbreiten.
 ## Quelle
 Claudia Marazzi. "Kochen macht Spass. Das grosse Pasta Kochbuch". 
 
