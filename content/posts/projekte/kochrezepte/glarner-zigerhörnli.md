@@ -44,7 +44,7 @@ Wasser wird in einem passenden Kochtopf aufgekocht, gesalzen und die Hörnli dar
 
 In der Zwischenzeit werden die Zwiebeln geschält und in Streifen geschnitten, danach in wenig Butter in einer Pfanne hellbraun angeröstet. 
 
-Die Hörnli werden nach der Kochzeit zum Abtropfenin ein Sieb gegeben und mit etwas Olivenöl vermischt. 
+Die Hörnli werden nach der Kochzeit zum Abtropfen in ein Sieb gegeben und mit etwas Olivenöl vermischt. 
 
 Der Schabziger wird fein gerieben und dem Halbrahm beigefügt, mit Pfeffer und Muskat gewürzt. Danach wird die Mischung in einer passenden Pfanne erhitzt, bis sich der Schabziger gelöst hat. Eventuell wird die Mischung nochmals mit Pfeffer abgeschmeckt und dann werden die Hörnli dazugegeben. 
 
