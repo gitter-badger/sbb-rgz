@@ -33,7 +33,7 @@ Manuela Denzler
 * 8 Kalbs- oder Schweinmedaillons
 * 1 Knoblauchzehe
 * 500 g gehackte Pelati-Tomaten aus der Dose
-* 200 g Cruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln
+* 200 g Gruyère Reibkäse oder z.B. auch Tilsiter oder Fontina selber raffeln
 * 1 Handvoll Kapern
 * Olivenöl, Salz und Pfeffer
 
