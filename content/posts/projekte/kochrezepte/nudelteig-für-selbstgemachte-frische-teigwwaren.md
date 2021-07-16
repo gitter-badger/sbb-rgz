@@ -18,7 +18,7 @@ Bettina Prigge
 4 Portionen
 
 ## Zutaten
-* 300 g Mehl (z.B. Knöfplimehl, Pastamehl oder Vollkornmehl, ev. gemischt mit Buchweizenmehl)
+* 300 g Mehl (z.B. Knöpflimehl, Pastamehl oder Vollkornmehl, ev. gemischt mit Buchweizenmehl)
 * ½ Kl Salz
 * 3 Eier, verklopft 
 * ca. I EL Öl
