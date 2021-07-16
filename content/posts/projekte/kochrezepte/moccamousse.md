@@ -28,9 +28,9 @@ ca. 15 Minuten
 
 Schokolade in Wasserbad schmelzen.
 
-Alles mischen und mit Mixer schaumig sclagen.
+Alles mischen und mit Mixer schaumig schlagen.
 
-Bis zum servieren in den Kühlschrank stellen.
+Bis zum Servieren in den Kühlschrank stellen.
 
 
 </SpeechOutput>
