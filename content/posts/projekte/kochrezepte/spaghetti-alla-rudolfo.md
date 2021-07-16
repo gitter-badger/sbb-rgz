@@ -32,7 +32,7 @@ Helene Zimmermann
 - 1 Büchse Pelati Tomaten
 - 7 dL Wasser
 - 1 EL Bouillon
-- 2 EL Tomatenpüre
+- 2 EL Tomatenpüree
 - 1 EL Oregano oder Basilikum
 - 1 EL Zucker
 - 1 TL Salz
@@ -48,7 +48,7 @@ Helene Zimmermann
 •	Landjäger in kleine Würfel schneiden.  
 •	 1 EL Olivenöl in grosser Kochpfanne erhitzen.   
 •	Zwiebeln, Knoblauch und Landjäger dazugeben und andünsten.  
-•	Oregano oder Basilikum, Salz, Zucker und Tomatenpüre beigeben.  
+•	Oregano oder Basilikum, Salz, Zucker und Tomatenpüree beigeben.  
 •	Dies mit 1 dL Weisswein ablöschen und kurz einkochen lassen.  
 •	Pelati-Tomaten und 7 dL Wasser mit Bouillon hinzugeben.  
 •	1 TL der italienischen Gewürzmischung beigeben und umrühren.  
