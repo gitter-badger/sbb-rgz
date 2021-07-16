@@ -40,9 +40,14 @@ Cecilia Rey-Lutz
 
 ## Zubereitung
 
-In einer mittelgrossen Pfanne ca. 2 Liter Wasser zum Kochen bringen. 
+In einer mittelgrossen Pfanne ca. 2 Liter Wasser zum Kochen bringen.   
+In einer mittelgrossen Pfanne ca. 2 Liter Wasser zum Kochen bringen.   
+Siedfleisch, gut mit kaltem Wasser abgespült, und 1 Teelöffel Salz, Pfeffer und Lorbeerblätter in das Wasser geben.   
+Rollgerste abgespült und die eingeweichten Bohnen dazugeben.   
+Alles ca. 1 Stunde auf kleinem Feuer (nicht zugedeckt) köcheln lassen.   
+Danach alles Gemüse daruntergeben und nochmals 1 Stunde weiter köcheln.   
+Je nachdem noch nach eigenem Gusto abschmecken.
 
-Siedfleisch,  gut mit kaltem Wasser abgespült, und 1 Teelöffel Salz, Pfeffer und Lorbeerblätter reingeben. Rollgerste abgespült und die eingeweichten Bohnen dazugeben. Alles ca. 1 Stunde auf kleinem Feuer (nicht zugedeckt) köcheln lassen. Danach alles Gemüse daruntergeben und nochmals 1 Stunde weiter köcheln. Je nachdem noch nach eigenem Gusto abschmecken.
 
 ## Tipps
 
