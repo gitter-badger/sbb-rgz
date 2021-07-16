@@ -28,17 +28,17 @@ Adrienn Seifert - ein geheimes Rezept ihrer Mutter aus Ungarn
 - 4 Esslöffel Sonnenblumenöl
 - 2 gestrichener TL süsses Paprikapulver
 - 1,5 gestrichener TL Salz 
-- 1 gestrichener TL gemahlten Pfeffer 
+- 1 gestrichener TL gemahlenen Pfeffer 
 - 1 gestrichener TL ganz Kümmel
 - 1 Mokkalöffel scharfes Paprikapulver 
 - 3 Knoblauchzehen klein geschnitten 
-- 2 ungarische oder marokkanische Paprika (in der Migros heissen diese Cecei, sie sind pastel gelb) davon 1 kleingeschnitten auf das Fleisch, die zweite halbiert im Kochwasser verwenden
+- 2 ungarische oder marokkanische Paprika (in der Migros heissen diese "Cecei", sie sind pastellgelb) davon 1 kleingeschnitten auf das Fleisch, die zweite halbiert im Kochwasser verwenden
 - 2 l Wasser 
 - 1 Rindbouillonwürfel 
 - 2,5 TL milde Gulaschcreme (von Univer, im ungarischen Feinkostgeschäft oder bei Kaufland DE erhältlich)  
 - 2,5 TL scharfe Paprikacreme (Rotes Gold von Univer,  im ungarischen Feinkostgeschäft oder bei Kaufland DE erhältlich)  
 - 2 Karotten längs vierteln, dann in 2 cm grosse Würfel schneiden
-- 1 Pastinake oder Peterliwurzel, diese am dickeren Ende in Kreuzform einschneiden, sonst ganz lassen
+- 1 Pastinake oder Petersilienwurzel, diese am dickeren Ende in Kreuzform einschneiden, sonst ganz lassen
 - ¼ Kohlraben 
 - ¼ Sellerie
 - 1 EL Vegeta (in Migros erhältlich) oder 1 Stück Gemüsebouillonwürfel
