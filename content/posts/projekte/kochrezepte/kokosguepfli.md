@@ -23,7 +23,7 @@ Liliane Schweizer
 
 * 175 g Zucker
 * 2 Eier
-* 225 – 250 Kokosflocken
+* 225 – 250 g Kokosflocken
 
 ## Zubereitung
 
