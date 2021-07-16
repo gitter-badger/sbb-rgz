@@ -9,7 +9,7 @@ import { PlayButton } from "../../PlayButton"
 
 <SpeechOutput id="kochrezept-helene-zimmermann-risotto-mit-kaese" customPlayButton={PlayButton}>
 
-# Pilaw-Trockenreis 
+# Risotto mit Käse
 
 ## Rezept von
 
