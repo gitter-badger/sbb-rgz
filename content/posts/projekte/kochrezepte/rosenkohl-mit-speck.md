@@ -42,7 +42,7 @@ Liliane Schweizer
 ## Zubereitung
 
 1. Rosenkohl waschen und rüsten.
-1. In einer Pfanne auf niedriger Stufe ca. 5 – 10 Minuten dämpfen.
+1. Den Rosenkohl in  einer Pfanne auf niedriger Stufe ca. 5 – 10 Minuten dämpfen.
 1. Die Hälfte des Rosenkohls etwas abkühlen lassen, mit Speck umwickeln, mit einem Zahnstocher fixieren und in einer Gratinform zusammen mit dem restlichen Rosenkohl während ca. 10 Minuten bei 180 Grad goldbraun backen.
 1. Den Rosenkohl auf einem Teller anrichten, Bergkäse darauf hobeln und mit Peterli garnieren.
 
