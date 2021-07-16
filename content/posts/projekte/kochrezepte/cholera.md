@@ -60,7 +60,7 @@ Dazu passt ein grüner oder gemischter Salat und ein Walliser Weisswein.
 
 Selbstverständlich kann die Cholera auch ohne Speck zubereitet werden und schmeckt auch vegetarisch hervorragend. 
 
-Weshalb dieser Gemüse-Kuchen "Cholera" heisst, ist nicht ganz klar. Eine Erklärung ist, dass er aus einer Zeit stammt, in der im Wallis die Cholera ausgebrochen war und es verboten wurde, mit Lebensmitteln zu Handeln oder zu tauschen. Deshalb wurde die "Cholera" aus den vorhanden Resten im Haushalt zubereitet. 
+Weshalb dieser Gemüse-Kuchen "Cholera" heisst, ist nicht ganz klar. Eine Erklärung ist, dass er aus einer Zeit stammt, in der im Wallis die Cholera ausgebrochen war und es verboten wurde, mit Lebensmitteln zu Handeln oder zu tauschen. Deshalb wurde die "Cholera" aus den vorhandenen Resten im Haushalt zubereitet. 
 Möglicherweise heisst das Gericht aber auch so, weil es zum Backen in die Kohle gelegt wurde. Auf Walliserdeutsch "Chola" oder "Cholu". Zudem heisst der offene Vorraum im Backhaus, in dem die Kohlen gesammelt wurden, ebenfalls "Cholära".
 
  
