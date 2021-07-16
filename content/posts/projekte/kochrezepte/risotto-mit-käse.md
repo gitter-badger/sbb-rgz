@@ -31,7 +31,7 @@ Helene Zimmermann
 
 
 ## Zubereitung
-Zubereitung: Butter schmelzen, gehackte Zwiebeln und Knoblauch beigeben kurz andünsten. Risotto-Reis beigeben und alles glasig dünsten mit Weisswein ablöschen und der Bouillon aufgiessen. Einmal Aufkochen und danach auf kleiner Hitze (2) einkochen. Nach ca. 8 min denn Käse beigeben und mehrmals nach und nach umrühren. Zum Schluss noch Halbrahm beigeben, mit Salz und Pfeffer abschmecken, fertig kochen und servieren. 
+Zubereitung: Butter schmelzen, gehackte Zwiebeln und Knoblauch beigeben kurz andünsten. Risotto-Reis beigeben und alles glasig dünsten mit Weisswein ablöschen und der Bouillon aufgiessen. Einmal Aufkochen und danach auf kleiner Hitze (2) einkochen. Nach ca. 8 min den Käse beigeben und mehrmals nach und nach umrühren. Zum Schluss noch Halbrahm beigeben, mit Salz und Pfeffer abschmecken, fertig kochen und servieren. 
 
 Ä guätä 😋
 
