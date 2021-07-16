@@ -37,7 +37,7 @@ Marco Melchior
 ## Zubereitung
 
 Steinpilze am Vorabend in Wasser einlegen, vor dem Kochen abtropfen lassen.  
-Butter in der Pfanne erhitzen und die Zwiebeln andünsten. Reis dazugeben, kurz anbraten und mit Weisswein ablöschen. Die Bouillon in drei Portionen unter ständigem rühren dazugeben. Nach dem ersten Drittel den Fleischextrakt und die Pilze, nach dem zweiten Drittel den zuvor mit etwas Bouillon separat aufgelösten Safran dazugeben, wie auch das letzte Drittel Bouillon. 
+Butter in der Pfanne erhitzen und die Zwiebeln andünsten. Reis dazugeben, kurz anbraten und mit Weisswein ablöschen. Die Bouillon in drei Portionen unter ständigem Rühren dazugeben. Nach dem ersten Drittel den Fleischextrakt und die Pilze, nach dem zweiten Drittel den zuvor mit etwas Bouillon separat aufgelösten Safran dazugeben, wie auch das letzte Drittel Bouillon. 
 
 Garzeit bei generell mittlerer Hitze und ständigem Rühren ca. 18 - 20 Minuten. Achtung; der Reiss muss noch al dente sein! Am Schluss den Parmigiano und den Halbrahm einrühren und ein paar Minuten zugedeckt ziehen lassen. 
 
