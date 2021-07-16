@@ -21,7 +21,7 @@ Bettina Prigge
 * 300 g Mehl (z.B. Knöpflimehl, Pastamehl oder Vollkornmehl, ev. gemischt mit Buchweizenmehl)
 * ½ Kl Salz
 * 3 Eier, verklopft 
-* ca. I EL Öl
+* ca. 1 EL Öl
 * ev. 1-2 EL Wasser (je nach Eiergrösse)
 
 ## Zubereitung
@@ -59,7 +59,7 @@ oder 3 EI Randensaft beifügen
 #### Grüner Nudelteig
 dem Mehl 2-4 EI Spinat, gehackt beifügen
 #### Gelber Nudelteig 
-dem Mehl l Brieftein Safran oder
+dem Mehl 1 Brieflein Safran oder
 2 KL Curry mit 1 EL Öl angemacht beigeben
 #### Kräuternudelteig 
 dem Mehl 2-4 EI frische, feingehackte Kräuter beifügen
@@ -82,7 +82,7 @@ Die Kochzeit von frischen Teigwaren beträgt 3-5 Min.
 Als Mehl eignet sich Weizenmehl, Teigwarenmehl, Chnöpflimehl oder man mischt verschiedene Mehle
 (z.B. 150 g Weissmehl und 150 g Buchweizenmehl)
 
-Der Nudelteig kann auch ohne Eier gemacht werden (vegan). Dannn braucht es einfach mehr Wasser und Öl.
+Der Nudelteig kann auch ohne Eier gemacht werden (vegan). Dann braucht es einfach mehr Wasser und Öl.
 
 ### Nudelteig auswallen von Hand:
 - Teig in 4 Teile
@@ -105,7 +105,7 @@ locker umlegen.
 
 ### Nudeln schneiden:
 - 1 cm breit:
-Tagliate/le
+Tagliatelle
 - ½ cm breit:
 Fettuccine
 - 2 mm breit:
