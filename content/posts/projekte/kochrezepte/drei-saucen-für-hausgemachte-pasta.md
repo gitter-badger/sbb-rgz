@@ -28,7 +28,7 @@ Bettina Prigge
 - frischer Basilikum
 - Salz, Pfeffer
 - ev. einige schwarze Oliven, entsteint
-- ca. 50 g Pinienkemy
+- ca. 50 g Pinienkernen
 
 ### Zubereitung
 Zwiebel fein hacken und im Öl andünsten. 
@@ -66,7 +66,7 @@ Den Rahm dazurühren und aufkochen lassen.
 
 Parmesan, Eigelb, dazumischen, mit Salz und Pfeffer abschmecken und sofort mit der heissen Pasta mischen.
 
-Zitronenzesen darüberstreuen.
+Zitronenzesten darüberstreuen.
 
 </SpeechOutput>
 
