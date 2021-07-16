@@ -29,7 +29,7 @@ Vorspeise für 6-8 Personen
 ## Zubereitung
 Die Kichererbsen über Nacht in kaltem Wasser einweichen. Einweichwasser abgiessen, und die Kircherbsen mit frischem Wasser weich kochen. (Wenn Kichererbsen aus der Dose verwendet werden, entfällt dieser Schritt)
 
-Kichererbsen abtropfen lassen und das Wasser auffangen. Kichererbsen mit Knoblauchzehen, Tahina und Zitronensaft im Mixer fein pürieren, dabei etwa einen Viertelliter des augefangenen Wassers zugiessen. 
+Kichererbsen abtropfen lassen und das Wasser auffangen. Kichererbsen mit Knoblauchzehen, Tahina und Zitronensaft im Mixer fein pürieren, dabei etwa einen Viertelliter des aufgefangenen Wassers zugiessen. 
 
 Mit Salz abschmecken. 
 
