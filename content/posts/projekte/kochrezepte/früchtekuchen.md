@@ -17,7 +17,7 @@ Martina Schweizer
 
 ## Menge
 
-ca. 8 Stück
+ca. 12 Stück
 
 ## Vorbereitungszeit
 15 Minuten
