@@ -42,6 +42,7 @@ Kartoffeln, Lauch und Schinken oder Rippli in die ausgebutterte Form schichten.
 Alle Zutaten für den Guss verrühren und darüber giessen. Mit Käse bestreuen. 
 In der Mitte des auf 180°C vorgeheizten Ofens 45 - 50 Minuten gratinieren.  
 
+## Tipps
 Passt gut zu heisser Hamme, Wurst oder gebratenem Lamm. 
 
 Rotkraut oder Salat dazu servieren. 
