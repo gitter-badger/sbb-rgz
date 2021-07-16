@@ -28,7 +28,7 @@ Annemarie Heinze
 
 ## Zubereitung
 Saft von 3 Zitronen und abgeriebene Schale von 2 Zitronen, gezuckerte Kondensmilch
-und Naturjoghurt in eine Schü¨ssel geben und alles gut mischen.
+und Naturjoghurt in eine Schüssel geben und alles gut mischen.
 Danach den steifgeschlagenen Rahm unterziehen und 2-3 Stunden kühlstellen.
 
 E Gueta.
