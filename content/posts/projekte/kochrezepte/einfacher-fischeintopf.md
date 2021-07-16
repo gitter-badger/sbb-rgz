@@ -35,7 +35,7 @@ Walter Schmutz
 * 100 g Sellerieknolle 
 * 100 g Kohlrabi
 * 100 g Pastinake 
-* 100 g Petersielienwurzel 
+* 100 g Petersilienwurzel 
 * 100 g Lauch 
 * 60 g Wirz  
 * 100 g Kartoffeln (festkochend) 
@@ -47,13 +47,13 @@ Walter Schmutz
 * 1 EL Petersilie gehackt 
 * 1 EL Schnittlauch fein geschnitten 
 * Salz, Pfeffer aus der Mühle 
-* 100 g Créme fraiche 
+* 100 g Crème fraîche  
 * 1 Kaffeelöffel Meerrettich aus dem Glas 
 
 * 1 Kaffeelöffel frischer Dill gehackt 
 
 ## Zubereitung
-* Karotten, Sellerie, Kohlrabi Pastinake und Petersielenwurzel schälen und in Stäbchen schneiden. 
+* Karotten, Sellerie, Kohlrabi Pastinake und Petersilienwurzel schälen und in Stäbchen schneiden. 
 
 * Lauch und Wirz in Streifen schneiden. 
 
@@ -67,7 +67,7 @@ Walter Schmutz
 
 * Zugedeckt 3 bis 4 Minuten ziehen lassen. 
 
-* Die Créme fraiche in eine Schüssel geben, den Meerrettich dazugeben und mit Salz und Pfeffer würzen. 
+* Die Crème fraîche  in eine Schüssel geben, den Meerrettich dazugeben und mit Salz und Pfeffer würzen. 
 
 * Das Gemüse auf vorgewärmte Teller anrichten, die Fischstückchen darauf legen und mit Petersilie und Schnittlauch bestreuen. 
 
