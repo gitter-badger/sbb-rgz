@@ -73,7 +73,7 @@ Restlichen Teig daraufgeben.
 ### Backen: 
 Auf der untersten Rille des auf 180°C vorgeheizten Ofens 65-70 Minuten backen. 
 
-Herausnehmen, leicht auskühlen lassen. Aus der Form nehmen und auf einem Kuchengitter vollständig auskühlen lasseen. 
+Herausnehmen, leicht auskühlen lassen. Aus der Form nehmen und auf einem Kuchengitter vollständig auskühlen lassen. 
 
 ### Glasur 
 Alle Zutaten verrühren, über den Cake giessen, trocknen lassen. 
