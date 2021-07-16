@@ -46,7 +46,7 @@ Margrit Vollenweider
 
 * Auflaufform ausbuttern und bereitstellen.
 * Landjäger evtl. schälen und der Länge nach halbieren. Quer in feine Streifen schneiden.
-* Eiermilch vorbereiten mit 3 Eier und 1.5 – 2 dl Milch, würzen mit Salz und Pfeffer
+* Eiermilch vorbereiten: 3 Eier und 1.5 - 2 dl Milch mischen, mit Salz und Pfeffer würzen.
 * Lagenweise Teigwaren und Landjäger in die Auflaufform schickten. Abschliessen mit Teigwaren.
 * Geriebenen Käse auf der obersten Schicht verteilen.
 * Eiermilch über den Auflauf giessen.
