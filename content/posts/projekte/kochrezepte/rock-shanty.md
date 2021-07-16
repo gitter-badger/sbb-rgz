@@ -21,16 +21,16 @@ Obelix (Renzo Bachofen)
 
 ## Zutaten
 - Zitronenlimonade
-- Mineralwasser mit Kohlenseäure
+- Mineralwasser mit Kohlensäure
 - 1 Zitronenscheibe
-- 20 Tropfen Angostora bitter (erhältlich in grösseren Lebensmittelgeschäften)
+- 20 Tropfen Angostura bitter (erhältlich in grösseren Lebensmittelgeschäften)
 - Eiswürfel
 - 1 Röhrli
 
 
 ## Zubereitung
 Eiswürfel und Zitronenscheibe in ein Glas geben, die Hälfte des Glases nun mit Zitronenlimonade füllen und dann mit Mineralwasser auffüllen. Dann noch 20 Tropfen Angostura bitter zufügen.
-Das Röhrli hineingeben, umrühren und genissen. 
+Das Röhrli hineingeben, umrühren und geniessen. 
 
 ## Tipps
 Wenn es heiss ist, ist es sehr angenehm, dieses Getränk zu trinken
