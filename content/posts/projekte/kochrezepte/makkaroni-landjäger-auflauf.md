@@ -34,7 +34,7 @@ Margrit Vollenweider
 * 300 g gekochte Makkaroni oder Teigwaren-Reste vom Vortag
 * 2 Landjäger
 * Butter für die Auflaufform und für Butterflöckli als Abschluss
-* 100 g geriebenen Gruyere-Käse
+* 100 g geriebenen Gruyère-Käse
 * 3 Eier
 * 1,5 – 2 dl Milch
 * 2 Esslöffel Paniermehl
