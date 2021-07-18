@@ -44,7 +44,7 @@ ca. 50 Minuten
 
 ## Zubereitung
 
-Sämtliches Frischgemüse in Butter andünsten, Gersten dazugeben, ebenfalls die Rohschinken- und Bündnerfleischwürfeli. Alles leicht mitdünsten. Mit Bouillon auffüllen. Ca. 40-50 Min. köcheln lassen, bis Geste und Bohnen weich sind. Abschmecken und mit dem Rahm verfeinern. Anrichten und mit Schnittlauch oder Peterli bestreuen. 
+Sämtliches Frischgemüse in Butter andünsten, Gersten dazugeben, ebenfalls die Rohschinken- und Bündnerfleischwürfeli. Alles leicht mitdünsten. Mit Bouillon auffüllen. Ca. 40-50 Min. köcheln lassen, bis Gerste und Bohnen weich sind. Abschmecken und mit dem Rahm verfeinern. Anrichten und mit Schnittlauch oder Peterli bestreuen. 
 
 ## Tipps
 
