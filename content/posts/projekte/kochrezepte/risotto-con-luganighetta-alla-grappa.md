@@ -57,7 +57,7 @@ Ein gemischter Salat vorher, und ein wunderbares Tessineressen ist auf ihrem Tis
 
 Dazu passt ein roter Tessiner Merlot.
 
-Zum Dessert: Castagne con panna rnontata
+Zum Dessert: Castagne con panna montata
 
 ## Hintergrundwissen
 
