@@ -10,8 +10,8 @@ import { PlayButton } from "../PlayButton"
 
 # Hilfreiches
 
-* **[SBB-Kontaktformular für Reisende mit Handicap](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/eingeschraenkte-mobilitaet/barrierefreies-reisen/handicap/formular-handicap.html):** Ab sofort können sich Reisende mit Handicap über das Online-Kontaktformular schriftlich an das SBB Call Center Handicap wenden. Mit diesem Kontaktformular ist es möglich wahlweise entweder allgemeine Informationen zu erhalten oder eine Hilfestellung für eine Reise zu reservieren (12 Stunden im Voraus). Die Adresse mobil@sbb.ch wurde deaktiviert und ist nicht mehr in Betrieb. 
-Man kann das SBB Call Center Handicap weiterhin auch telefonisch unter der Gratisnummer 0800 007 102 (täglich von 06.00 bis 22.30 Uhr. Aus dem Ausland: +41 800 007 102) erreichen.
+* **[SBB-Kontaktformular für Reisende mit Handicap](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/eingeschraenkte-mobilitaet/barrierefreies-reisen/handicap/formular-handicap.html):** Reisende mit Handicap können sich über das **[Online-Kontaktformular] (https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/eingeschraenkte-mobilitaet/barrierefreies-reisen/handicap/formular-handicap.html)** schriftlich an das SBB Call Center Handicap wenden. Mit diesem Kontaktformular ist es möglich, wahlweise entweder allgemeine Informationen zu erhalten oder eine Hilfestellung für eine Reise zu reservieren (12 Stunden im Voraus). Die Adresse mobil@sbb.ch wurde deaktiviert und ist nicht mehr in Betrieb. 
+Man kann das SBB Call Center Handicap weiterhin auch telefonisch unter der Gratisnummer **0800 007 102** (täglich von 06.00 bis 22.30 Uhr. Aus dem Ausland: +41 800 007 102) erreichen.
  
 * **[Pinnwand des Schweizerischen Blindenbundes](https://www.blind.ch/aktuelles/pinnwand.html):** Hier können aktive Mitglieder Inserate, Aufrufe und Hilfeleistungen zu verschiedenen Themen publizieren. Schauen Sie es sich an. Interessiert Sie etwas davon oder können Sie auch selbst etwas anbieten? Dann melden Sie sich und machen Sie mit, denn dafür ist diese Pinnwand da!
 
