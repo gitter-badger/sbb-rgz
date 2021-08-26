@@ -88,7 +88,7 @@ export const KochbuchBestellenPageTemplate = ({
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'name'}>
+                  <label className="label" htmlFor={'strasseMitNr'}>
                     Strasse mit Nummer*
                   </label>
                   <div className="control">
@@ -103,7 +103,22 @@ export const KochbuchBestellenPageTemplate = ({
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'name'}>
+                  <label className="label" htmlFor={'plzOrt'}>
+                    PLZ und Ort*
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'text'}
+                      name={'plzOrt'}
+                      onChange={handleChange}
+                      id={'plzOrt'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={'anzahlSchwarzschriftexemplare'}>
                     Anzahl Schwarzschriftexemplare*
                   </label>
                   <div className="control">
@@ -118,7 +133,7 @@ export const KochbuchBestellenPageTemplate = ({
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'name'}>
+                  <label className="label" htmlFor={'anzahlBlindenschriftexemplare'}>
                     Anzahl Blindenschriftexemplare*
                   </label>
                   <div className="control">
