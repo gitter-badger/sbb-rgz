@@ -10,9 +10,9 @@ import { PlayButton } from "../PlayButton"
 
 # Kochbuch bestellen
 
-## Bestellablauf
+## Bestellung
 
-Das Kochbuch der Regionalgruppe Zürich ist nun für alle erhältlich. Jedes Aktivmitglied hat Anspruch auf ein Gratisexemplar (egal ob Blinden- oder Schwarzschrift).
-Ansonsten kostet ein Exemplar CHF 30.00. Bitte gebt im untenstehenden Formular eure Adresse an. Ihr erhält dann nebst dem Buch ein Einzahlungsschein für die Bezahlung (falls zutreffend).
+Das Kochbuch der RGZ ist nun für alle erhältlich. Jedes Aktivmitglied hat Anspruch auf ein Gratisexemplar (egal ob Blinden- oder Schwarzschrift).
+Ansonsten kostet ein Exemplar CHF 30.00. Bitte gebt im untenstehenden Formular eure Adresse an. Ihr erhält dann dem Buch beigelegt einen Einzahlungsschein (falls zutreffend).
 
 </SpeechOutput>
