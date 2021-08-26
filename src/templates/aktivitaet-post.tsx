@@ -58,14 +58,14 @@ export const AktivitaetPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <PostContent content={content} />            
-            <PhotoGallery photogallery={photogallery}/>
+            <PostContent content={content} />
+            <PhotoGallery photogallery={photogallery} />
             {anmeldeformularanzeigen &&
               <div>
                 <br />
                 <h2 className="title is-size-2">
                   Anmeldeformular
-              </h2>
+                </h2>
                 <form
                   name={date + '-' + title}
                   method="post"
@@ -85,7 +85,7 @@ export const AktivitaetPostTemplate = ({
                   <div className="field">
                     <label className="label" htmlFor={'name'}>
                       Name
-            </label>
+                    </label>
                     <div className="control">
                       <input
                         className="input"
@@ -100,7 +100,7 @@ export const AktivitaetPostTemplate = ({
                   <div className="field">
                     <label className="label" htmlFor={'email'}>
                       Email
-            </label>
+                    </label>
                     <div className="control">
                       <input
                         className="input"
@@ -115,7 +115,7 @@ export const AktivitaetPostTemplate = ({
                   <div className="field">
                     <label className="label" htmlFor={'bemerkung'}>
                       Bemerkung
-            </label>
+                    </label>
                     <div className="control">
                       <textarea
                         className="textarea"
@@ -129,7 +129,7 @@ export const AktivitaetPostTemplate = ({
                   <div className="field">
                     <button className="button" type="submit">
                       Anmelden
-            </button>
+                    </button>
                   </div>
                 </form>
               </div>
