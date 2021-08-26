@@ -89,7 +89,7 @@ export const KochbuchBestellenPageTemplate = ({
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email*
+                    Email
                   </label>
                   <div className="control">
                     <input
@@ -98,7 +98,6 @@ export const KochbuchBestellenPageTemplate = ({
                       name={'email'}
                       onChange={handleChange}
                       id={'email'}
-                      required={true}
                     />
                   </div>
                 </div>
