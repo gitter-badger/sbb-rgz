@@ -88,6 +88,21 @@ export const KochbuchBestellenPageTemplate = ({
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'email'}>
+                    Email*
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={'email'}
+                      name={'email'}
+                      onChange={handleChange}
+                      id={'email'}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={'strasseMitNr'}>
                     Strasse mit Nummer*
                   </label>
