@@ -162,6 +162,19 @@ export const KochbuchBestellenPageTemplate = ({
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={'bemerkung'}>
+                    Bemerkung
+                  </label>
+                  <div className="control">
+                    <textarea
+                      className="textarea"
+                      name={'bemerkung'}
+                      onChange={handleChange}
+                      id={'bemerkung'}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <button className="button" type="submit">
                     Kochbuch bestellen
                   </button>
