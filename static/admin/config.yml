@@ -114,7 +114,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}          
       - file: "content/posts/kochbuch-bestellen/index.md"
         label: "Startseite"
-        name: "index"
+        name: "kochbuch-bestellen"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Title", name: "title", widget: "string"}
