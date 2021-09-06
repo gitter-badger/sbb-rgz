@@ -12,7 +12,7 @@ import { PlayButton } from "../PlayButton"
 
 ## Bestellung
 
-Das Kochbuch der RGZ ist nun für alle erhältlich. Jedes Aktivmitglied hat Anspruch auf ein Gratisexemplar (egal ob Blinden- oder Schwarzschrift).
+Das Kochbuch der RGZ ist nun für alle erhältlich. Jedes Aktivmitglied und jedes Passivmitglied hat Anspruch auf ein Gratisexemplar (egal ob Braille- oder Schwarzschrift).
 Ansonsten kostet ein Exemplar CHF 30.00. Bitte gebt im untenstehenden Formular eure Adresse an. Ihr erhält dann dem Buch beigelegt einen Einzahlungsschein (falls zutreffend).
 
 </SpeechOutput>
