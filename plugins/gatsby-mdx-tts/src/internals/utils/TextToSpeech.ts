@@ -14,11 +14,17 @@ export class TextToSpeech {
     }
 
     async toAudio(): Promise<Buffer> {
+        await this.delay(250);
         const audio = await this.polly.synthesizeSpeech({
             OutputFormat: "mp3",
+            Engine: "neural",
             ...this.config
         }).promise();
         return audio.AudioStream! as Buffer;
+    }
+
+    delay(ms: number): Promise<void> {
+        return new Promise(resolve => setTimeout(resolve, ms));
     }
 
     async toSpeechMarks(): Promise<any> {
@@ -29,7 +35,7 @@ export class TextToSpeech {
         }).promise();
         const speechMarks = jsonData.AudioStream!.toString();
         return JSON.parse(
-          `[${speechMarks.replace(/\}\n\{/g, "},{")}]`
+            `[${speechMarks.replace(/\}\n\{/g, "},{")}]`
         );
     }
 }
