@@ -119,7 +119,7 @@ const generateFiles = async (
       hasTextChanged(speechMarks, speechOutputBlock.text)
       // TODO: also check if SpeechOutput props have changed!
     ) {
-      await delay(2000);
+      delay(2000);
       await generateTtsFiles(pluginOptions, speechOutputBlock, cache, reporter);
     }
 
