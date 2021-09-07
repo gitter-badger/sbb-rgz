@@ -30,9 +30,13 @@ const hasTextChanged = (speechMarksJson: any, freshText: string) => {
   return getHash(freshText) !== textHashInFile;
 };
 
-const delay = (ms: number): Promise<void> => {
-  return new Promise(resolve => setTimeout(resolve, ms));
-};
+const delay = (ms: number) => {
+  var start = Date.now(),
+    now = start;
+  while (now - start < ms) {
+    now = Date.now();
+  }
+}
 
 const generateTtsFiles = async (
   pluginOptions: PluginOptions,
@@ -68,7 +72,6 @@ const generateTtsFiles = async (
   reporter.info(
     `generating mp3 for SpeechOutput with ID: ${speechOutputBlock.id}`
   );
-  await delay(1000);
   const mp3Data = await tts.toAudio();
   await cache.set(
     getAudioCacheKey(speechOutputBlock.id),
@@ -77,7 +80,6 @@ const generateTtsFiles = async (
   reporter.info(
     `generating speech marks for SpeechOutput with ID: ${speechOutputBlock.id}`
   );
-  await delay(1000);
   const speechMarksJson = await tts.toSpeechMarks();
   // TODO: also check if SpeechOutput props have changed!
   const json = {
@@ -117,6 +119,7 @@ const generateFiles = async (
       hasTextChanged(speechMarks, speechOutputBlock.text)
       // TODO: also check if SpeechOutput props have changed!
     ) {
+      await delay(2000);
       await generateTtsFiles(pluginOptions, speechOutputBlock, cache, reporter);
     }
 
