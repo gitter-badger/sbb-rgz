@@ -72,6 +72,7 @@ const generateTtsFiles = async (
   reporter.info(
     `generating mp3 for SpeechOutput with ID: ${speechOutputBlock.id}`
   );
+  delay(250);
   const mp3Data = await tts.toAudio();
   await cache.set(
     getAudioCacheKey(speechOutputBlock.id),
@@ -80,6 +81,7 @@ const generateTtsFiles = async (
   reporter.info(
     `generating speech marks for SpeechOutput with ID: ${speechOutputBlock.id}`
   );
+  delay(250);
   const speechMarksJson = await tts.toSpeechMarks();
   // TODO: also check if SpeechOutput props have changed!
   const json = {
@@ -119,7 +121,6 @@ const generateFiles = async (
       hasTextChanged(speechMarks, speechOutputBlock.text)
       // TODO: also check if SpeechOutput props have changed!
     ) {
-      delay(2000);
       await generateTtsFiles(pluginOptions, speechOutputBlock, cache, reporter);
     }
 
