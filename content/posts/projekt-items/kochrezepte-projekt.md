@@ -1,7 +1,7 @@
 ---
 templateKey: projekt-item
 bild:
-  image: /uploads/projekte_kochen.jpg
+  image: /uploads/img_20210718_185733.jpg
   alt: Kochen
 title: RGZ-Kochbuch
 link: kochrezepte-projekt
