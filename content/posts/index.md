@@ -17,6 +17,6 @@ Geselligkeit und Erfahrungsaustausch sollen Motivation und Anstoss bei der Bewä
 
 Um in der aktuellen Situation neue Wege für Geselligkeit und Erfahrungsaustausch zu suchen, haben wir erste Erfahrungen mit Treffen via Zoom gesammelt. Einen Bericht über das letzte **[Zoom-Treffen vom 28. April 2021](https://www.rgz-blind.ch/aktivitaet-posts/2021-05-11-rgz-zoom-treffen-vom-28-04-2021/)** findet ihr unter Aktivitäten.
 
-Das Kochbuch der RGZ ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem [Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/).
+Das Kochbuch der RGZ ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
 </SpeechOutput>
