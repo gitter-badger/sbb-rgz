@@ -32,7 +32,6 @@ Liliane Schweizer
 1. Eier, Zucker und Schokoladepulver in einer Schüssel schaumig rühren.
 1. Mandeln und Maizena beigeben.
 1. 3 – 5 Minuten mit sehr guter Hitze (250 Grad) in der Mitte des vorgeheizten Ofens backen.
-1. Gehackte Kräuter, Schinken und Käse beigeben.
 1. Teig kühlstellen, bis er fest ist.
 1. Kugeln formen, auf ein Blech setzen und über Nacht trocknen lassen.
 1. Die Kugeln dürfen nur leicht springen.
