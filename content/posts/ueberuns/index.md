@@ -18,6 +18,8 @@ In Ergänzung zur Selbsthilfe sind kompetente Fachpersonen der Rehabilitation un
 
 ## Geschichte
 
-Dieser Abschnitt ist noch in Arbeit. 
+Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede zur Geschichte der RGZ geschrieben. Diese hat er den anwesenden Mitgliedern auf einer Zürichsee-Schifffahrt am 1. Februar 2020 in seinem schönen Walliser Dialekt vorgetragen. Mit seiner Erlaubnis veröffentlichen wir die Rede hiermit (um sie für Vorlesesoftware besser lesbar zu machen, wurde sie auf Hochdeutsch übersetzt): 
+
+
 
 </SpeechOutput>
