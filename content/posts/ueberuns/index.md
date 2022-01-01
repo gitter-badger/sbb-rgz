@@ -6,7 +6,7 @@ title: Über uns
 import SpeechOutput from "gatsby-mdx-tts/SpeechOutput"
 import { PlayButton } from "../PlayButton"
 
-<SpeechOutput id="ueberuns-page" customPlayButton={PlayButton}>
+<SpeechOutput id="ueberuns-page-teil1" customPlayButton={PlayButton}>
 
 # Über uns
 
@@ -15,6 +15,10 @@ Die Regionalgruppe Zürich (RGZ) ist eine der fünf Regionalgruppen des Schweize
 Die Kontakte zwischen den Mitgliedern und der damit verbundene Gedanken- und Erfahrungsaustausch sind für Anregungen zur Bewältigung des Alltags wertvoll. Die Mitglieder unterstützen sich gegenseitig im Sinne der Hilfe zur Selbsthilfe. Somit ist die RGZ Ort der Begegnung und des gegenseitigen Verstehens unter Expertinnen und Experten in eigener Sache.
 Die RGZ organisiert in den Regionen vielseitige Freizeitangebote für sehbehinderte und blinde Menschen in allen Lebensaltern. Gemeinsam werden kulturelle Anlässe besucht und die Geselligkeit gepflegt.
 In Ergänzung zur Selbsthilfe sind kompetente Fachpersonen der Rehabilitation und Sozialarbeit in unseren Beratungsstellen gerne für Sie und Ihre Angehörigen da (u.a. in Zürich, Schaffhausen und Uznach). 
+
+</SpeechOutput>
+
+<SpeechOutput id="ueberuns-page-teil2" customPlayButton={PlayButton}>
 
 ## Geschichte
 
@@ -34,6 +38,10 @@ Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede z
 
 *Hier kommt mir ein Slogan in den Sinn, der vor ein paar Jahren über der TWS-Aktion gestanden hat, nämlich «Vorsicht, Rücksicht, Nachsicht». Diesen Slogan hat die RGZ für sich über all die Jahre ernst genommen und er wird auch vom jetzigen Vorstand ernst genommen. Hier möchte ich dem Vorstand danken, dass er das, was ich falsch gemacht habe nicht mehr, und das was ich gut gemacht habe besser macht.*
 
+</SpeechOutput>
+
+<SpeechOutput id="ueberuns-page-teil3" customPlayButton={PlayButton}>
+
 # *Ein paar Schlaglichter aus der Vergangenheit*
 
 *In den sechziger-Jahren waren sicher die legendären Theater- und Unterhaltungsabende in der Stadt Zürich vor vollen Sälen eine Schlagzeile wert, wo alles, von der Musik bis zum Theater, bis zur Tombola von den Mitgliedern in Eigenregier über die Bühne gegangen ist.*
@@ -45,6 +53,10 @@ Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede z
 *Auch die Mitarbeit in anderen Organisationen, wie Pro Infirmis, Zentrum für Selbstbestimmtes Leben ZSL und anderen, stand bei der RGZ immer wieder auf der Traktandenliste.*
 
 *Im September 2000, zum 40-jährigen Bestehen der RGZ und der RGW, haben die beiden Regionalgruppen in Zürich ein zweitägiges Fest organisiert. 10 Jahre später hat die RGZ einen Gegenbesuch im Wallis gemacht und zusammen mit der Bevölkerung von Unterbäch zwei Tage lang gefeiert. Zur Deckung der Unkosten haben die Mitglieder der RGZ in ihrem Bekannten- und Verwandtenkreis einen sehr erfolgreiche Spendenaktion gestartet.*
+
+</SpeechOutput>
+
+<SpeechOutput id="ueberuns-page-teil4" customPlayButton={PlayButton}>
 
 # *Selbsthilfe und Inklusion*
 
@@ -60,6 +72,10 @@ Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede z
 
 *Bei allen Veranstaltungen ist die RGZ bemüht, gute Öffentlichkeitsarbeit zu machen. Ich bin froh, dass wir mit Janka Reimmann eine so engagierte Medienbeauftragte haben und danke ihr für den grossen Einsatz, den sie leistet.*
 
+</SpeechOutput>
+
+<SpeechOutput id="ueberuns-page-teil5" customPlayButton={PlayButton}>
+
 # *Noch ein kurzer Gedanke an die Mitglieder*
 
 *Nehmen Sie die Chance zur Auseinandersetzung mit der Behinderung in der Regionalgruppe wahr. Mischen Sie sich ein und überlassen Sie das Denken nicht Anderen.*
@@ -67,7 +83,5 @@ Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede z
 *Denn nur wer sein Schicksal in die eigenen Hände nimmt und selbständig und kreativ nach Verbesserungen sucht, wird auch als Behinderter ein selbstbewusstes und weitgehend unabhängiges Leben führen können.*
 
 *Nur so helfen Sie mit, dass die Regionalgruppe Zürich, dass der Schweizerische Blindenbund, eine starke Selbsthilfeorganisation ist und bleibt.*
-
-<!--EndFragment-->
 
 </SpeechOutput>
