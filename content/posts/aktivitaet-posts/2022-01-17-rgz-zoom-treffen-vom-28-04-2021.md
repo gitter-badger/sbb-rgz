@@ -3,10 +3,7 @@ templateKey: aktivitaet-post
 title: RGZ-Zoom-Treffen vom 28.04.2021
 shortdescription: Die RGZ führte am 10. Januar 2022 ein Zoom-Treffen durch.
 seodescription: Zoom-Treffen der RGZ vom 10.1.2022
-photogallery:
-  - bild:
-      image: /uploads/leben.jpg
-      alt: Acrylbild "Leben" von Hannelore Wartmann.
+photogallery: []
 date: 2022-01-17T16:34:54.361Z
 istArchiviert: false
 anmeldeformularanzeigen: false
