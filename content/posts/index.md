@@ -15,6 +15,6 @@ import { PlayButton } from "./PlayButton"
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
-**Delegierte gesucht!** Alle zwei Jahre werden die Delegierten der RGZ neu gewählt. 2022 ist es wieder so weit. durch eine Statutenänderung haben wir neu Anrecht auf 6 Delegierte, die an der Delegiertenversammlung des Schweizerischen Blindenbundes stimmberechtigt sind. Interessierte Aktivmitglieder können sich bis am 10. Dezember 2021 bei Helen Zimmermann melden; [helene.zimmermann@rgz-blind.ch](mailto:helene.zimmermann@rgz-blind.ch)
+Am **RGZ-Zoom-Treffen** vom 10. Januar 2022 hat uns Andres Denzler, unser langjährige Kassier, in die Welt der Modelleisenbahnen und des Torball eingeführt. Auch hat er uns sein Können auf dem Klavier eindrücklich zeigen können. Herzlichen Dank für diese wunderbaren Einblick in deine Hobbys! 
 
 </SpeechOutput>
