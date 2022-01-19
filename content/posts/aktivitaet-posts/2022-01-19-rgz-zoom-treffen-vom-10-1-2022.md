@@ -1,7 +1,7 @@
 ---
 templateKey: aktivitaet-post
 title: RGZ-Zoom-Treffen vom 10.1.2022
-shortdescription: RGZ-Zoom-Treffen vom 10.1.2022
+shortdescription: Die RGZ führte am 10. Januar 2022 ein Zoom-Treffen durch.
 seodescription: RGZ-Zoom-Treffen vom 10.1.2022
 date: 2022-01-19T09:08:34.489Z
 istArchiviert: false
