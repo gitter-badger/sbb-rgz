@@ -98,7 +98,7 @@ const extractSpeechOutputBlocks = (
   visit<Node>(
     mdxAst,
     isStartNode,
-    (startNode: Node, startNodeIndex: number, parent: Node |  undefined) => {
+    (startNode: Node, startNodeIndex: number, parent: Node) => {
       const relatedEndNode = findAfter(parent, startNode, isEndNode);
       const nodesToGetTextFrom = between((parent as Parent), startNode, relatedEndNode);
       const unfilteredText = nodesToGetTextFrom.map(getSsmlFromMdxAst).join("");

@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2017",
     "lib": ["dom", "es6"],
     "sourceMap": true,
+    "moduleResolution": "node",
     "jsx": "react",
     "noUnusedLocals": true,
     "forceConsistentCasingInFileNames": true,
@@ -19,7 +20,8 @@
     "noEmit": false,
     "noEmitOnError": true,
     "outDir": ".",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "module": "commonjs"
   },
   "include": ["./src/**/*"],
   "exclude": ["./node_modules/*", "./src/__tests__/**/*"]
