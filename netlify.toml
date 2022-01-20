@@ -5,6 +5,7 @@
 [build.environment]
   NODE_VERSION = "16"
 [[plugins]]
+package = "@netlify/plugin-gatsby"
 package = "netlify-plugin-a11y"
   # all inputs are optional, we just show you the defaults below
   [plugins.inputs]  
