@@ -55,6 +55,7 @@
     "clean": "gatsby clean",
     "develop": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && gatsby develop",
     "start": "npm run develop",
+    "preBuild": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../",
     "build": "cd plugins/gatsby-mdx-tts && npm i && npm run build && cd ../../ && gatsby build",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
