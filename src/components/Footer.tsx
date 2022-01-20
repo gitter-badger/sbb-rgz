@@ -70,7 +70,7 @@ const Footer = class extends React.Component {
           </div>
         </div>
         <div className="content has-text-centered">
-          <p>© RGZ - Schweizerischer Blindenbund 2021 | <Link className='impressum' to="/impressum/">Impressum</Link></p>
+          <p>© RGZ - Schweizerischer Blindenbund 2022 | <Link className='impressum' to="/impressum/">Impressum</Link></p>
         </div>
       </footer>
     )
