@@ -3,10 +3,6 @@
 /internals
 /node_modules
 
-/index.d.ts
-/index.d.ts.map
-/index.js
-/index.js.map
 /SpeechOutput.d.ts
 /SpeechOutput.d.ts.map
 /SpeechOutput.js
