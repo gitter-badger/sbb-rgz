@@ -13,7 +13,7 @@
     "eslint": "^8.7.0",
     "gatsby": "^4.5.4",
     "gatsby-image": "^3.11.0",
-    "gatsby-mdx-tts": "0.0.12",
+    "gatsby-mdx-tts": "file:./plugins/gatsby-mdx-tts",
     "gatsby-plugin-canonical-urls": "^4.5.0",
     "gatsby-plugin-catch-links": "^4.5.0",
     "gatsby-plugin-image": "^2.5.2",
