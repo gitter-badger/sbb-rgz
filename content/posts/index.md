@@ -11,7 +11,7 @@ import { PlayButton } from "./PlayButton"
 
 ## Aktuelles
 
-**Motto des Schweizerischen Blindenbundes 2021:** Geselligkeit und Erfahrungsaustausch sollen Motivation und Anstoss bei der Bewältigung der alltäglichen Schwierigkeiten sein.
+**Leitbild-Motto des Schweizerischen Blindenbundes 2022:** Wo wir an Grenzen unserer Möglichkeiten stossen, suchen wir die Zusammenarbeit mit Fachpersonen.
 
 Das **Kochbuch der RGZ** ist nun erhältlich. Vergesst nicht, euch ein Exemplar zu sichern mit diesem **[Bestellformular](https://www.rgz-blind.ch/kochbuch-bestellen/)**.
 
