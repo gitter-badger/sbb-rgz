@@ -14,6 +14,4 @@ Ein Video von Ruth Häuptli, wie Sie auf Ihrem Schwyzerörgeli spielt. Das Stüc
 
 `youtube: https://www.youtube-nocookie.com/embed/PW-Jr6wkyK8`
 
-[Video von Ruth Häuptli auf Ihrem Schwyzerörgeli](https://www.youtube-nocookie.com/embed/PW-Jr6wkyK8)
-
 </SpeechOutput>
