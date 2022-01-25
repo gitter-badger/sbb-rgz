@@ -1,7 +1,7 @@
 ---
 templateKey: aktivitaet-post
 title: 62. GV - schriftlich
-shortdescription: 62. GV der RGZ
+shortdescription: "Die 62. GV der RGZ findet erneut schriftlich statt. "
 seodescription: 61. GV der RGZ.
 date: 2022-03-12T17:13:33.490Z
 istArchiviert: false
@@ -16,7 +16,7 @@ import { PlayButton } from "../PlayButton"
 
 Die 61. GV der RGZ.
 
-Auch im 2022 führen wir die Generalversammlung der RGZ schriftlich durch. Dieser Entscheid ist uns nicht leicht gefallen. Die Unsicherheit, wie sich die Corona-Situation entwickelt, ist leider gross und wir möchten nicht kurzfristig doch noch alles absagen und neu organisieren müssen. 
+Auch im 2022 führen wir die Generalversammlung der RGZ erneut schriftlich durch. Dieser Entscheid ist uns nicht leicht gefallen. Die Unsicherheit, wie sich die Corona-Situation entwickelt, ist leider gross und wir möchten nicht kurzfristig doch noch alles absagen und neu organisieren müssen. 
 
 Die Mitglieder erhalten die Unterlagen Anfang Februar und die Auszählung findet am 12. März 2022 statt. 
 
