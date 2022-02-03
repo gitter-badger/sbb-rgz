@@ -12,7 +12,7 @@ import { PlayButton } from "../PlayButton"
 
 <SpeechOutput id="aktivitaet-gv-62" customPlayButton={PlayButton}>
 
-# 12.3.2022 – 61. GV - schriftlich
+# 12.3.2022 – 62. GV - schriftlich
 
 Die 61. GV der RGZ.
 
