@@ -22,6 +22,13 @@ Die Mitglieder erhalten die Unterlagen Anfang Februar und die Auszählung findet
 
 Um allfällige Fragen zur GV zu beantworten und uns miteinander auszutauschen, findet am 21. Februar von 18:30 bis ca. 20 Uhr eine offene Diskussion via Zoom statt. 
 
+
+**Zoom-Meeting beitreten:**
+https://us02web.zoom.us/j/86018127561?pwd=bU9Yc2JNU0JTOWE4QWF2TmhVTVNyQT09
+
+*Meeting-ID (Sitzungs-ID): 860 1812 7561  
+Kenncode (Meeting-Passcode): 400320*
+
 Über das untenstehende Anmeldeformular können vorgängig Fragen an den RGZ-Vorstand eingereicht werden. Selbstverständlich können diese aber auch spontan am Treffen gestellt werden. 
 
 Der Link zum Zoom-Meeting wird in Kürze hier publiziert. 
