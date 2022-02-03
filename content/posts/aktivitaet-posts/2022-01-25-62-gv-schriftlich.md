@@ -20,7 +20,7 @@ Auch im 2022 führen wir die Generalversammlung der RGZ erneut schriftlich durch
 
 Die Mitglieder erhalten die Unterlagen Anfang Februar und die Auszählung findet am 12. März 2022 statt. 
 
-Um allfällige Fragen zur GV zu beantworten und uns miteinander auszutauschen, findet am 21. Februar von 18:30 bis ca. 20 Uhr eine offene Diskussion via Zoom statt. 
+Um allfällige Fragen zur GV zu beantworten und uns miteinander auszutauschen, findet am 21. Februar von 18:30 bis ca. 20 Uhr eine offene Diskussion via Zoom statt. Bei dieser Gelegenheit wird sich auch Nicole Sourt Sánchez vorstellen, die sich für die Mitarbeit im Vorstand zur Verfügung stellt. 
 
 
 **[Zoom-Meeting beitreten](https://us02web.zoom.us/j/86018127561?pwd=bU9Yc2JNU0JTOWE4QWF2TmhVTVNyQT09)**
