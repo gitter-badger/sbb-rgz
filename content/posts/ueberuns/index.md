@@ -34,7 +34,7 @@ Zum 60-jährigen Jubiläum hat unser Ehrenpräsident, Richi Weissen, eine Rede z
 
 *Ich bin nach wie vor überzeugt: Die Selbsthilfe ist der beste Nährboden für neues Selbstvertrauen, für einen wertvollen Erfahrungsaustausch und alltagstaugliche Lebenshilfe. Grund genug, die Selbsthilfe zu pflegen und ihr Sorge zu tragen.*
 
-*Toleranz und Solidarität sind Eigenschaften, die uns helfen, glaubhaft für unsere besonderen Bedürfnisse einzustehen und die Verantwortlichen saus Politik und Wirtschaft für unsere Anliegen zu gewinnen.*
+*Toleranz und Solidarität sind Eigenschaften, die uns helfen, glaubhaft für unsere besonderen Bedürfnisse einzustehen und die Verantwortlichen aus Politik und Wirtschaft für unsere Anliegen zu gewinnen.*
 
 *Hier kommt mir ein Slogan in den Sinn, der vor ein paar Jahren über der TWS-Aktion gestanden hat, nämlich «Vorsicht, Rücksicht, Nachsicht». Diesen Slogan hat die RGZ für sich über all die Jahre ernst genommen und er wird auch vom jetzigen Vorstand ernst genommen. Hier möchte ich dem Vorstand danken, dass er das, was ich falsch gemacht habe nicht mehr, und das was ich gut gemacht habe besser macht.*
 
