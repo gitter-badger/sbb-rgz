@@ -159,6 +159,12 @@ module.exports = {
         siteUrl: `https://www.rgz-blind.ch`,
       },
     },
+    {
+      resolve: `gatsby-plugin-plausible`,
+      options: {
+        domain: `rgz-blind.ch`,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 }
