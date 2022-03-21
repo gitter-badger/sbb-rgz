@@ -5,7 +5,7 @@ bild:
   alt: Foto des Grossmünsters in Zürich
 title: Grossmünster - Reparatur des tastbaren Modells
 link: Grossmünster-Modell-Projekt
-beschreibung: "Das Tastbare Modell des Grossmünsters wurde repariert und steht
+beschreibung: "Das tastbare Modell des Grossmünsters wurde repariert und steht
   wieder auf dem Platz vor dem Grossmünster.  "
 reihenfolge: 3
 ---
